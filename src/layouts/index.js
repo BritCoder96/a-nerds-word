@@ -5,6 +5,7 @@ import Helmet from "react-helmet";
 import Search from "../pages/search"
 import "./index.css";
 import "../styles/layout-overide.css";
+import AdSense from 'react-adsense';
 
 import Media from "react-media";
 
@@ -59,8 +60,25 @@ const TemplateWrapper = ({ children }) => (
         { name: "description", content: "Bryan's Blog about all things nerdy." },
         { name: "keywords", content: "Blog, Magic, MTG, Software, Games, Anime, TV, Books," }
       ]}
+
     />
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
     <Header />
+    <AdSense.Google
+      client='ca-pub-7802158485711596'
+      slot='7806394673'
+      style={{ width: 200, height: 400, float: 'left' }}
+      format=''
+    />
+     
+    <AdSense.Google
+      client='ca-pub-7802158485711596'
+      slot='7806394673'
+      style={{ display: 'block' }}
+      layout='in-article'
+      format='fluid'
+    />
     <div
       style={{
         margin: "0 auto",
