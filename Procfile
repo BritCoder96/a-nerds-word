@@ -1,3 +1,3 @@
-web: yarn start --port ${PORT-:8000}
+web: npm start --port ${PORT-:8000}
 
 
