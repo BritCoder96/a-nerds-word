@@ -13,15 +13,14 @@ The raw emotions in the series are incredibly intense, and I have to say, these 
 
 However, if you're looking for a *good* set of books, pick these up. The worldbuilding alone is excellent, and so is everything else.
 
-The trilogy takes place on an earth-like planet called The Stillness, in which for thousands of years, major earthquakes have distrupted the progress of civilization, causing what is known as a Fifth Season every few decades. These seasons are devistating, wiping out whole communities and making survival difficult at best - not unlike the classic example of a nuclear winter, except caused by earthquake induced ash clouds and acid rain instead.
+The trilogy takes place on an earth-like planet called The Stillness, in which for thousands of years, major earthquakes have distrupted the progress of civilization, causing what is known as a Fifth Season every few decades. These seasons are devastating, wiping out whole communities and making survival difficult at best - not unlike the classic example of a nuclear winter, except caused by earthquake-induced ash clouds and acid rain instead.
 
-One of the only reasons humanity has survived so long in this kind of situation is the existance of people called orogenes. Orogenes have the ability to draw in  ambient energy to control the earth. In doing so, they create a torus, and area around them which usually becomes very cold, very fast due to the sudden lack of heat. They're universilly hated by most people, mostly because they can just as easily cause an earthquake as stop one.
+One of the only reasons humanity has survived for so long in this kind of situation is the existance of people called orogenes. Orogenes have the ability to draw in  ambient energy to control the earth. In doing so, they create a torus, an area around them which usually becomes very cold, very fast due to the sudden lack of heat. They're universally hated by most people, mainly because they can just as easily cause an earthquake as stop one.
 
-In order to keep the peace, orogenes are rounded up and taken to The Fulcrum, where they act as what could be considered well-treated slaves who are sent out to try and prevent fifth seasons, and to stop any other earth-related problems around the Stillness.
+In order to keep the peace, orogenes are rounded up and taken to The Fulcrum, where they act as what could be considered well-treated slaves who are sent out to try and prevent Fifth Seasons, and to stop any other earth-related problems around the Stillness.
 
 There's much more to the plot than that, and there's a lot I can't cover, including about the main character, due to spoilers.
 
-
-The writing in these books is sublime, but also surprisingly unique. The books take place in the present tense, which is rare enough as it is, but they also emply the first, second, and third person voices at various points. This is something I've almost never seen before, and yet Jemisin does it masterfully. It's a breath of fresh air from the regular style of writing you often see in fantasy.
+The writing in these books is sublime, but also surprisingly unique. The books take place in the present tense, which is rare enough as it is, but they also employ the first, second, and third person voices at various points. This is something I've almost never seen before, and yet Jemisin does it masterfully. It's a breath of fresh air from the regular style of writing you often see in fantasy.
 
 Anyway, that's my book review for today. I hope you enjoyed it, and see you next time!
