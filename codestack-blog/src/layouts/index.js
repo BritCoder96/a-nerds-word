@@ -117,6 +117,10 @@ const TemplateWrapper = ({ children }) => (
           )
         }
       </Media>
+      <footer>
+        <a href="https://www.facebook.com/bryan.benson.9634" target="_blank">Question, comments, concerns? Contact me on Facebook!</a>
+        <div>Copyright © 2018 Bryan Joshua Benson. All Rights Reserved.</div>
+      </footer>
     </div>
   </div>
 );
