@@ -1,4 +1,7 @@
 var plugins = [{
+      plugin: require('/home/bryan/a-nerds-word/node_modules/gatsby-plugin-google-analytics/gatsby-browser'),
+      options: {"plugins":[],"trackingId":"UA-72182085-2","head":false,"anonymize":true,"respectDNT":true,"exclude":["/preview/**","/do-not-track/me/too/"]},
+    },{
       plugin: require('/home/bryan/a-nerds-word/node_modules/gatsby-plugin-catch-links/gatsby-browser'),
       options: {"plugins":[]},
     }]

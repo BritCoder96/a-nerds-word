@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "018c31ac9670f256aeeda4b6996aa08b",
+        "contentDigest": "4df2f72813d01107e30f84bc051a868a",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -240,16 +240,19 @@
           "gatsby",
           "favicon"
         ],
-        "author": "Julien Blatecky <julien.blatecky@creatiwity.net>",
+        "author": {
+          "name": "Julien Blatecky",
+          "email": "julien.blatecky@creatiwity.net"
+        },
         "license": "MIT",
         "dependencies": [
           {
-            "name": "favicons-webpack-plugin",
-            "version": "0.0.7"
-          },
-          {
             "name": "babel-runtime",
             "version": "^6.26.0"
+          },
+          {
+            "name": "favicons-webpack-plugin",
+            "version": "0.0.7"
           }
         ],
         "devDependencies": [
@@ -321,7 +324,10 @@
           "search",
           "elastic lunr"
         ],
-        "author": "Andrew Smith <andrew@andrew.codes>",
+        "author": {
+          "name": "Andrew Smith",
+          "email": "andrew@andrew.codes"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -375,6 +381,78 @@
         "owner": "internal-data-bridge"
       }
     },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/home/bryan/a-nerds-word/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.31",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-72182085-2",
+        "head": false,
+        "anonymize": true,
+        "respectDNT": true,
+        "exclude": [
+          "/preview/**",
+          "/do-not-track/me/too/"
+        ]
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/bryan/a-nerds-word/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.31",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d8dbf54e65cf31a7a13d59cf73a79736",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "Plugin gatsby-plugin-react-helmet": {
       "resolve": "/home/bryan/a-nerds-word/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
@@ -410,7 +488,10 @@
           "noscript",
           "style"
         ],
-        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -472,7 +553,10 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -532,7 +616,10 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -632,7 +719,10 @@
           "markdown",
           "remark"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -746,7 +836,7 @@
       "resolve": "/home/bryan/a-nerds-word",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "79828f2fab498c7d4f5c061f3cd63b71",
+      "version": "ac5547a37fccc9152496ffd5b1dc2ab8",
       "pluginOptions": {
         "plugins": []
       },
@@ -781,6 +871,10 @@
           {
             "name": "gatsby-plugin-favicon",
             "version": "^2.1.1"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.31"
           },
           {
             "name": "gatsby-plugin-react-helmet",
@@ -820,7 +914,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a5ab2aae8d68d017154df3a3e8010e10",
+        "contentDigest": "e70d2747fa0d6083ab3e86e8a52a3afe",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -850,7 +944,10 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -912,12 +1009,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-24T19:50:39.818Z",
+      "buildTime": "2018-06-24T20:25:48.551Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6d2b4b80f618c0f5d5014ab9966cde81",
+        "contentDigest": "b03765f9cbeb62a79824ccd16e17599b",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1234,53 +1331,6 @@
       "ctime": "2018-06-24T18:48:44.024Z",
       "birthtime": "2018-06-24T18:48:44.024Z"
     },
-    "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file": {
-      "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file",
-      "children": [
-        "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "55216d514f1d50a2134198b5dd533e87",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"src/pages/06-24-2018-second-post/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md",
-      "relativePath": "06-24-2018-second-post/index.md",
-      "extension": "md",
-      "size": 2815,
-      "prettySize": "2.81 kB",
-      "modifiedTime": "2018-06-24T18:40:58.098Z",
-      "accessTime": "2018-06-24T18:50:49.422Z",
-      "changeTime": "2018-06-24T18:48:44.032Z",
-      "birthTime": "2018-06-24T18:48:44.032Z",
-      "root": "/",
-      "dir": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "06-24-2018-second-post",
-      "dev": 2053,
-      "mode": 33204,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 2379186,
-      "blocks": 8,
-      "atimeMs": 1529866249422.0576,
-      "mtimeMs": 1529865658098.025,
-      "ctimeMs": 1529866124032.3423,
-      "birthtimeMs": 1529866124032.3423,
-      "atime": "2018-06-24T18:50:49.422Z",
-      "mtime": "2018-06-24T18:40:58.098Z",
-      "ctime": "2018-06-24T18:48:44.032Z",
-      "birthtime": "2018-06-24T18:48:44.032Z"
-    },
     "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file": {
       "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file",
       "children": [
@@ -1288,7 +1338,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ba7eeed228cde7b2d00e5274f8537a35",
+        "contentDigest": "1236446c3392b8745d70c297cff47775",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/06-24-2018-first-post/index.md\"",
@@ -1298,12 +1348,12 @@
       "absolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md",
       "relativePath": "06-24-2018-first-post/index.md",
       "extension": "md",
-      "size": 873,
-      "prettySize": "873 B",
-      "modifiedTime": "2018-06-24T18:14:59.096Z",
-      "accessTime": "2018-06-24T18:50:49.422Z",
-      "changeTime": "2018-06-24T18:48:44.020Z",
-      "birthTime": "2018-06-24T18:48:44.020Z",
+      "size": 890,
+      "prettySize": "890 B",
+      "modifiedTime": "2018-06-24T20:04:14.759Z",
+      "accessTime": "2018-06-24T20:04:24.819Z",
+      "changeTime": "2018-06-24T20:04:14.759Z",
+      "birthTime": "2018-06-24T20:04:14.759Z",
       "root": "/",
       "dir": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post",
       "base": "index.md",
@@ -1319,23 +1369,70 @@
       "blksize": 4096,
       "ino": 2379183,
       "blocks": 8,
-      "atimeMs": 1529866249422.0576,
-      "mtimeMs": 1529864099095.848,
-      "ctimeMs": 1529866124020.342,
-      "birthtimeMs": 1529866124020.342,
-      "atime": "2018-06-24T18:50:49.422Z",
-      "mtime": "2018-06-24T18:14:59.096Z",
-      "ctime": "2018-06-24T18:48:44.020Z",
-      "birthtime": "2018-06-24T18:48:44.020Z"
+      "atimeMs": 1529870664818.8203,
+      "mtimeMs": 1529870654758.6921,
+      "ctimeMs": 1529870654758.6921,
+      "birthtimeMs": 1529870654758.6921,
+      "atime": "2018-06-24T20:04:24.819Z",
+      "mtime": "2018-06-24T20:04:14.759Z",
+      "ctime": "2018-06-24T20:04:14.759Z",
+      "birthtime": "2018-06-24T20:04:14.759Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file",
+      "children": [
+        "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b1ff2548a238fc011d22323bbcf52bc9",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/06-24-2018-second-post/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md",
+      "relativePath": "06-24-2018-second-post/index.md",
+      "extension": "md",
+      "size": 2818,
+      "prettySize": "2.82 kB",
+      "modifiedTime": "2018-06-24T20:03:30.822Z",
+      "accessTime": "2018-06-24T20:04:24.819Z",
+      "changeTime": "2018-06-24T20:03:30.822Z",
+      "birthTime": "2018-06-24T20:03:30.822Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "06-24-2018-second-post",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2379186,
+      "blocks": 8,
+      "atimeMs": 1529870664818.8203,
+      "mtimeMs": 1529870610822.134,
+      "ctimeMs": 1529870610822.134,
+      "birthtimeMs": 1529870610822.134,
+      "atime": "2018-06-24T20:04:24.819Z",
+      "mtime": "2018-06-24T20:03:30.822Z",
+      "ctime": "2018-06-24T20:03:30.822Z",
+      "birthtime": "2018-06-24T20:03:30.822Z"
     },
     "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark": {
       "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark",
       "children": [],
       "parent": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file",
       "internal": {
-        "content": "---\npath: \"/broken-earth\"\ndate: \"2018-06-24T17:00:00.962Z\"\ntitle: \"The Broken Earth Trilogy Review\"\ntags: [\"Book Review\", \"Fantasy\", \"Worldbuilding\"]\n---\n\nI've read a lot of science fiction and fantasy novels over the years, too many to go through in one post. So I'm going to start with the most recent one I really enjoyed, and go back from there.\n\nThe Broken Earth trilogy starts with [The Fifth Season](https://www.amazon.com/dp/B00H25FCSQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by N. K. Jemisin. It won a Hugo Award (the highest honor in science fiction literature, for those of you who don't know) in 2016, and for me, at least, that award was well deserved.\n\nThe raw emotions in the series are incredibly intense, and I have to say, these books are not for the faint of heart. A lot of terrible things happen to the main characters, so if you're looking for a cheery set of books, look elsewhere.\n\nHowever, if you're looking for a *good* set of books, pick these up. The worldbuilding alone is excellent, and so is everything else.\n\nThe trilogy takes place on an earth-like planet called The Stillness, in which for thousands of years, major earthquakes have distrupted the progress of civilization, causing what is known as a Fifth Season every few decades. These seasons are devistating, wiping out whole communities and making survival difficult at best - not unlike the classic example of a nuclear winter, except caused by earthquake induced ash clouds and acid rain instead.\n\nOne of the only reasons humanity has survived so long in this kind of situation is the existance of people called orogenes. Orogenes have the ability to draw in  ambient energy to control the earth. In doing so, they create a torus, and area around them which usually becomes very cold, very fast due to the sudden lack of heat. They're universilly hated by most people, mostly because they can just as easily cause an earthquake as stop one.\n\nIn order to keep the peace, orogenes are rounded up and taken to The Fulcrum, where they act as what could be considered well-treated slaves who are sent out to try and prevent fifth seasons, and to stop any other earth-related problems around the Stillness.\n\nThere's much more to the plot than that, and there's a lot I can't cover, including about the main character, due to spoilers.\n\n\nThe writing in these books is sublime, but also surprisingly unique. The books take place in the present tense, which is rare enough as it is, but they also emply the first, second, and third person voices at various points. This is something I've almost never seen before, and yet Jemisin does it masterfully. It's a breath of fresh air from the regular style of writing you often see in fantasy.\n\nAnyway, that's my book review for today. I hope you enjoyed it, and see you next time!",
+        "content": "---\npath: \"/broken-earth\"\ndate: \"2018-06-24T17:00:00.962Z\"\ntitle: \"The Broken Earth Trilogy Review\"\ntags: [\"Book Review\", \"Fantasy\", \"Worldbuilding\"]\n---\n\nI've read a lot of science fiction and fantasy novels over the years, too many to go through in one post. So I'm going to start with the most recent one I really enjoyed, and go back from there.\n\nThe Broken Earth trilogy starts with [The Fifth Season](https://www.amazon.com/dp/B00H25FCSQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by N. K. Jemisin. It won a Hugo Award (the highest honor in science fiction literature, for those of you who don't know) in 2016, and for me, at least, that award was well deserved.\n\nThe raw emotions in the series are incredibly intense, and I have to say, these books are not for the faint of heart. A lot of terrible things happen to the main characters, so if you're looking for a cheery set of books, look elsewhere.\n\nHowever, if you're looking for a *good* set of books, pick these up. The worldbuilding alone is excellent, and so is everything else.\n\nThe trilogy takes place on an earth-like planet called The Stillness, in which for thousands of years, major earthquakes have distrupted the progress of civilization, causing what is known as a Fifth Season every few decades. These seasons are devastating, wiping out whole communities and making survival difficult at best - not unlike the classic example of a nuclear winter, except caused by earthquake-induced ash clouds and acid rain instead.\n\nOne of the only reasons humanity has survived for so long in this kind of situation is the existance of people called orogenes. Orogenes have the ability to draw in  ambient energy to control the earth. In doing so, they create a torus, an area around them which usually becomes very cold, very fast due to the sudden lack of heat. They're universally hated by most people, mainly because they can just as easily cause an earthquake as stop one.\n\nIn order to keep the peace, orogenes are rounded up and taken to The Fulcrum, where they act as what could be considered well-treated slaves who are sent out to try and prevent Fifth Seasons, and to stop any other earth-related problems around the Stillness.\n\nThere's much more to the plot than that, and there's a lot I can't cover, including about the main character, due to spoilers.\n\nThe writing in these books is sublime, but also surprisingly unique. The books take place in the present tense, which is rare enough as it is, but they also employ the first, second, and third person voices at various points. This is something I've almost never seen before, and yet Jemisin does it masterfully. It's a breath of fresh air from the regular style of writing you often see in fantasy.\n\nAnyway, that's my book review for today. I hope you enjoyed it, and see you next time!",
         "type": "MarkdownRemark",
-        "contentDigest": "677476398caa24becf6867aa8d71581a",
+        "contentDigest": "d6eb4c77f536c835a244f90fc1528b8c",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -1351,32 +1448,17 @@
         "parent": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\nI've read a lot of science fiction and fantasy novels over the years, too many to go through in one post. So I'm going to start with the most recent one I really enjoyed, and go back from there.\n\nThe Broken Earth trilogy starts with [The Fifth Season](https://www.amazon.com/dp/B00H25FCSQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by N. K. Jemisin. It won a Hugo Award (the highest honor in science fiction literature, for those of you who don't know) in 2016, and for me, at least, that award was well deserved.\n\nThe raw emotions in the series are incredibly intense, and I have to say, these books are not for the faint of heart. A lot of terrible things happen to the main characters, so if you're looking for a cheery set of books, look elsewhere.\n\nHowever, if you're looking for a *good* set of books, pick these up. The worldbuilding alone is excellent, and so is everything else.\n\nThe trilogy takes place on an earth-like planet called The Stillness, in which for thousands of years, major earthquakes have distrupted the progress of civilization, causing what is known as a Fifth Season every few decades. These seasons are devistating, wiping out whole communities and making survival difficult at best - not unlike the classic example of a nuclear winter, except caused by earthquake induced ash clouds and acid rain instead.\n\nOne of the only reasons humanity has survived so long in this kind of situation is the existance of people called orogenes. Orogenes have the ability to draw in  ambient energy to control the earth. In doing so, they create a torus, and area around them which usually becomes very cold, very fast due to the sudden lack of heat. They're universilly hated by most people, mostly because they can just as easily cause an earthquake as stop one.\n\nIn order to keep the peace, orogenes are rounded up and taken to The Fulcrum, where they act as what could be considered well-treated slaves who are sent out to try and prevent fifth seasons, and to stop any other earth-related problems around the Stillness.\n\nThere's much more to the plot than that, and there's a lot I can't cover, including about the main character, due to spoilers.\n\n\nThe writing in these books is sublime, but also surprisingly unique. The books take place in the present tense, which is rare enough as it is, but they also emply the first, second, and third person voices at various points. This is something I've almost never seen before, and yet Jemisin does it masterfully. It's a breath of fresh air from the regular style of writing you often see in fantasy.\n\nAnyway, that's my book review for today. I hope you enjoyed it, and see you next time!",
+      "rawMarkdownBody": "\nI've read a lot of science fiction and fantasy novels over the years, too many to go through in one post. So I'm going to start with the most recent one I really enjoyed, and go back from there.\n\nThe Broken Earth trilogy starts with [The Fifth Season](https://www.amazon.com/dp/B00H25FCSQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by N. K. Jemisin. It won a Hugo Award (the highest honor in science fiction literature, for those of you who don't know) in 2016, and for me, at least, that award was well deserved.\n\nThe raw emotions in the series are incredibly intense, and I have to say, these books are not for the faint of heart. A lot of terrible things happen to the main characters, so if you're looking for a cheery set of books, look elsewhere.\n\nHowever, if you're looking for a *good* set of books, pick these up. The worldbuilding alone is excellent, and so is everything else.\n\nThe trilogy takes place on an earth-like planet called The Stillness, in which for thousands of years, major earthquakes have distrupted the progress of civilization, causing what is known as a Fifth Season every few decades. These seasons are devastating, wiping out whole communities and making survival difficult at best - not unlike the classic example of a nuclear winter, except caused by earthquake-induced ash clouds and acid rain instead.\n\nOne of the only reasons humanity has survived for so long in this kind of situation is the existance of people called orogenes. Orogenes have the ability to draw in  ambient energy to control the earth. In doing so, they create a torus, an area around them which usually becomes very cold, very fast due to the sudden lack of heat. They're universally hated by most people, mainly because they can just as easily cause an earthquake as stop one.\n\nIn order to keep the peace, orogenes are rounded up and taken to The Fulcrum, where they act as what could be considered well-treated slaves who are sent out to try and prevent Fifth Seasons, and to stop any other earth-related problems around the Stillness.\n\nThere's much more to the plot than that, and there's a lot I can't cover, including about the main character, due to spoilers.\n\nThe writing in these books is sublime, but also surprisingly unique. The books take place in the present tense, which is rare enough as it is, but they also employ the first, second, and third person voices at various points. This is something I've almost never seen before, and yet Jemisin does it masterfully. It's a breath of fresh air from the regular style of writing you often see in fantasy.\n\nAnyway, that's my book review for today. I hope you enjoyed it, and see you next time!",
       "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md"
-    },
-    "SearchIndex < Site": {
-      "id": "SearchIndex < Site",
-      "parent": "___SOURCE___",
-      "children": [],
-      "pages": [
-        "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark",
-        "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "internal": {
-        "type": "SiteSearchIndex",
-        "content": "\"/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark\"",
-        "contentDigest": "e56bf0deb216cc905b3b6cb416e7b923",
-        "owner": "@andrew-codes/gatsby-plugin-elasticlunr-search"
-      }
     },
     "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark": {
       "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark",
       "children": [],
       "parent": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file",
       "internal": {
-        "content": "---\npath: \"/hello-world\"\ndate: \"2018-06-24T13:00:00.962Z\"\ntitle: \"First!\"\ntags: [\"Intro\", \"Personal\", \"Life\"]\n------\nHi! My name's Bryan, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.\n\nI'll be using this blog to post about some of the things I love - namely, board games, Magic: The Gathering, anime, and sci-fi/fantasy literature and tv/movies.\n\nSome posts will end up being reviews of books/shows/movies/games/cards I really enjoyed, while others will be a more general description of something really interesting that I discovered or accomplished.\n\nI'm also currently working on my first novel, and once I'm nearing publication (hopefully soon), I'll be posting more about the journey.\n\nAs with most blogs, you can use the tags to look for related content.\n\nThanks so much for visiting, and welcome to A Nerd's Word.\n\n",
+        "content": "---\npath: \"/hello-world\"\ndate: \"2018-06-24T13:00:00.962Z\"\ntitle: \"First!\"\ntags: [\"Intro\", \"Personal\", \"Life\"]\n------\nHi! My name's Bryan, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.\n\nI'll be using this blog to post about some of the things I love - namely, board games, Magic: The Gathering, anime, and sci-fi/fantasy literature and tv/movies.\n\nSome posts will end up being reviews of books/shows/movies/games/cards I really enjoyed, while others will be a more general description of something really interesting that I discovered or accomplished.\n\nI'm also currently working on my first novel, and once I'm start getting closer to publication (hopefully soon), I'll be posting more about that journey.\n\nAs with most blogs, you can use the tags to look for related content.\n\nThanks so much for visiting, and welcome to A Nerd's Word.\n\n",
         "type": "MarkdownRemark",
-        "contentDigest": "2a1370a97d3cd043b04ca12e0e54ccb2",
+        "contentDigest": "b01ec07ef1a4188981b11cbcff4a941a",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -1392,8 +1474,23 @@
         "parent": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file"
       },
       "excerpt": "",
-      "rawMarkdownBody": "---\nHi! My name's Bryan, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.\n\nI'll be using this blog to post about some of the things I love - namely, board games, Magic: The Gathering, anime, and sci-fi/fantasy literature and tv/movies.\n\nSome posts will end up being reviews of books/shows/movies/games/cards I really enjoyed, while others will be a more general description of something really interesting that I discovered or accomplished.\n\nI'm also currently working on my first novel, and once I'm nearing publication (hopefully soon), I'll be posting more about the journey.\n\nAs with most blogs, you can use the tags to look for related content.\n\nThanks so much for visiting, and welcome to A Nerd's Word.\n\n",
+      "rawMarkdownBody": "---\nHi! My name's Bryan, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.\n\nI'll be using this blog to post about some of the things I love - namely, board games, Magic: The Gathering, anime, and sci-fi/fantasy literature and tv/movies.\n\nSome posts will end up being reviews of books/shows/movies/games/cards I really enjoyed, while others will be a more general description of something really interesting that I discovered or accomplished.\n\nI'm also currently working on my first novel, and once I'm start getting closer to publication (hopefully soon), I'll be posting more about that journey.\n\nAs with most blogs, you can use the tags to look for related content.\n\nThanks so much for visiting, and welcome to A Nerd's Word.\n\n",
       "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md"
+    },
+    "SearchIndex < Site": {
+      "id": "SearchIndex < Site",
+      "parent": "___SOURCE___",
+      "children": [],
+      "pages": [
+        "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark",
+        "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "internal": {
+        "type": "SiteSearchIndex",
+        "content": "\"/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark\"",
+        "contentDigest": "e56bf0deb216cc905b3b6cb416e7b923",
+        "owner": "@andrew-codes/gatsby-plugin-elasticlunr-search"
+      }
     },
     "SitePage /broken-earth": {
       "layout": "index",
@@ -1411,7 +1508,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ab7c686f8901f298a3c31db85b7f007b",
+        "contentDigest": "04f66ca75a161fc0d1ab1b199ea3f84d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1432,7 +1529,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8b17587e26d319f71b5c14f8ca4d78c6",
+        "contentDigest": "2bfce31eb1f3dacc50c59830a8ee93a9",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1455,7 +1552,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a4275e14570061f45821aa2424bf4d06",
+        "contentDigest": "518e02aa9ef62196934417a877c80adf",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1478,7 +1575,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ac47e7fccc386a447fa9019e69346283",
+        "contentDigest": "6cc4e5408f6240050adc9724d714e112",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1501,7 +1598,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8dc9ae7107d42f6f5e282dcc0cba0d35",
+        "contentDigest": "3bc8c3c3416c5c3c53fd299c664bfa1f",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1524,7 +1621,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7c9d254f77f3a62538130d5844467d2c",
+        "contentDigest": "4a80de9dc2fd7b3c69dfa672d15246a2",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1547,7 +1644,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b72971f126c7580880695ef02ebffbd5",
+        "contentDigest": "4e2b93451fc2c3439e13b530b3867ab6",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1570,7 +1667,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7275eaa5731e1d0c7757257ffbe7dd50",
+        "contentDigest": "a87f4d59661a026aa6f020fabb807aa7",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1591,7 +1688,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "397753e4a745228e329b5b10cae93df9",
+        "contentDigest": "6cd50689607fd176446cc5fdb8873a2c",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1612,7 +1709,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0cf5ef7c8a0a1e0209d156b88363904a",
+        "contentDigest": "c457e1ebf490a495f746d38a83cd9af2",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1633,7 +1730,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f8dd3a2bf0a9ba2d5f642651017fd96b",
+        "contentDigest": "c7c3b2b790ef563d6aba67b376174cc2",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1654,7 +1751,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5c9f302c386bfc0354b5ab16213373ed",
+        "contentDigest": "5dd073b976ec5c5fcb08f721570db84a",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1675,7 +1772,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "34ff75dc35b4faee86df884408d52475",
+        "contentDigest": "6ce1900e7bd185a5c133eadd59116748",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -1683,15 +1780,15 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "b80ae5c6f8097527a97b7f011e622543"
+    "PLUGINS_HASH": "c699ac0151780dc9976f415c489d9733"
   },
   "componentDataDependencies": {
     "nodes": {
-      "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark": [
-        "/hello-world"
-      ],
       "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark": [
         "/broken-earth"
+      ],
+      "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark": [
+        "/hello-world"
       ],
       "SearchIndex < Site": [
         "/search/"
