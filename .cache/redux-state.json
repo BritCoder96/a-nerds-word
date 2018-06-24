@@ -1,0 +1,1719 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/home/bryan/a-nerds-word/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/home/bryan/a-nerds-word/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7ca5ce3c77f0667adbb73c4658039446",
+        "description": "Plugin dev-404-page",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/home/bryan/a-nerds-word/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/bryan/a-nerds-word/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "024de2f63ea98c10416d53cb5e98b11e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/home/bryan/a-nerds-word/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/bryan/a-nerds-word/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "881a8431ce56af56bc71984b7bb00371",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/home/bryan/a-nerds-word/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/bryan/a-nerds-word/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fc3040886d6f9f440a2689f58d36652b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/home/bryan/a-nerds-word/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/bryan/a-nerds-word/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f0e350177429b3fd09f4b089ae7dc81e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/home/bryan/a-nerds-word/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/bryan/a-nerds-word/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "11f4d0084ea0dff8c7572a265a6c3f79",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-favicon": {
+      "resolve": "/home/bryan/a-nerds-word/node_modules/gatsby-plugin-favicon",
+      "id": "Plugin gatsby-plugin-favicon",
+      "name": "gatsby-plugin-favicon",
+      "version": "2.1.1",
+      "pluginOptions": {
+        "plugins": [],
+        "logo": "./favicon.png",
+        "injectHTML": true,
+        "icons": {
+          "android": true,
+          "appleIcon": true,
+          "appleStartup": true,
+          "coast": false,
+          "favicons": true,
+          "firefox": true,
+          "twitter": false,
+          "yandex": false,
+          "windows": false
+        }
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/bryan/a-nerds-word/node_modules/gatsby-plugin-favicon",
+      "packageJson": {
+        "name": "gatsby-plugin-favicon",
+        "description": "Gatsby plugin to add favicon for all configurations",
+        "version": "2.1.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "favicon"
+        ],
+        "author": "Julien Blatecky <julien.blatecky@creatiwity.net>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "favicons-webpack-plugin",
+            "version": "0.0.7"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-preset-env",
+            "version": "^1.6.1"
+          },
+          {
+            "name": "babel-preset-react",
+            "version": "^6.24.1"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bfc5e070910a956825f14e8618d81d44",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin @andrew-codes/gatsby-plugin-elasticlunr-search": {
+      "resolve": "/home/bryan/a-nerds-word/node_modules/@andrew-codes/gatsby-plugin-elasticlunr-search",
+      "id": "Plugin @andrew-codes/gatsby-plugin-elasticlunr-search",
+      "name": "@andrew-codes/gatsby-plugin-elasticlunr-search",
+      "version": "1.0.4",
+      "pluginOptions": {
+        "plugins": [],
+        "fields": [
+          "title",
+          "keywords"
+        ],
+        "resolvers": {
+          "MarkdownRemark": {}
+        }
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/bryan/a-nerds-word/node_modules/@andrew-codes/gatsby-plugin-elasticlunr-search",
+      "packageJson": {
+        "name": "@andrew-codes/gatsby-plugin-elasticlunr-search",
+        "description": "Search for gatsby; implemented via elastic lunr.",
+        "version": "1.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "lunr",
+          "search",
+          "elastic lunr"
+        ],
+        "author": "Andrew Smith <andrew@andrew.codes>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "elasticlunr",
+            "version": "^0.9.5"
+          },
+          {
+            "name": "graphql",
+            "version": "^0.11.7"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0-beta.32"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0-beta.32"
+          },
+          {
+            "name": "@babel/plugin-proposal-object-rest-spread",
+            "version": "^7.0.0-beta.32"
+          },
+          {
+            "name": "@babel/preset-env",
+            "version": "^7.0.0-beta.32"
+          },
+          {
+            "name": "eslint",
+            "version": "^4.12.1"
+          },
+          {
+            "name": "nps",
+            "version": "^5.7.1"
+          },
+          {
+            "name": "nps-utils",
+            "version": "^1.5.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0ae11392583d690dc479be256135e617",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/home/bryan/a-nerds-word/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/bryan/a-nerds-word/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "25231cfb84fe4e86af971e7236670be7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-catch-links": {
+      "resolve": "/home/bryan/a-nerds-word/node_modules/gatsby-plugin-catch-links",
+      "id": "Plugin gatsby-plugin-catch-links",
+      "name": "gatsby-plugin-catch-links",
+      "version": "1.0.24",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/bryan/a-nerds-word/node_modules/gatsby-plugin-catch-links",
+      "packageJson": {
+        "name": "gatsby-plugin-catch-links",
+        "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
+        "version": "1.0.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e95ad70e4dd6d72d02f51b6426e2bcc8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/home/bryan/a-nerds-word/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.39",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/home/bryan/a-nerds-word/src/pages",
+        "name": "pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/bryan/a-nerds-word/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.39",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d77811cd725c40875be63848a3474c03",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/home/bryan/a-nerds-word/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.44",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/bryan/a-nerds-word/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.44",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "abffd05b5b242c67b0e8858dba639adf",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/home/bryan/a-nerds-word",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "79828f2fab498c7d4f5c061f3cd63b71",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/bryan/a-nerds-word",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.273"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.40"
+          },
+          {
+            "name": "gatsby-plugin-catch-links",
+            "version": "^1.0.24"
+          },
+          {
+            "name": "gatsby-plugin-favicon",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.11"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.39"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.44"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-media",
+            "version": "^1.8.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@andrew-codes/gatsby-plugin-elasticlunr-search",
+            "version": "^1.0.4"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.12.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a5ab2aae8d68d017154df3a3e8010e10",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-page-creator": {
+      "resolve": "/home/bryan/a-nerds-word/node_modules/gatsby-plugin-page-creator",
+      "id": "Plugin gatsby-plugin-page-creator",
+      "name": "gatsby-plugin-page-creator",
+      "version": "1.0.1",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/home/bryan/a-nerds-word/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/bryan/a-nerds-word/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "1.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "aabbc854905808bd7e469da441e694b1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-06-24T18:50:47.675Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "464a13c19b1ea150bb23b4e6422919a6",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/home/bryan/a-nerds-word/src/pages absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b6ca46e974da97cd1435ad5a5d8f61d0",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-24T16:17:22.444Z",
+      "accessTime": "2018-06-24T18:48:44.096Z",
+      "changeTime": "2018-06-24T18:48:44.032Z",
+      "birthTime": "2018-06-24T18:48:44.032Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 4,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2379178,
+      "blocks": 8,
+      "atimeMs": 1529866124096.343,
+      "mtimeMs": 1529857042444.428,
+      "ctimeMs": 1529866124032.3423,
+      "birthtimeMs": 1529866124032.3423,
+      "atime": "2018-06-24T18:48:44.096Z",
+      "mtime": "2018-06-24T16:17:22.444Z",
+      "ctime": "2018-06-24T18:48:44.032Z",
+      "birthtime": "2018-06-24T18:48:44.032Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "75165dd0cb0a44eeb41e9985fb9eb17a",
+        "type": "Directory",
+        "description": "Directory \"src/pages/06-24-2018-first-post\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post",
+      "relativePath": "06-24-2018-first-post",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-24T02:06:51.028Z",
+      "accessTime": "2018-06-24T18:48:44.096Z",
+      "changeTime": "2018-06-24T18:48:44.024Z",
+      "birthTime": "2018-06-24T18:48:44.024Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages",
+      "base": "06-24-2018-first-post",
+      "ext": "",
+      "name": "06-24-2018-first-post",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2379182,
+      "blocks": 8,
+      "atimeMs": 1529866124096.343,
+      "mtimeMs": 1529806011027.504,
+      "ctimeMs": 1529866124024.342,
+      "birthtimeMs": 1529866124024.342,
+      "atime": "2018-06-24T18:48:44.096Z",
+      "mtime": "2018-06-24T02:06:51.028Z",
+      "ctime": "2018-06-24T18:48:44.024Z",
+      "birthtime": "2018-06-24T18:48:44.024Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4cb49b3976cabe0e5da9d5cd21a59c12",
+        "type": "Directory",
+        "description": "Directory \"src/pages/06-24-2018-second-post\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post",
+      "relativePath": "06-24-2018-second-post",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-24T02:06:51.028Z",
+      "accessTime": "2018-06-24T18:48:44.096Z",
+      "changeTime": "2018-06-24T18:48:44.032Z",
+      "birthTime": "2018-06-24T18:48:44.032Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages",
+      "base": "06-24-2018-second-post",
+      "ext": "",
+      "name": "06-24-2018-second-post",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2379185,
+      "blocks": 8,
+      "atimeMs": 1529866124096.343,
+      "mtimeMs": 1529806011027.504,
+      "ctimeMs": 1529866124032.3423,
+      "birthtimeMs": 1529866124032.3423,
+      "atime": "2018-06-24T18:48:44.096Z",
+      "mtime": "2018-06-24T02:06:51.028Z",
+      "ctime": "2018-06-24T18:48:44.032Z",
+      "birthtime": "2018-06-24T18:48:44.032Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/404.js absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8dcfadd97b40f20ccf752e278228ae47",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 403,
+      "prettySize": "403 B",
+      "modifiedTime": "2018-06-24T02:03:43.389Z",
+      "accessTime": "2018-06-24T18:48:44.008Z",
+      "changeTime": "2018-06-24T18:48:44.008Z",
+      "birthTime": "2018-06-24T18:48:44.008Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2379179,
+      "blocks": 8,
+      "atimeMs": 1529866124008.341,
+      "mtimeMs": 1529805823388.901,
+      "ctimeMs": 1529866124008.3418,
+      "birthtimeMs": 1529866124008.3418,
+      "atime": "2018-06-24T18:48:44.008Z",
+      "mtime": "2018-06-24T02:03:43.389Z",
+      "ctime": "2018-06-24T18:48:44.008Z",
+      "birthtime": "2018-06-24T18:48:44.008Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/search.js absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/search.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d0e8593c428c807127eb270c292c4d28",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/search.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/search.js",
+      "relativePath": "search.js",
+      "extension": "js",
+      "size": 1549,
+      "prettySize": "1.55 kB",
+      "modifiedTime": "2018-06-24T03:12:45.561Z",
+      "accessTime": "2018-06-24T18:48:44.016Z",
+      "changeTime": "2018-06-24T18:48:44.016Z",
+      "birthTime": "2018-06-24T18:48:44.016Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages",
+      "base": "search.js",
+      "ext": ".js",
+      "name": "search",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2379181,
+      "blocks": 8,
+      "atimeMs": 1529866124016.342,
+      "mtimeMs": 1529809965560.809,
+      "ctimeMs": 1529866124016.342,
+      "birthtimeMs": 1529866124016.342,
+      "atime": "2018-06-24T18:48:44.016Z",
+      "mtime": "2018-06-24T03:12:45.561Z",
+      "ctime": "2018-06-24T18:48:44.016Z",
+      "birthtime": "2018-06-24T18:48:44.016Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/index.js absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "16e8a82e5f88724628139d77301d841e",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 1089,
+      "prettySize": "1.09 kB",
+      "modifiedTime": "2018-06-24T16:06:39.192Z",
+      "accessTime": "2018-06-24T18:48:44.012Z",
+      "changeTime": "2018-06-24T18:48:44.012Z",
+      "birthTime": "2018-06-24T18:48:44.012Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2379180,
+      "blocks": 8,
+      "atimeMs": 1529866124012.341,
+      "mtimeMs": 1529856399191.868,
+      "ctimeMs": 1529866124012.342,
+      "birthtimeMs": 1529866124012.342,
+      "atime": "2018-06-24T18:48:44.012Z",
+      "mtime": "2018-06-24T16:06:39.192Z",
+      "ctime": "2018-06-24T18:48:44.012Z",
+      "birthtime": "2018-06-24T18:48:44.012Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/tags.js absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/tags.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bba2f800320bd61e9a3039e2287dd075",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/tags.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/tags.js",
+      "relativePath": "tags.js",
+      "extension": "js",
+      "size": 1418,
+      "prettySize": "1.42 kB",
+      "modifiedTime": "2018-06-24T03:28:13.072Z",
+      "accessTime": "2018-06-24T18:48:44.024Z",
+      "changeTime": "2018-06-24T18:48:44.024Z",
+      "birthTime": "2018-06-24T18:48:44.024Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages",
+      "base": "tags.js",
+      "ext": ".js",
+      "name": "tags",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2379184,
+      "blocks": 8,
+      "atimeMs": 1529866124024.342,
+      "mtimeMs": 1529810893072.223,
+      "ctimeMs": 1529866124024.342,
+      "birthtimeMs": 1529866124024.342,
+      "atime": "2018-06-24T18:48:44.024Z",
+      "mtime": "2018-06-24T03:28:13.072Z",
+      "ctime": "2018-06-24T18:48:44.024Z",
+      "birthtime": "2018-06-24T18:48:44.024Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file",
+      "children": [
+        "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ba7eeed228cde7b2d00e5274f8537a35",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/06-24-2018-first-post/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md",
+      "relativePath": "06-24-2018-first-post/index.md",
+      "extension": "md",
+      "size": 873,
+      "prettySize": "873 B",
+      "modifiedTime": "2018-06-24T18:14:59.096Z",
+      "accessTime": "2018-06-24T18:48:44.020Z",
+      "changeTime": "2018-06-24T18:48:44.020Z",
+      "birthTime": "2018-06-24T18:48:44.020Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "06-24-2018-first-post",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2379183,
+      "blocks": 8,
+      "atimeMs": 1529866124020.342,
+      "mtimeMs": 1529864099095.848,
+      "ctimeMs": 1529866124020.342,
+      "birthtimeMs": 1529866124020.342,
+      "atime": "2018-06-24T18:48:44.020Z",
+      "mtime": "2018-06-24T18:14:59.096Z",
+      "ctime": "2018-06-24T18:48:44.020Z",
+      "birthtime": "2018-06-24T18:48:44.020Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file",
+      "children": [
+        "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "55216d514f1d50a2134198b5dd533e87",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/06-24-2018-second-post/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md",
+      "relativePath": "06-24-2018-second-post/index.md",
+      "extension": "md",
+      "size": 2815,
+      "prettySize": "2.81 kB",
+      "modifiedTime": "2018-06-24T18:40:58.098Z",
+      "accessTime": "2018-06-24T18:48:44.028Z",
+      "changeTime": "2018-06-24T18:48:44.032Z",
+      "birthTime": "2018-06-24T18:48:44.032Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "06-24-2018-second-post",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2379186,
+      "blocks": 8,
+      "atimeMs": 1529866124028.342,
+      "mtimeMs": 1529865658098.025,
+      "ctimeMs": 1529866124032.3423,
+      "birthtimeMs": 1529866124032.3423,
+      "atime": "2018-06-24T18:48:44.028Z",
+      "mtime": "2018-06-24T18:40:58.098Z",
+      "ctime": "2018-06-24T18:48:44.032Z",
+      "birthtime": "2018-06-24T18:48:44.032Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/hello-world\"\ndate: \"2018-06-24T13:00:00.962Z\"\ntitle: \"First!\"\ntags: [\"Intro\", \"Personal\", \"Life\"]\n------\nHi! My name's Bryan, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.\n\nI'll be using this blog to post about some of the things I love - namely, board games, Magic: The Gathering, anime, and sci-fi/fantasy literature and tv/movies.\n\nSome posts will end up being reviews of books/shows/movies/games/cards I really enjoyed, while others will be a more general description of something really interesting that I discovered or accomplished.\n\nI'm also currently working on my first novel, and once I'm nearing publication (hopefully soon), I'll be posting more about the journey.\n\nAs with most blogs, you can use the tags to look for related content.\n\nThanks so much for visiting, and welcome to A Nerd's Word.\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "2a1370a97d3cd043b04ca12e0e54ccb2",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "First!",
+        "path": "/hello-world",
+        "date": "2018-06-24T13:00:00.962Z",
+        "tags": [
+          "Intro",
+          "Personal",
+          "Life"
+        ],
+        "_PARENT": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file",
+        "parent": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "---\nHi! My name's Bryan, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.\n\nI'll be using this blog to post about some of the things I love - namely, board games, Magic: The Gathering, anime, and sci-fi/fantasy literature and tv/movies.\n\nSome posts will end up being reviews of books/shows/movies/games/cards I really enjoyed, while others will be a more general description of something really interesting that I discovered or accomplished.\n\nI'm also currently working on my first novel, and once I'm nearing publication (hopefully soon), I'll be posting more about the journey.\n\nAs with most blogs, you can use the tags to look for related content.\n\nThanks so much for visiting, and welcome to A Nerd's Word.\n\n",
+      "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md"
+    },
+    "SearchIndex < Site": {
+      "id": "SearchIndex < Site",
+      "parent": "___SOURCE___",
+      "children": [],
+      "pages": [
+        "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark",
+        "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "internal": {
+        "type": "SiteSearchIndex",
+        "content": "\"/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark\"",
+        "contentDigest": "0b6d7ef97569b464a6dfa54a4254d693",
+        "owner": "@andrew-codes/gatsby-plugin-elasticlunr-search"
+      }
+    },
+    "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/broken-earth\"\ndate: \"2018-06-24T17:00:00.962Z\"\ntitle: \"The Broken Earth Trilogy Review\"\ntags: [\"Book Review\", \"Fantasy\", \"Worldbuilding\"]\n---\n\nI've read a lot of science fiction and fantasy novels over the years, too many to go through in one post. So I'm going to start with the most recent one I really enjoyed, and go back from there.\n\nThe Broken Earth trilogy starts with [The Fifth Season](https://www.amazon.com/dp/B00H25FCSQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by N. K. Jemisin. It won a Hugo Award (the highest honor in science fiction literature, for those of you who don't know) in 2016, and for me, at least, that award was well deserved.\n\nThe raw emotions in the series are incredibly intense, and I have to say, these books are not for the faint of heart. A lot of terrible things happen to the main characters, so if you're looking for a cheery set of books, look elsewhere.\n\nHowever, if you're looking for a *good* set of books, pick these up. The worldbuilding alone is excellent, and so is everything else.\n\nThe trilogy takes place on an earth-like planet called The Stillness, in which for thousands of years, major earthquakes have distrupted the progress of civilization, causing what is known as a Fifth Season every few decades. These seasons are devistating, wiping out whole communities and making survival difficult at best - not unlike the classic example of a nuclear winter, except caused by earthquake induced ash clouds and acid rain instead.\n\nOne of the only reasons humanity has survived so long in this kind of situation is the existance of people called orogenes. Orogenes have the ability to draw in  ambient energy to control the earth. In doing so, they create a torus, and area around them which usually becomes very cold, very fast due to the sudden lack of heat. They're universilly hated by most people, mostly because they can just as easily cause an earthquake as stop one.\n\nIn order to keep the peace, orogenes are rounded up and taken to The Fulcrum, where they act as what could be considered well-treated slaves who are sent out to try and prevent fifth seasons, and to stop any other earth-related problems around the Stillness.\n\nThere's much more to the plot than that, and there's a lot I can't cover, including about the main character, due to spoilers.\n\n\nThe writing in these books is sublime, but also surprisingly unique. The books take place in the present tense, which is rare enough as it is, but they also emply the first, second, and third person voices at various points. This is something I've almost never seen before, and yet Jemisin does it masterfully. It's a breath of fresh air from the regular style of writing you often see in fantasy.\n\nAnyway, that's my book review for today. I hope you enjoyed it, and see you next time!",
+        "type": "MarkdownRemark",
+        "contentDigest": "677476398caa24becf6867aa8d71581a",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "The Broken Earth Trilogy Review",
+        "path": "/broken-earth",
+        "date": "2018-06-24T17:00:00.962Z",
+        "tags": [
+          "Book Review",
+          "Fantasy",
+          "Worldbuilding"
+        ],
+        "_PARENT": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file",
+        "parent": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nI've read a lot of science fiction and fantasy novels over the years, too many to go through in one post. So I'm going to start with the most recent one I really enjoyed, and go back from there.\n\nThe Broken Earth trilogy starts with [The Fifth Season](https://www.amazon.com/dp/B00H25FCSQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by N. K. Jemisin. It won a Hugo Award (the highest honor in science fiction literature, for those of you who don't know) in 2016, and for me, at least, that award was well deserved.\n\nThe raw emotions in the series are incredibly intense, and I have to say, these books are not for the faint of heart. A lot of terrible things happen to the main characters, so if you're looking for a cheery set of books, look elsewhere.\n\nHowever, if you're looking for a *good* set of books, pick these up. The worldbuilding alone is excellent, and so is everything else.\n\nThe trilogy takes place on an earth-like planet called The Stillness, in which for thousands of years, major earthquakes have distrupted the progress of civilization, causing what is known as a Fifth Season every few decades. These seasons are devistating, wiping out whole communities and making survival difficult at best - not unlike the classic example of a nuclear winter, except caused by earthquake induced ash clouds and acid rain instead.\n\nOne of the only reasons humanity has survived so long in this kind of situation is the existance of people called orogenes. Orogenes have the ability to draw in  ambient energy to control the earth. In doing so, they create a torus, and area around them which usually becomes very cold, very fast due to the sudden lack of heat. They're universilly hated by most people, mostly because they can just as easily cause an earthquake as stop one.\n\nIn order to keep the peace, orogenes are rounded up and taken to The Fulcrum, where they act as what could be considered well-treated slaves who are sent out to try and prevent fifth seasons, and to stop any other earth-related problems around the Stillness.\n\nThere's much more to the plot than that, and there's a lot I can't cover, including about the main character, due to spoilers.\n\n\nThe writing in these books is sublime, but also surprisingly unique. The books take place in the present tense, which is rare enough as it is, but they also emply the first, second, and third person voices at various points. This is something I've almost never seen before, and yet Jemisin does it masterfully. It's a breath of fresh air from the regular style of writing you often see in fantasy.\n\nAnyway, that's my book review for today. I hope you enjoyed it, and see you next time!",
+      "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md"
+    },
+    "SitePage /broken-earth": {
+      "layout": "index",
+      "jsonName": "broken-earth.json",
+      "internalComponentName": "ComponentBrokenEarth",
+      "path": "/broken-earth",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /broken-earth",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e8ab9dfa47b44c18da0488a00f5bb8c9",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hello-world": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /hello-world",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b3c846af376bf857b1db4946f94973ee",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/book-review/": {
+      "layout": "index",
+      "jsonName": "tags-book-review.json",
+      "internalComponentName": "ComponentTagsBookReview",
+      "path": "/tags/book-review/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Book Review"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/book-review/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9c5e7a7390241bf7e2d1e7436bc6bbbc",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/fantasy/": {
+      "layout": "index",
+      "jsonName": "tags-fantasy.json",
+      "internalComponentName": "ComponentTagsFantasy",
+      "path": "/tags/fantasy/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Fantasy"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/fantasy/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "752a78b8f0335efd42e17752d0960011",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/worldbuilding/": {
+      "layout": "index",
+      "jsonName": "tags-worldbuilding.json",
+      "internalComponentName": "ComponentTagsWorldbuilding",
+      "path": "/tags/worldbuilding/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Worldbuilding"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/worldbuilding/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "670f21bf59413ded36a24b0f6f1c6a22",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/intro/": {
+      "layout": "index",
+      "jsonName": "tags-intro.json",
+      "internalComponentName": "ComponentTagsIntro",
+      "path": "/tags/intro/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Intro"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/intro/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7de8be0ff7c58dcaae88405f2a774ce8",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/personal/": {
+      "layout": "index",
+      "jsonName": "tags-personal.json",
+      "internalComponentName": "ComponentTagsPersonal",
+      "path": "/tags/personal/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Personal"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/personal/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b5e55eabc5dd383678bec3b7d1f9626f",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/life/": {
+      "layout": "index",
+      "jsonName": "tags-life.json",
+      "internalComponentName": "ComponentTagsLife",
+      "path": "/tags/life/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Life"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/life/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a161fa14e56f080ca55575dea87a9abf",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/home/bryan/a-nerds-word/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/bryan/a-nerds-word/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c3603feb8b1d66e59a4ffc01afb7914a",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/bryan/a-nerds-word/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/bryan/a-nerds-word/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "29d461a342adff79021687488bc89b5d",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /search/": {
+      "layout": "index",
+      "jsonName": "search.json",
+      "internalComponentName": "ComponentSearch",
+      "path": "/search/",
+      "component": "/home/bryan/a-nerds-word/src/pages/search.js",
+      "componentChunkName": "component---src-pages-search-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/bryan/a-nerds-word/src/pages/search.js",
+      "id": "SitePage /search/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e3e849e11c8b3931983276a7ddcbed33",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/": {
+      "layout": "index",
+      "jsonName": "tags.json",
+      "internalComponentName": "ComponentTags",
+      "path": "/tags/",
+      "component": "/home/bryan/a-nerds-word/src/pages/tags.js",
+      "componentChunkName": "component---src-pages-tags-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/bryan/a-nerds-word/src/pages/tags.js",
+      "id": "SitePage /tags/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "49b4c2d298eb6fac94b8664d6d9f296f",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/home/bryan/a-nerds-word/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/home/bryan/a-nerds-word/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0219c9cad9bfa1b7c5af95c24bcac4d4",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "20f0a6a02958ff02a2532505f35f48cb"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark": [
+        "/broken-earth"
+      ],
+      "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark": [
+        "/hello-world"
+      ],
+      "SearchIndex < Site": [
+        "/search/"
+      ],
+      "Site": [
+        "/tags/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/tags/book-review/",
+        "/tags/fantasy/",
+        "/tags/worldbuilding/",
+        "/tags/intro/",
+        "/tags/personal/",
+        "/tags/life/",
+        "/",
+        "/tags/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}

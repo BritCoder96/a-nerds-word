@@ -1,0 +1,72 @@
+Arguments: 
+  /usr/bin/node /usr/share/yarn/bin/yarn.js add gatsby-plugin-favicon
+
+PATH: 
+  /home/bryan/.rvm/gems/ruby-2.2.2/bin:/home/bryan/.rvm/gems/ruby-2.2.2@global/bin:/home/bryan/.rvm/rubies/ruby-2.2.2/bin:/home/bryan/bin:/home/bryan/.local/bin:/home/bryan/bin:/home/bryan/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/home/bryan/.rvm/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/home/bryan/.rvm/bin:/home/bryan/.rvm/bin
+
+Yarn version: 
+  1.7.0
+
+Node version: 
+  10.5.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/bryan/a-nerds-word/codestack-blog/package.json: Unexpected token { in JSON at position 874
+      at JSON.parse (<anonymous>)
+      at /usr/share/yarn/lib/cli.js:1130:59
+      at Generator.next (<anonymous>)
+      at step (/usr/share/yarn/lib/cli.js:98:30)
+      at /usr/share/yarn/lib/cli.js:109:13
+
+npm manifest: 
+  {
+    "name": "gatsby-starter-default",
+    "description": "Gatsby default starter",
+    "version": "1.0.0",
+    "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+    "dependencies": {
+      "gatsby": "^1.9.273",
+      "gatsby-link": "^1.6.40",
+      "gatsby-plugin-catch-links": "^1.0.24",
+      "gatsby-plugin-react-helmet": "^2.0.11",
+      "gatsby-source-filesystem": "^1.5.39",
+      "gatsby-transformer-remark": "^1.7.44",
+      "react-helmet": "^5.2.0",
+      "react-media": "^1.8.0"
+    },
+    "keywords": [
+      "gatsby"
+    ],
+    "license": "MIT",
+    "scripts": {
+      "build": "gatsby build",
+      "develop": "gatsby develop",
+      "format": "prettier --write 'src/**/*.js'",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+      "prettier": "^1.12.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    }
+    {
+  
+    // ...
+    "scripts": {
+      // ...
+      "heroku-postbuild": "gatsby build"
+      // ...
+    }
+    // ...
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
