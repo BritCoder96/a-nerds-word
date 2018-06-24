@@ -9,7 +9,6 @@ exports.layouts = {
 exports.components = {
   "component---src-templates-blog-post-js": preferDefault(require("/home/bryan/a-nerds-word/src/templates/blog-post.js")),
   "component---src-templates-tags-js": preferDefault(require("/home/bryan/a-nerds-word/src/templates/tags.js")),
-  "component---cache-dev-404-page-js": preferDefault(require("/home/bryan/a-nerds-word/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/home/bryan/a-nerds-word/src/pages/404.js")),
   "component---src-pages-index-js": preferDefault(require("/home/bryan/a-nerds-word/src/pages/index.js")),
   "component---src-pages-search-js": preferDefault(require("/home/bryan/a-nerds-word/src/pages/search.js")),
@@ -26,7 +25,6 @@ exports.json = {
   "tags-intro.json": require("/home/bryan/a-nerds-word/.cache/json/tags-intro.json"),
   "tags-personal.json": require("/home/bryan/a-nerds-word/.cache/json/tags-personal.json"),
   "tags-life.json": require("/home/bryan/a-nerds-word/.cache/json/tags-life.json"),
-  "dev-404-page.json": require("/home/bryan/a-nerds-word/.cache/json/dev-404-page.json"),
   "404.json": require("/home/bryan/a-nerds-word/.cache/json/404.json"),
   "index.json": require("/home/bryan/a-nerds-word/.cache/json/index.json"),
   "search.json": require("/home/bryan/a-nerds-word/.cache/json/search.json"),

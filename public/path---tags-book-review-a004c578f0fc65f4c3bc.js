@@ -1,0 +1,2 @@
+webpackJsonp([69793609057114],{373:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Broken Earth Trilogy Review",path:"/broken-earth"}}}]}},pathContext:{tag:"Book Review"}}}});
+//# sourceMappingURL=path---tags-book-review-a004c578f0fc65f4c3bc.js.map

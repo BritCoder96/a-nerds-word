@@ -1,0 +1,2 @@
+webpackJsonp([0xd1fb8b8005fd],{376:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"First!",path:"/hello-world"}}}]}},pathContext:{tag:"Life"}}}});
+//# sourceMappingURL=path---tags-life-4f8eb9117056ddead00d.js.map

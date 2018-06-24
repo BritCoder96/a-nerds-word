@@ -1,0 +1,2 @@
+webpackJsonp([0x84ad6eeac1f2],{374:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Broken Earth Trilogy Review",path:"/broken-earth"}}}]}},pathContext:{tag:"Fantasy"}}}});
+//# sourceMappingURL=path---tags-fantasy-bbe660abc40391a03f4b.js.map

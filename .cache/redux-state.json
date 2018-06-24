@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/home/bryan/a-nerds-word/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/home/bryan/a-nerds-word/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7ca5ce3c77f0667adbb73c4658039446",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -908,16 +898,14 @@
       "siteMetadata": {
         "title": "Gatsby Default Starter"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-24T18:50:47.675Z",
+      "buildTime": "2018-06-24T19:15:26.877Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "464a13c19b1ea150bb23b4e6422919a6",
+        "contentDigest": "78dd8b270b7e8bb4ca0499111011ee70",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1072,7 +1060,7 @@
       "size": 403,
       "prettySize": "403 B",
       "modifiedTime": "2018-06-24T02:03:43.389Z",
-      "accessTime": "2018-06-24T18:48:44.008Z",
+      "accessTime": "2018-06-24T18:50:49.422Z",
       "changeTime": "2018-06-24T18:48:44.008Z",
       "birthTime": "2018-06-24T18:48:44.008Z",
       "root": "/",
@@ -1090,59 +1078,14 @@
       "blksize": 4096,
       "ino": 2379179,
       "blocks": 8,
-      "atimeMs": 1529866124008.341,
+      "atimeMs": 1529866249422.0576,
       "mtimeMs": 1529805823388.901,
       "ctimeMs": 1529866124008.3418,
       "birthtimeMs": 1529866124008.3418,
-      "atime": "2018-06-24T18:48:44.008Z",
+      "atime": "2018-06-24T18:50:49.422Z",
       "mtime": "2018-06-24T02:03:43.389Z",
       "ctime": "2018-06-24T18:48:44.008Z",
       "birthtime": "2018-06-24T18:48:44.008Z"
-    },
-    "/home/bryan/a-nerds-word/src/pages/search.js absPath of file": {
-      "id": "/home/bryan/a-nerds-word/src/pages/search.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "d0e8593c428c807127eb270c292c4d28",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "description": "File \"src/pages/search.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/bryan/a-nerds-word/src/pages/search.js",
-      "relativePath": "search.js",
-      "extension": "js",
-      "size": 1549,
-      "prettySize": "1.55 kB",
-      "modifiedTime": "2018-06-24T03:12:45.561Z",
-      "accessTime": "2018-06-24T18:48:44.016Z",
-      "changeTime": "2018-06-24T18:48:44.016Z",
-      "birthTime": "2018-06-24T18:48:44.016Z",
-      "root": "/",
-      "dir": "/home/bryan/a-nerds-word/src/pages",
-      "base": "search.js",
-      "ext": ".js",
-      "name": "search",
-      "relativeDirectory": "",
-      "dev": 2053,
-      "mode": 33204,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 2379181,
-      "blocks": 8,
-      "atimeMs": 1529866124016.342,
-      "mtimeMs": 1529809965560.809,
-      "ctimeMs": 1529866124016.342,
-      "birthtimeMs": 1529866124016.342,
-      "atime": "2018-06-24T18:48:44.016Z",
-      "mtime": "2018-06-24T03:12:45.561Z",
-      "ctime": "2018-06-24T18:48:44.016Z",
-      "birthtime": "2018-06-24T18:48:44.016Z"
     },
     "/home/bryan/a-nerds-word/src/pages/index.js absPath of file": {
       "id": "/home/bryan/a-nerds-word/src/pages/index.js absPath of file",
@@ -1162,7 +1105,7 @@
       "size": 1089,
       "prettySize": "1.09 kB",
       "modifiedTime": "2018-06-24T16:06:39.192Z",
-      "accessTime": "2018-06-24T18:48:44.012Z",
+      "accessTime": "2018-06-24T18:50:49.422Z",
       "changeTime": "2018-06-24T18:48:44.012Z",
       "birthTime": "2018-06-24T18:48:44.012Z",
       "root": "/",
@@ -1180,14 +1123,59 @@
       "blksize": 4096,
       "ino": 2379180,
       "blocks": 8,
-      "atimeMs": 1529866124012.341,
+      "atimeMs": 1529866249422.0576,
       "mtimeMs": 1529856399191.868,
       "ctimeMs": 1529866124012.342,
       "birthtimeMs": 1529866124012.342,
-      "atime": "2018-06-24T18:48:44.012Z",
+      "atime": "2018-06-24T18:50:49.422Z",
       "mtime": "2018-06-24T16:06:39.192Z",
       "ctime": "2018-06-24T18:48:44.012Z",
       "birthtime": "2018-06-24T18:48:44.012Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/search.js absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/search.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d0e8593c428c807127eb270c292c4d28",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/search.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/search.js",
+      "relativePath": "search.js",
+      "extension": "js",
+      "size": 1549,
+      "prettySize": "1.55 kB",
+      "modifiedTime": "2018-06-24T03:12:45.561Z",
+      "accessTime": "2018-06-24T18:50:49.422Z",
+      "changeTime": "2018-06-24T18:48:44.016Z",
+      "birthTime": "2018-06-24T18:48:44.016Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages",
+      "base": "search.js",
+      "ext": ".js",
+      "name": "search",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2379181,
+      "blocks": 8,
+      "atimeMs": 1529866249422.0576,
+      "mtimeMs": 1529809965560.809,
+      "ctimeMs": 1529866124016.342,
+      "birthtimeMs": 1529866124016.342,
+      "atime": "2018-06-24T18:50:49.422Z",
+      "mtime": "2018-06-24T03:12:45.561Z",
+      "ctime": "2018-06-24T18:48:44.016Z",
+      "birthtime": "2018-06-24T18:48:44.016Z"
     },
     "/home/bryan/a-nerds-word/src/pages/tags.js absPath of file": {
       "id": "/home/bryan/a-nerds-word/src/pages/tags.js absPath of file",
@@ -1207,7 +1195,7 @@
       "size": 1418,
       "prettySize": "1.42 kB",
       "modifiedTime": "2018-06-24T03:28:13.072Z",
-      "accessTime": "2018-06-24T18:48:44.024Z",
+      "accessTime": "2018-06-24T18:50:49.422Z",
       "changeTime": "2018-06-24T18:48:44.024Z",
       "birthTime": "2018-06-24T18:48:44.024Z",
       "root": "/",
@@ -1225,61 +1213,14 @@
       "blksize": 4096,
       "ino": 2379184,
       "blocks": 8,
-      "atimeMs": 1529866124024.342,
+      "atimeMs": 1529866249422.0576,
       "mtimeMs": 1529810893072.223,
       "ctimeMs": 1529866124024.342,
       "birthtimeMs": 1529866124024.342,
-      "atime": "2018-06-24T18:48:44.024Z",
+      "atime": "2018-06-24T18:50:49.422Z",
       "mtime": "2018-06-24T03:28:13.072Z",
       "ctime": "2018-06-24T18:48:44.024Z",
       "birthtime": "2018-06-24T18:48:44.024Z"
-    },
-    "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file": {
-      "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file",
-      "children": [
-        "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "ba7eeed228cde7b2d00e5274f8537a35",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"src/pages/06-24-2018-first-post/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md",
-      "relativePath": "06-24-2018-first-post/index.md",
-      "extension": "md",
-      "size": 873,
-      "prettySize": "873 B",
-      "modifiedTime": "2018-06-24T18:14:59.096Z",
-      "accessTime": "2018-06-24T18:48:44.020Z",
-      "changeTime": "2018-06-24T18:48:44.020Z",
-      "birthTime": "2018-06-24T18:48:44.020Z",
-      "root": "/",
-      "dir": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "06-24-2018-first-post",
-      "dev": 2053,
-      "mode": 33204,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 2379183,
-      "blocks": 8,
-      "atimeMs": 1529866124020.342,
-      "mtimeMs": 1529864099095.848,
-      "ctimeMs": 1529866124020.342,
-      "birthtimeMs": 1529866124020.342,
-      "atime": "2018-06-24T18:48:44.020Z",
-      "mtime": "2018-06-24T18:14:59.096Z",
-      "ctime": "2018-06-24T18:48:44.020Z",
-      "birthtime": "2018-06-24T18:48:44.020Z"
     },
     "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file": {
       "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file",
@@ -1301,7 +1242,7 @@
       "size": 2815,
       "prettySize": "2.81 kB",
       "modifiedTime": "2018-06-24T18:40:58.098Z",
-      "accessTime": "2018-06-24T18:48:44.028Z",
+      "accessTime": "2018-06-24T18:50:49.422Z",
       "changeTime": "2018-06-24T18:48:44.032Z",
       "birthTime": "2018-06-24T18:48:44.032Z",
       "root": "/",
@@ -1319,55 +1260,61 @@
       "blksize": 4096,
       "ino": 2379186,
       "blocks": 8,
-      "atimeMs": 1529866124028.342,
+      "atimeMs": 1529866249422.0576,
       "mtimeMs": 1529865658098.025,
       "ctimeMs": 1529866124032.3423,
       "birthtimeMs": 1529866124032.3423,
-      "atime": "2018-06-24T18:48:44.028Z",
+      "atime": "2018-06-24T18:50:49.422Z",
       "mtime": "2018-06-24T18:40:58.098Z",
       "ctime": "2018-06-24T18:48:44.032Z",
       "birthtime": "2018-06-24T18:48:44.032Z"
     },
-    "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file",
-      "internal": {
-        "content": "---\npath: \"/hello-world\"\ndate: \"2018-06-24T13:00:00.962Z\"\ntitle: \"First!\"\ntags: [\"Intro\", \"Personal\", \"Life\"]\n------\nHi! My name's Bryan, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.\n\nI'll be using this blog to post about some of the things I love - namely, board games, Magic: The Gathering, anime, and sci-fi/fantasy literature and tv/movies.\n\nSome posts will end up being reviews of books/shows/movies/games/cards I really enjoyed, while others will be a more general description of something really interesting that I discovered or accomplished.\n\nI'm also currently working on my first novel, and once I'm nearing publication (hopefully soon), I'll be posting more about the journey.\n\nAs with most blogs, you can use the tags to look for related content.\n\nThanks so much for visiting, and welcome to A Nerd's Word.\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "2a1370a97d3cd043b04ca12e0e54ccb2",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "First!",
-        "path": "/hello-world",
-        "date": "2018-06-24T13:00:00.962Z",
-        "tags": [
-          "Intro",
-          "Personal",
-          "Life"
-        ],
-        "_PARENT": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file",
-        "parent": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "---\nHi! My name's Bryan, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.\n\nI'll be using this blog to post about some of the things I love - namely, board games, Magic: The Gathering, anime, and sci-fi/fantasy literature and tv/movies.\n\nSome posts will end up being reviews of books/shows/movies/games/cards I really enjoyed, while others will be a more general description of something really interesting that I discovered or accomplished.\n\nI'm also currently working on my first novel, and once I'm nearing publication (hopefully soon), I'll be posting more about the journey.\n\nAs with most blogs, you can use the tags to look for related content.\n\nThanks so much for visiting, and welcome to A Nerd's Word.\n\n",
-      "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md"
-    },
-    "SearchIndex < Site": {
-      "id": "SearchIndex < Site",
-      "parent": "___SOURCE___",
-      "children": [],
-      "pages": [
-        "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark",
-        "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark"
+    "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file",
+      "children": [
+        "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark"
       ],
+      "parent": "___SOURCE___",
       "internal": {
-        "type": "SiteSearchIndex",
-        "content": "\"/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark\"",
-        "contentDigest": "0b6d7ef97569b464a6dfa54a4254d693",
-        "owner": "@andrew-codes/gatsby-plugin-elasticlunr-search"
-      }
+        "contentDigest": "ba7eeed228cde7b2d00e5274f8537a35",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/06-24-2018-first-post/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md",
+      "relativePath": "06-24-2018-first-post/index.md",
+      "extension": "md",
+      "size": 873,
+      "prettySize": "873 B",
+      "modifiedTime": "2018-06-24T18:14:59.096Z",
+      "accessTime": "2018-06-24T18:50:49.422Z",
+      "changeTime": "2018-06-24T18:48:44.020Z",
+      "birthTime": "2018-06-24T18:48:44.020Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "06-24-2018-first-post",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2379183,
+      "blocks": 8,
+      "atimeMs": 1529866249422.0576,
+      "mtimeMs": 1529864099095.848,
+      "ctimeMs": 1529866124020.342,
+      "birthtimeMs": 1529866124020.342,
+      "atime": "2018-06-24T18:50:49.422Z",
+      "mtime": "2018-06-24T18:14:59.096Z",
+      "ctime": "2018-06-24T18:48:44.020Z",
+      "birthtime": "2018-06-24T18:48:44.020Z"
     },
     "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark": {
       "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark",
@@ -1395,6 +1342,47 @@
       "rawMarkdownBody": "\nI've read a lot of science fiction and fantasy novels over the years, too many to go through in one post. So I'm going to start with the most recent one I really enjoyed, and go back from there.\n\nThe Broken Earth trilogy starts with [The Fifth Season](https://www.amazon.com/dp/B00H25FCSQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by N. K. Jemisin. It won a Hugo Award (the highest honor in science fiction literature, for those of you who don't know) in 2016, and for me, at least, that award was well deserved.\n\nThe raw emotions in the series are incredibly intense, and I have to say, these books are not for the faint of heart. A lot of terrible things happen to the main characters, so if you're looking for a cheery set of books, look elsewhere.\n\nHowever, if you're looking for a *good* set of books, pick these up. The worldbuilding alone is excellent, and so is everything else.\n\nThe trilogy takes place on an earth-like planet called The Stillness, in which for thousands of years, major earthquakes have distrupted the progress of civilization, causing what is known as a Fifth Season every few decades. These seasons are devistating, wiping out whole communities and making survival difficult at best - not unlike the classic example of a nuclear winter, except caused by earthquake induced ash clouds and acid rain instead.\n\nOne of the only reasons humanity has survived so long in this kind of situation is the existance of people called orogenes. Orogenes have the ability to draw in  ambient energy to control the earth. In doing so, they create a torus, and area around them which usually becomes very cold, very fast due to the sudden lack of heat. They're universilly hated by most people, mostly because they can just as easily cause an earthquake as stop one.\n\nIn order to keep the peace, orogenes are rounded up and taken to The Fulcrum, where they act as what could be considered well-treated slaves who are sent out to try and prevent fifth seasons, and to stop any other earth-related problems around the Stillness.\n\nThere's much more to the plot than that, and there's a lot I can't cover, including about the main character, due to spoilers.\n\n\nThe writing in these books is sublime, but also surprisingly unique. The books take place in the present tense, which is rare enough as it is, but they also emply the first, second, and third person voices at various points. This is something I've almost never seen before, and yet Jemisin does it masterfully. It's a breath of fresh air from the regular style of writing you often see in fantasy.\n\nAnyway, that's my book review for today. I hope you enjoyed it, and see you next time!",
       "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md"
     },
+    "SearchIndex < Site": {
+      "id": "SearchIndex < Site",
+      "parent": "___SOURCE___",
+      "children": [],
+      "pages": [
+        "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark",
+        "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "internal": {
+        "type": "SiteSearchIndex",
+        "content": "\"/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark\"",
+        "contentDigest": "e56bf0deb216cc905b3b6cb416e7b923",
+        "owner": "@andrew-codes/gatsby-plugin-elasticlunr-search"
+      }
+    },
+    "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/hello-world\"\ndate: \"2018-06-24T13:00:00.962Z\"\ntitle: \"First!\"\ntags: [\"Intro\", \"Personal\", \"Life\"]\n------\nHi! My name's Bryan, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.\n\nI'll be using this blog to post about some of the things I love - namely, board games, Magic: The Gathering, anime, and sci-fi/fantasy literature and tv/movies.\n\nSome posts will end up being reviews of books/shows/movies/games/cards I really enjoyed, while others will be a more general description of something really interesting that I discovered or accomplished.\n\nI'm also currently working on my first novel, and once I'm nearing publication (hopefully soon), I'll be posting more about the journey.\n\nAs with most blogs, you can use the tags to look for related content.\n\nThanks so much for visiting, and welcome to A Nerd's Word.\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "2a1370a97d3cd043b04ca12e0e54ccb2",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "First!",
+        "path": "/hello-world",
+        "date": "2018-06-24T13:00:00.962Z",
+        "tags": [
+          "Intro",
+          "Personal",
+          "Life"
+        ],
+        "_PARENT": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file",
+        "parent": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "---\nHi! My name's Bryan, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.\n\nI'll be using this blog to post about some of the things I love - namely, board games, Magic: The Gathering, anime, and sci-fi/fantasy literature and tv/movies.\n\nSome posts will end up being reviews of books/shows/movies/games/cards I really enjoyed, while others will be a more general description of something really interesting that I discovered or accomplished.\n\nI'm also currently working on my first novel, and once I'm nearing publication (hopefully soon), I'll be posting more about the journey.\n\nAs with most blogs, you can use the tags to look for related content.\n\nThanks so much for visiting, and welcome to A Nerd's Word.\n\n",
+      "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md"
+    },
     "SitePage /broken-earth": {
       "layout": "index",
       "jsonName": "broken-earth.json",
@@ -1411,7 +1399,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e8ab9dfa47b44c18da0488a00f5bb8c9",
+        "contentDigest": "a26d2e5faeaa0dc715b6d7c866896406",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1432,7 +1420,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b3c846af376bf857b1db4946f94973ee",
+        "contentDigest": "b8f9ed3add54fd73bc282448feee4099",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1455,7 +1443,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9c5e7a7390241bf7e2d1e7436bc6bbbc",
+        "contentDigest": "3a6e4b74bbfaa27e6da613a4805d2bef",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1478,7 +1466,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "752a78b8f0335efd42e17752d0960011",
+        "contentDigest": "a09ab8b07d4201ffa094ba208383b06b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1501,7 +1489,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "670f21bf59413ded36a24b0f6f1c6a22",
+        "contentDigest": "10410391ffce6a17b84efd1868a54635",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1524,7 +1512,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7de8be0ff7c58dcaae88405f2a774ce8",
+        "contentDigest": "a1d7fb954541360fa4d801c769de0301",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1547,7 +1535,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b5e55eabc5dd383678bec3b7d1f9626f",
+        "contentDigest": "af84174303849463fe2b06a1bed9f771",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1570,7 +1558,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a161fa14e56f080ca55575dea87a9abf",
+        "contentDigest": "0ab2d4b30c92dcf597dd75533bb3c3ff",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1591,7 +1579,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c3603feb8b1d66e59a4ffc01afb7914a",
+        "contentDigest": "dfe1e2a4c338848571317e3ca6100dd1",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1612,7 +1600,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "29d461a342adff79021687488bc89b5d",
+        "contentDigest": "75b30da26666a17b0ae8c63b89857ca2",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1633,7 +1621,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e3e849e11c8b3931983276a7ddcbed33",
+        "contentDigest": "45e21cbfb424de300d9944d0c21ae55a",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1654,7 +1642,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "49b4c2d298eb6fac94b8664d6d9f296f",
+        "contentDigest": "ce282db14c417f758a453c71ef992275",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1675,7 +1663,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0219c9cad9bfa1b7c5af95c24bcac4d4",
+        "contentDigest": "b3afc8b7fb2096ec6b76490dd899cf04",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -1683,15 +1671,15 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "20f0a6a02958ff02a2532505f35f48cb"
+    "PLUGINS_HASH": "b80ae5c6f8097527a97b7f011e622543"
   },
   "componentDataDependencies": {
     "nodes": {
-      "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark": [
-        "/broken-earth"
-      ],
       "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark": [
         "/hello-world"
+      ],
+      "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark": [
+        "/broken-earth"
       ],
       "SearchIndex < Site": [
         "/search/"
