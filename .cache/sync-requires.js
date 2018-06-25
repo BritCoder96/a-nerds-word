@@ -18,14 +18,17 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/home/bryan/a-nerds-word/.cache/json/layout-index.json"),
+  "badlands.json": require("/home/bryan/a-nerds-word/.cache/json/badlands.json"),
   "broken-earth.json": require("/home/bryan/a-nerds-word/.cache/json/broken-earth.json"),
   "hello-world.json": require("/home/bryan/a-nerds-word/.cache/json/hello-world.json"),
+  "tags-magic-the-gathering.json": require("/home/bryan/a-nerds-word/.cache/json/tags-magic-the-gathering.json"),
+  "tags-card-review.json": require("/home/bryan/a-nerds-word/.cache/json/tags-card-review.json"),
+  "tags-life.json": require("/home/bryan/a-nerds-word/.cache/json/tags-life.json"),
   "tags-book-review.json": require("/home/bryan/a-nerds-word/.cache/json/tags-book-review.json"),
   "tags-fantasy.json": require("/home/bryan/a-nerds-word/.cache/json/tags-fantasy.json"),
   "tags-worldbuilding.json": require("/home/bryan/a-nerds-word/.cache/json/tags-worldbuilding.json"),
   "tags-intro.json": require("/home/bryan/a-nerds-word/.cache/json/tags-intro.json"),
   "tags-personal.json": require("/home/bryan/a-nerds-word/.cache/json/tags-personal.json"),
-  "tags-life.json": require("/home/bryan/a-nerds-word/.cache/json/tags-life.json"),
   "dev-404-page.json": require("/home/bryan/a-nerds-word/.cache/json/dev-404-page.json"),
   "404.json": require("/home/bryan/a-nerds-word/.cache/json/404.json"),
   "index.json": require("/home/bryan/a-nerds-word/.cache/json/index.json"),

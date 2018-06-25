@@ -3,6 +3,13 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "badlands.json",
+        "path": "/badlands"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "broken-earth.json",
         "path": "/broken-earth"
     },
@@ -12,6 +19,27 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "hello-world.json",
         "path": "/hello-world"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-magic-the-gathering.json",
+        "path": "/tags/magic-the-gathering/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-card-review.json",
+        "path": "/tags/card-review/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-life.json",
+        "path": "/tags/life/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
@@ -47,13 +75,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-personal.json",
         "path": "/tags/personal/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-life.json",
-        "path": "/tags/life/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",

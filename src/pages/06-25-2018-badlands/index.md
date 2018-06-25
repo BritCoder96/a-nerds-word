@@ -1,0 +1,20 @@
+---
+path: "/badlands"
+date: "2018-06-25T13:00:00.962Z"
+title: "Dual Lands"
+tags: ["Magic: The Gathering", "Card Review", "Life", "Personal"]
+------
+
+Hi again, everyone! So today, a very expensive piece of paper arrived in the mail - A Badlands from the Magic: The Gathering set Revised.
+
+![My new (used) Badlands](https://s3.amazonaws.com/a-nerds-word/Badlands.jpg "My new (used) Revised Badlands.")
+
+For those of you who don't know, Magic sets are released every few months, with the first, Alpha, having been released on August 5, 1993. The set this particular card comes from, Revised, was released less than a year afterwards, in April 1994. There were an lot of really good cards in those sets, as well as a lot of pretty bad ones. What makes some of these cards so expensive, though, is that they're part of the [reserved list](https://magic.wizards.com/en/articles/archive/official-reprint-policy-2010-03-10). What this means is that, for legal reasons created after an outcry by collectors, every card on the list can never be reprinted in paper form.
+
+Due to supply and demand, the cards on that list, especially the good ones, are very expensive, and will continue to go up in price for the forseeable future. Which brings me back to my Badlands. Badlands is a land that lets you produce mana, which in Magic allows you to cast spells and activate abilities. These spells and abilities are essential to playing the game. They usually cost specific combinations of mana in any of the five colors (White, Blue, Black, Red, and Green), to cast, meaning you'll need to produce mana of these colors in order to cast them. Most lands can only be used (tapped) for one color; these are called basics. Many others tap for more than one color, but these have downsides; for example, shocklands, which are considered fairly strong cards, cause you to lose two life when they enter untapped; otherwise, they enter tapped. You can only use lands for mana when they're untapped, so that's pretty relevant.
+
+The one exception to this rule are dual lands. These lands, only printed in a few of the earliest sets of Magic, before the reserved list was created (Alpha, Beta, Unlimited, and Revised), tap for one of two colors upon entering untapped, with zero downside. This may not seem that strong, but it essentially makes them the best lands that tap for two colors in existence. Add in the fact that they're all on the reserved list, but can still be played in competitive formats, and that makes them very expensive. I bought my Badlands on Ebay for $166; the median price at TCGPlayer.com (one of the go-to websites for Magic: The Gathering card pricing) as of this afternoon was $312.79, so I got mine for quite a steal.
+
+Since these cards are in high demand but perpetually short supply, due to the reserved list, most Magic players agree that their price will continue to go up for the forseeable future. For me, this was a good investment, since over time, the card will continue to increase in value. In the meantime, I will run it in one of my favorite Commander decks, a vampire tribal deck with Edgar Markov as the commander. To learn more about what commander is (it's my favorite format of Magic to play), read this [article](https://magic.wizards.com/en/articles/archive/ways-play/introduction-commander-2016-10-28). I'll make a blog post about my Edgar deck sometime next week, along with the decklist, so stay tuned if you want to know more.
+
+That's all for now! See you soon :)

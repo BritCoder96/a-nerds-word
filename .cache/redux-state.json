@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6a91c598e635f5755f4039f673582e24",
+        "contentDigest": "bce8c77986c77c12b86b956a2cdae78a",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1013,12 +1013,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-25T00:40:22.550Z",
+      "buildTime": "2018-06-25T19:59:02.277Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5b896df7b0c1f37fe84a30d4bf58a494",
+        "contentDigest": "af5fdd95b5b4f9697c8d8037bc08eb84",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1028,7 +1028,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b6ca46e974da97cd1435ad5a5d8f61d0",
+        "contentDigest": "243659a296985697124a88fc97cb684a",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1039,10 +1039,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-06-24T16:17:22.444Z",
-      "accessTime": "2018-06-24T18:48:44.096Z",
-      "changeTime": "2018-06-24T18:48:44.032Z",
-      "birthTime": "2018-06-24T18:48:44.032Z",
+      "modifiedTime": "2018-06-25T19:35:24.037Z",
+      "accessTime": "2018-06-25T19:36:04.757Z",
+      "changeTime": "2018-06-25T19:35:24.037Z",
+      "birthTime": "2018-06-25T19:35:24.037Z",
       "root": "/",
       "dir": "/home/bryan/a-nerds-word/src",
       "base": "pages",
@@ -1051,28 +1051,28 @@
       "relativeDirectory": "..",
       "dev": 2053,
       "mode": 16893,
-      "nlink": 4,
+      "nlink": 5,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
       "ino": 2379178,
       "blocks": 8,
-      "atimeMs": 1529866124096.343,
-      "mtimeMs": 1529857042444.428,
-      "ctimeMs": 1529866124032.3423,
-      "birthtimeMs": 1529866124032.3423,
-      "atime": "2018-06-24T18:48:44.096Z",
-      "mtime": "2018-06-24T16:17:22.444Z",
-      "ctime": "2018-06-24T18:48:44.032Z",
-      "birthtime": "2018-06-24T18:48:44.032Z"
+      "atimeMs": 1529955364757.4548,
+      "mtimeMs": 1529955324036.9255,
+      "ctimeMs": 1529955324036.9255,
+      "birthtimeMs": 1529955324036.9255,
+      "atime": "2018-06-25T19:36:04.757Z",
+      "mtime": "2018-06-25T19:35:24.037Z",
+      "ctime": "2018-06-25T19:35:24.037Z",
+      "birthtime": "2018-06-25T19:35:24.037Z"
     },
     "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post absPath of file": {
       "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "75165dd0cb0a44eeb41e9985fb9eb17a",
+        "contentDigest": "ca7464514324f89d9f77cdfe8bb69221",
         "type": "Directory",
         "description": "Directory \"src/pages/06-24-2018-first-post\"",
         "owner": "gatsby-source-filesystem"
@@ -1084,7 +1084,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-24T02:06:51.028Z",
-      "accessTime": "2018-06-24T18:48:44.096Z",
+      "accessTime": "2018-06-25T19:35:06.293Z",
       "changeTime": "2018-06-24T18:48:44.024Z",
       "birthTime": "2018-06-24T18:48:44.024Z",
       "root": "/",
@@ -1102,11 +1102,11 @@
       "blksize": 4096,
       "ino": 2379182,
       "blocks": 8,
-      "atimeMs": 1529866124096.343,
+      "atimeMs": 1529955306292.6946,
       "mtimeMs": 1529806011027.504,
       "ctimeMs": 1529866124024.342,
       "birthtimeMs": 1529866124024.342,
-      "atime": "2018-06-24T18:48:44.096Z",
+      "atime": "2018-06-25T19:35:06.293Z",
       "mtime": "2018-06-24T02:06:51.028Z",
       "ctime": "2018-06-24T18:48:44.024Z",
       "birthtime": "2018-06-24T18:48:44.024Z"
@@ -1116,7 +1116,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4cb49b3976cabe0e5da9d5cd21a59c12",
+        "contentDigest": "dec8e04b8d0ebacc72af1c193d3dfcdf",
         "type": "Directory",
         "description": "Directory \"src/pages/06-24-2018-second-post\"",
         "owner": "gatsby-source-filesystem"
@@ -1128,7 +1128,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-24T02:06:51.028Z",
-      "accessTime": "2018-06-24T18:48:44.096Z",
+      "accessTime": "2018-06-25T19:35:06.293Z",
       "changeTime": "2018-06-24T18:48:44.032Z",
       "birthTime": "2018-06-24T18:48:44.032Z",
       "root": "/",
@@ -1146,11 +1146,11 @@
       "blksize": 4096,
       "ino": 2379185,
       "blocks": 8,
-      "atimeMs": 1529866124096.343,
+      "atimeMs": 1529955306292.6946,
       "mtimeMs": 1529806011027.504,
       "ctimeMs": 1529866124032.3423,
       "birthtimeMs": 1529866124032.3423,
-      "atime": "2018-06-24T18:48:44.096Z",
+      "atime": "2018-06-25T19:35:06.293Z",
       "mtime": "2018-06-24T02:06:51.028Z",
       "ctime": "2018-06-24T18:48:44.032Z",
       "birthtime": "2018-06-24T18:48:44.032Z"
@@ -1461,12 +1461,13 @@
       "children": [],
       "pages": [
         "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark",
-        "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark"
+        "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark",
+        "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file >>> MarkdownRemark"
       ],
       "internal": {
         "type": "SiteSearchIndex",
-        "content": "\"/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark\"",
-        "contentDigest": "e56bf0deb216cc905b3b6cb416e7b923",
+        "content": "\"/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file >>> MarkdownRemark\"",
+        "contentDigest": "b1505c636a17cf3053595a776f54ed93",
         "owner": "@andrew-codes/gatsby-plugin-elasticlunr-search"
       }
     },
@@ -1496,6 +1497,118 @@
       "rawMarkdownBody": "---\nHi! My name's Bryan, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.\n\nI'll be using this blog to post about some of the things I love - namely, board games, Magic: The Gathering, anime, and sci-fi/fantasy literature and tv/movies.\n\nSome posts will end up being reviews of books/shows/movies/games/cards I really enjoyed, while others will be a more general description of something really interesting that I discovered or accomplished.\n\nI'm also currently working on my first novel, and once I'm start getting closer to publication (hopefully soon), I'll be posting more about that journey.\n\nAs with most blogs, you can use the tags to look for related content.\n\nThanks so much for visiting, and welcome to A Nerd's Word.\n\n",
       "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md"
     },
+    "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d806aa323c2d3597f82ca8a07f6d2db7",
+        "type": "Directory",
+        "description": "Directory \"src/pages/06-25-2018-badlands\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands",
+      "relativePath": "06-25-2018-badlands",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-24T02:06:51.028Z",
+      "accessTime": "2018-06-25T19:35:25.221Z",
+      "changeTime": "2018-06-25T19:35:24.037Z",
+      "birthTime": "2018-06-25T19:35:24.037Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages",
+      "base": "06-25-2018-badlands",
+      "ext": "",
+      "name": "06-25-2018-badlands",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2376708,
+      "blocks": 8,
+      "atimeMs": 1529955325220.941,
+      "mtimeMs": 1529806011027.504,
+      "ctimeMs": 1529955324036.9255,
+      "birthtimeMs": 1529955324036.9255,
+      "atime": "2018-06-25T19:35:25.221Z",
+      "mtime": "2018-06-24T02:06:51.028Z",
+      "ctime": "2018-06-25T19:35:24.037Z",
+      "birthtime": "2018-06-25T19:35:24.037Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file",
+      "children": [
+        "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "eff3516e5cf345d7a2bc5fe10d5510d2",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/06-25-2018-badlands/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md",
+      "relativePath": "06-25-2018-badlands/index.md",
+      "extension": "md",
+      "size": 3491,
+      "prettySize": "3.49 kB",
+      "modifiedTime": "2018-06-25T20:04:30.935Z",
+      "accessTime": "2018-06-25T20:01:25.621Z",
+      "changeTime": "2018-06-25T20:04:30.935Z",
+      "birthTime": "2018-06-25T20:04:30.935Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "06-25-2018-badlands",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2376751,
+      "blocks": 8,
+      "atimeMs": 1529956885620.9426,
+      "mtimeMs": 1529957070935.3042,
+      "ctimeMs": 1529957070935.3042,
+      "birthtimeMs": 1529957070935.3042,
+      "atime": "2018-06-25T20:01:25.621Z",
+      "mtime": "2018-06-25T20:04:30.935Z",
+      "ctime": "2018-06-25T20:04:30.935Z",
+      "birthtime": "2018-06-25T20:04:30.935Z"
+    },
+    "SitePage /badlands": {
+      "layout": "index",
+      "jsonName": "badlands.json",
+      "internalComponentName": "ComponentBadlands",
+      "path": "/badlands",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /badlands",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6632665e2e5902bdf1c10b883e47e648",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /broken-earth": {
       "layout": "index",
       "jsonName": "broken-earth.json",
@@ -1512,7 +1625,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bdb39f6d3a8288160e5ea7bfc08faf44",
+        "contentDigest": "66c8f4abfa714c47b8306affd52d51b5",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1533,122 +1646,53 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4e1bce5dc9f57b491d57901213c0fce7",
+        "contentDigest": "8e4526822c415508b53ab6f35a5aa212",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/book-review/": {
+    "SitePage /tags/magic-the-gathering/": {
       "layout": "index",
-      "jsonName": "tags-book-review.json",
-      "internalComponentName": "ComponentTagsBookReview",
-      "path": "/tags/book-review/",
+      "jsonName": "tags-magic-the-gathering.json",
+      "internalComponentName": "ComponentTagsMagicTheGathering",
+      "path": "/tags/magic-the-gathering/",
       "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
       "componentChunkName": "component---src-templates-tags-js",
       "context": {
-        "tag": "Book Review"
+        "tag": "Magic: The Gathering"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/book-review/",
+      "id": "SitePage /tags/magic-the-gathering/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "323d81b9ff03f1c56f3da4664dcbc41d",
+        "contentDigest": "9e3d94761f2b62705b232e994537e923",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/fantasy/": {
+    "SitePage /tags/card-review/": {
       "layout": "index",
-      "jsonName": "tags-fantasy.json",
-      "internalComponentName": "ComponentTagsFantasy",
-      "path": "/tags/fantasy/",
+      "jsonName": "tags-card-review.json",
+      "internalComponentName": "ComponentTagsCardReview",
+      "path": "/tags/card-review/",
       "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
       "componentChunkName": "component---src-templates-tags-js",
       "context": {
-        "tag": "Fantasy"
+        "tag": "Card Review"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/fantasy/",
+      "id": "SitePage /tags/card-review/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b5d87fb4a1d91920243a448fcf323d9f",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/worldbuilding/": {
-      "layout": "index",
-      "jsonName": "tags-worldbuilding.json",
-      "internalComponentName": "ComponentTagsWorldbuilding",
-      "path": "/tags/worldbuilding/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Worldbuilding"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/worldbuilding/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ed64bb386bfc6e037ee16100843d6796",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/intro/": {
-      "layout": "index",
-      "jsonName": "tags-intro.json",
-      "internalComponentName": "ComponentTagsIntro",
-      "path": "/tags/intro/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Intro"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/intro/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "794af8a182270beb344eb12bea145270",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/personal/": {
-      "layout": "index",
-      "jsonName": "tags-personal.json",
-      "internalComponentName": "ComponentTagsPersonal",
-      "path": "/tags/personal/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Personal"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/personal/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2c9496ce6d0e266aac0c65ef2f8db1b7",
+        "contentDigest": "5c26236802fe049b4c7a8525ca4cf0ac",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1671,7 +1715,122 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "abc965acd7867b9011b480a1c8d6682f",
+        "contentDigest": "07282fadb3333b798abc46736a295494",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/book-review/": {
+      "layout": "index",
+      "jsonName": "tags-book-review.json",
+      "internalComponentName": "ComponentTagsBookReview",
+      "path": "/tags/book-review/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Book Review"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/book-review/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c3ce77d53286899dffe53172c0d767aa",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/fantasy/": {
+      "layout": "index",
+      "jsonName": "tags-fantasy.json",
+      "internalComponentName": "ComponentTagsFantasy",
+      "path": "/tags/fantasy/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Fantasy"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/fantasy/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f8eaad721a92aa1ab2e5029c46a48364",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/worldbuilding/": {
+      "layout": "index",
+      "jsonName": "tags-worldbuilding.json",
+      "internalComponentName": "ComponentTagsWorldbuilding",
+      "path": "/tags/worldbuilding/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Worldbuilding"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/worldbuilding/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0ecdcbbab7a21dc5fa054513f6ed2f54",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/intro/": {
+      "layout": "index",
+      "jsonName": "tags-intro.json",
+      "internalComponentName": "ComponentTagsIntro",
+      "path": "/tags/intro/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Intro"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/intro/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0f3cbc882fbc9d8d97ca07b1d13cfab2",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/personal/": {
+      "layout": "index",
+      "jsonName": "tags-personal.json",
+      "internalComponentName": "ComponentTagsPersonal",
+      "path": "/tags/personal/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Personal"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/personal/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2edf6beda27462988c1df67db786b37c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1692,7 +1851,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "32cee2769f8080332790bba909cf7c7a",
+        "contentDigest": "83dbe6ad4218035392b765d78a7f27b1",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1713,7 +1872,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3d7f3909f2352a1a50af4af4983fe1c7",
+        "contentDigest": "1136ec98b07c36f30b5dad8c849c342d",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1734,7 +1893,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "45f08857c25180994064835c9c9e8f9d",
+        "contentDigest": "f2064c1a8866202b7544e8a42c6f1bdc",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1755,7 +1914,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a6735fc446d934a042272d0a6cad2767",
+        "contentDigest": "502be3458e8beaa314cda8cb5f9a8092",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1776,10 +1935,37 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "27d5c8676972ec1be41e49fa6d9f20fb",
+        "contentDigest": "545252c61f93df8b3babb01ba57424f2",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
+    },
+    "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/badlands\"\ndate: \"2018-06-25T13:00:00.962Z\"\ntitle: \"Dual Lands\"\ntags: [\"Magic: The Gathering\", \"Card Review\", \"Life\", \"Personal\"]\n------\n\nHi again, everyone! So today, a very expensive piece of paper arrived in the mail - A Badlands from the Magic: The Gathering set Revised.\n\n![My new (used) Badlands](https://s3.amazonaws.com/a-nerds-word/Badlands.jpg \"My new (used) Revised Badlands.\")\n\nFor those of you who don't know, Magic sets are released every few months, with the first, Alpha, having been released on August 5, 1993. The set this particular card comes from, Revised, was released less than a year afterwards, in April 1994. There were an lot of really good cards in those sets, as well as a lot of pretty bad ones. What makes some of these cards so expensive, though, is that they're part of the [reserved list](https://magic.wizards.com/en/articles/archive/official-reprint-policy-2010-03-10). What this means is that, for legal reasons created after an outcry by collectors, every card on the list can never be reprinted in paper form.\n\nDue to supply and demand, the cards on that list, especially the good ones, are very expensive, and will continue to go up in price for the forseeable future. Which brings me back to my Badlands. Badlands is a land that lets you produce mana, which in Magic allows you to cast spells and activate abilities. These spells and abilities are essential to playing the game. They usually cost specific combinations of mana in any of the five colors (White, Blue, Black, Red, and Green), to cast, meaning you'll need to produce mana of these colors in order to cast them. Most lands can only be used (tapped) for one color; these are called basics. Many others tap for more than one color, but these have downsides; for example, shocklands, which are considered fairly strong cards, cause you to lose two life when they enter untapped; otherwise, they enter tapped. You can only use lands for mana when they're untapped, so that's pretty relevant.\n\nThe one exception to this rule are dual lands. These lands, only printed in a few of the earliest sets of Magic, before the reserved list was created (Alpha, Beta, Unlimited, and Revised), tap for one of two colors upon entering untapped, with zero downside. This may not seem that strong, but it essentially makes them the best lands that tap for two colors in existence. Add in the fact that they're all on the reserved list, but can still be played in competitive formats, and that makes them very expensive. I bought my Badlands on Ebay for $166; the median price at TCGPlayer.com (one of the go-to websites for Magic: The Gathering card pricing) as of this afternoon was $312.79, so I got mine for quite a steal.\n\nSince these cards are in high demand but perpetually short supply, due to the reserved list, most Magic players agree that their price will continue to go up for the forseeable future. For me, this was a good investment, since over time, the card will continue to increase in value. In the meantime, I will run it in one of my favorite Commander decks, a vampire tribal deck with Edgar Markov as the commander. To learn more about what commander is (it's my favorite format of Magic to play), read this [article](https://magic.wizards.com/en/articles/archive/ways-play/introduction-commander-2016-10-28). I'll make a blog post about my Edgar deck sometime next week, along with the decklist, so stay tuned if you want to know more.\n\nThat's all for now! See you soon :)",
+        "type": "MarkdownRemark",
+        "contentDigest": "87cff93934948ef30166557bd8c47a4f",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Dual Lands",
+        "path": "/badlands",
+        "date": "2018-06-25T13:00:00.962Z",
+        "tags": [
+          "Magic: The Gathering",
+          "Card Review",
+          "Life",
+          "Personal"
+        ],
+        "_PARENT": "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file",
+        "parent": "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "---\n\nHi again, everyone! So today, a very expensive piece of paper arrived in the mail - A Badlands from the Magic: The Gathering set Revised.\n\n![My new (used) Badlands](https://s3.amazonaws.com/a-nerds-word/Badlands.jpg \"My new (used) Revised Badlands.\")\n\nFor those of you who don't know, Magic sets are released every few months, with the first, Alpha, having been released on August 5, 1993. The set this particular card comes from, Revised, was released less than a year afterwards, in April 1994. There were an lot of really good cards in those sets, as well as a lot of pretty bad ones. What makes some of these cards so expensive, though, is that they're part of the [reserved list](https://magic.wizards.com/en/articles/archive/official-reprint-policy-2010-03-10). What this means is that, for legal reasons created after an outcry by collectors, every card on the list can never be reprinted in paper form.\n\nDue to supply and demand, the cards on that list, especially the good ones, are very expensive, and will continue to go up in price for the forseeable future. Which brings me back to my Badlands. Badlands is a land that lets you produce mana, which in Magic allows you to cast spells and activate abilities. These spells and abilities are essential to playing the game. They usually cost specific combinations of mana in any of the five colors (White, Blue, Black, Red, and Green), to cast, meaning you'll need to produce mana of these colors in order to cast them. Most lands can only be used (tapped) for one color; these are called basics. Many others tap for more than one color, but these have downsides; for example, shocklands, which are considered fairly strong cards, cause you to lose two life when they enter untapped; otherwise, they enter tapped. You can only use lands for mana when they're untapped, so that's pretty relevant.\n\nThe one exception to this rule are dual lands. These lands, only printed in a few of the earliest sets of Magic, before the reserved list was created (Alpha, Beta, Unlimited, and Revised), tap for one of two colors upon entering untapped, with zero downside. This may not seem that strong, but it essentially makes them the best lands that tap for two colors in existence. Add in the fact that they're all on the reserved list, but can still be played in competitive formats, and that makes them very expensive. I bought my Badlands on Ebay for $166; the median price at TCGPlayer.com (one of the go-to websites for Magic: The Gathering card pricing) as of this afternoon was $312.79, so I got mine for quite a steal.\n\nSince these cards are in high demand but perpetually short supply, due to the reserved list, most Magic players agree that their price will continue to go up for the forseeable future. For me, this was a good investment, since over time, the card will continue to increase in value. In the meantime, I will run it in one of my favorite Commander decks, a vampire tribal deck with Edgar Markov as the commander. To learn more about what commander is (it's my favorite format of Magic to play), read this [article](https://magic.wizards.com/en/articles/archive/ways-play/introduction-commander-2016-10-28). I'll make a blog post about my Edgar deck sometime next week, along with the decklist, so stay tuned if you want to know more.\n\nThat's all for now! See you soon :)",
+      "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md"
     }
   },
   "status": {
@@ -1799,6 +1985,9 @@
       ],
       "Site": [
         "/tags/"
+      ],
+      "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file >>> MarkdownRemark": [
+        "/badlands"
       ]
     },
     "connections": {
@@ -1810,7 +1999,9 @@
         "/tags/personal/",
         "/tags/life/",
         "/",
-        "/tags/"
+        "/tags/",
+        "/tags/card-review/",
+        "/tags/magic-the-gathering/"
       ],
       "SitePage": [
         "/dev-404-page/"
