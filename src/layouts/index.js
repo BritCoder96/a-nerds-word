@@ -131,7 +131,9 @@ const TemplateWrapper = ({ children }) => (
             wrapperDivStyle={style}
           />
       <footer>
-        <a href="https://www.facebook.com/bryan.benson.9634" target="_blank">Questions, comments, concerns? Contact me on Facebook!</a>
+        <a href="https://github.com/BritCoder96/a-nerds-word" target="_blank">Source Code</a>
+        <div></div>
+        <a href="https://www.facebook.com/bryan.benson.9634" target="_blank">Contact me on Facebook!</a>
         <div>Copyright © 2018 Bryan Joshua Benson. All Rights Reserved.</div>
       </footer>
     </div>

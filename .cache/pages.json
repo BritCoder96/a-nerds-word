@@ -45,6 +45,13 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-personal.json",
+        "path": "/tags/personal/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-book-review.json",
         "path": "/tags/book-review/"
     },
@@ -68,13 +75,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-intro.json",
         "path": "/tags/intro/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-personal.json",
-        "path": "/tags/personal/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",
