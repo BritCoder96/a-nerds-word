@@ -3,6 +3,13 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "reanimator.json",
+        "path": "/reanimator"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "badlands.json",
         "path": "/badlands"
     },
@@ -31,8 +38,15 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-card-review.json",
-        "path": "/tags/card-review/"
+        "jsonName": "tags-format-review.json",
+        "path": "/tags/format-review/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-deck-review.json",
+        "path": "/tags/deck-review/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
@@ -47,6 +61,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-personal.json",
         "path": "/tags/personal/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-card-review.json",
+        "path": "/tags/card-review/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
