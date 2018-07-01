@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"frontmatter":{"title":"Dual Lands","path":"/badlands"}}},{"node":{"frontmatter":{"title":"Hello, World!","path":"/hello-world"}}}]}},"pathContext":{"tag":"Life"}}
+{"data":{"allMarkdownRemark":{"totalCount":3,"edges":[{"node":{"frontmatter":{"title":"Reanimator","path":"/reanimator"}}},{"node":{"frontmatter":{"title":"Dual Lands","path":"/badlands"}}},{"node":{"frontmatter":{"title":"Hello, World!","path":"/hello-world"}}}]}},"pathContext":{"tag":"Life"}}

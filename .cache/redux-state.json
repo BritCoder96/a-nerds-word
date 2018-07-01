@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f0e936cfd40d621d0a37d87c87f33fca",
+        "contentDigest": "b61219eadac3d261a1d38bbc57b09b38",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1013,12 +1013,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-25T20:14:21.752Z",
+      "buildTime": "2018-07-01T20:36:32.503Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "867b5ea7c267dd9855c2c94d4338ea5f",
+        "contentDigest": "0f8bfe867cd2b15180a0a85a54367ec2",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1028,7 +1028,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "243659a296985697124a88fc97cb684a",
+        "contentDigest": "f354c0f70869cb628de5f31e921de3c5",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1039,10 +1039,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-06-25T19:35:24.037Z",
-      "accessTime": "2018-06-25T19:36:04.757Z",
-      "changeTime": "2018-06-25T19:35:24.037Z",
-      "birthTime": "2018-06-25T19:35:24.037Z",
+      "modifiedTime": "2018-07-01T20:14:34.021Z",
+      "accessTime": "2018-07-01T20:14:34.125Z",
+      "changeTime": "2018-07-01T20:14:34.021Z",
+      "birthTime": "2018-07-01T20:14:34.021Z",
       "root": "/",
       "dir": "/home/bryan/a-nerds-word/src",
       "base": "pages",
@@ -1051,28 +1051,28 @@
       "relativeDirectory": "..",
       "dev": 2053,
       "mode": 16893,
-      "nlink": 5,
+      "nlink": 6,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
       "ino": 2379178,
       "blocks": 8,
-      "atimeMs": 1529955364757.4548,
-      "mtimeMs": 1529955324036.9255,
-      "ctimeMs": 1529955324036.9255,
-      "birthtimeMs": 1529955324036.9255,
-      "atime": "2018-06-25T19:36:04.757Z",
-      "mtime": "2018-06-25T19:35:24.037Z",
-      "ctime": "2018-06-25T19:35:24.037Z",
-      "birthtime": "2018-06-25T19:35:24.037Z"
+      "atimeMs": 1530476074125.1892,
+      "mtimeMs": 1530476074021.1877,
+      "ctimeMs": 1530476074021.1877,
+      "birthtimeMs": 1530476074021.1877,
+      "atime": "2018-07-01T20:14:34.125Z",
+      "mtime": "2018-07-01T20:14:34.021Z",
+      "ctime": "2018-07-01T20:14:34.021Z",
+      "birthtime": "2018-07-01T20:14:34.021Z"
     },
     "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post absPath of file": {
       "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ca7464514324f89d9f77cdfe8bb69221",
+        "contentDigest": "1298746346b2e66d84edcce0b9c0687a",
         "type": "Directory",
         "description": "Directory \"src/pages/06-24-2018-first-post\"",
         "owner": "gatsby-source-filesystem"
@@ -1084,7 +1084,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-24T02:06:51.028Z",
-      "accessTime": "2018-06-25T19:35:06.293Z",
+      "accessTime": "2018-07-01T20:12:47.448Z",
       "changeTime": "2018-06-24T18:48:44.024Z",
       "birthTime": "2018-06-24T18:48:44.024Z",
       "root": "/",
@@ -1102,11 +1102,11 @@
       "blksize": 4096,
       "ino": 2379182,
       "blocks": 8,
-      "atimeMs": 1529955306292.6946,
+      "atimeMs": 1530475967448.0999,
       "mtimeMs": 1529806011027.504,
       "ctimeMs": 1529866124024.342,
       "birthtimeMs": 1529866124024.342,
-      "atime": "2018-06-25T19:35:06.293Z",
+      "atime": "2018-07-01T20:12:47.448Z",
       "mtime": "2018-06-24T02:06:51.028Z",
       "ctime": "2018-06-24T18:48:44.024Z",
       "birthtime": "2018-06-24T18:48:44.024Z"
@@ -1116,7 +1116,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "dec8e04b8d0ebacc72af1c193d3dfcdf",
+        "contentDigest": "f9089f9708eb4afdc5a43360d38ce290",
         "type": "Directory",
         "description": "Directory \"src/pages/06-24-2018-second-post\"",
         "owner": "gatsby-source-filesystem"
@@ -1128,7 +1128,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-24T02:06:51.028Z",
-      "accessTime": "2018-06-25T19:35:06.293Z",
+      "accessTime": "2018-07-01T20:12:47.448Z",
       "changeTime": "2018-06-24T18:48:44.032Z",
       "birthTime": "2018-06-24T18:48:44.032Z",
       "root": "/",
@@ -1146,11 +1146,11 @@
       "blksize": 4096,
       "ino": 2379185,
       "blocks": 8,
-      "atimeMs": 1529955306292.6946,
+      "atimeMs": 1530475967448.0999,
       "mtimeMs": 1529806011027.504,
       "ctimeMs": 1529866124032.3423,
       "birthtimeMs": 1529866124032.3423,
-      "atime": "2018-06-25T19:35:06.293Z",
+      "atime": "2018-07-01T20:12:47.448Z",
       "mtime": "2018-06-24T02:06:51.028Z",
       "ctime": "2018-06-24T18:48:44.032Z",
       "birthtime": "2018-06-24T18:48:44.032Z"
@@ -1462,12 +1462,13 @@
       "pages": [
         "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark",
         "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark",
-        "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file >>> MarkdownRemark"
+        "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file >>> MarkdownRemark",
+        "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file >>> MarkdownRemark"
       ],
       "internal": {
         "type": "SiteSearchIndex",
-        "content": "\"/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file >>> MarkdownRemark\"",
-        "contentDigest": "b1505c636a17cf3053595a776f54ed93",
+        "content": "\"/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file >>> MarkdownRemark\"",
+        "contentDigest": "4b30de84c4c0fd5d33c9d74b55d9f772",
         "owner": "@andrew-codes/gatsby-plugin-elasticlunr-search"
       }
     },
@@ -1502,7 +1503,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d806aa323c2d3597f82ca8a07f6d2db7",
+        "contentDigest": "d7429b8c2db68b23a4f37f9bdc84403c",
         "type": "Directory",
         "description": "Directory \"src/pages/06-25-2018-badlands\"",
         "owner": "gatsby-source-filesystem"
@@ -1514,7 +1515,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-24T02:06:51.028Z",
-      "accessTime": "2018-06-25T19:35:25.221Z",
+      "accessTime": "2018-07-01T20:12:47.448Z",
       "changeTime": "2018-06-25T19:35:24.037Z",
       "birthTime": "2018-06-25T19:35:24.037Z",
       "root": "/",
@@ -1532,11 +1533,11 @@
       "blksize": 4096,
       "ino": 2376708,
       "blocks": 8,
-      "atimeMs": 1529955325220.941,
+      "atimeMs": 1530475967448.0999,
       "mtimeMs": 1529806011027.504,
       "ctimeMs": 1529955324036.9255,
       "birthtimeMs": 1529955324036.9255,
-      "atime": "2018-06-25T19:35:25.221Z",
+      "atime": "2018-07-01T20:12:47.448Z",
       "mtime": "2018-06-24T02:06:51.028Z",
       "ctime": "2018-06-25T19:35:24.037Z",
       "birthtime": "2018-06-25T19:35:24.037Z"
@@ -1615,6 +1616,118 @@
       "rawMarkdownBody": "---\n\nHi again, everyone! So today, a very expensive piece of paper arrived in the mail - A Badlands from the Magic: The Gathering set Revised.\n\n![My new (used) Badlands](https://s3.amazonaws.com/a-nerds-word/Badlands.jpg \"My new (used) Revised Badlands.\")\n\nFor those of you who don't know, Magic sets are released every few months, with the first, Alpha, having been released on August 5, 1993. The set this particular card comes from, Revised, was released less than a year afterwards, in April 1994. There were an lot of really good cards in those sets, as well as a lot of pretty bad ones. What makes some of these cards so expensive, though, is that they're part of the [reserved list](https://magic.wizards.com/en/articles/archive/official-reprint-policy-2010-03-10). What this means is that, for legal reasons created after an outcry by collectors, every card on the list can never be reprinted in paper form.\n\nDue to supply and demand, the cards on that list, especially the good ones, are very expensive, and will continue to go up in price for the forseeable future. Which brings me back to my Badlands. Badlands is a land that lets you produce mana, which in Magic allows you to cast spells and activate abilities. These spells and abilities are essential to playing the game. They usually cost specific combinations of mana in any of the five colors (White, Blue, Black, Red, and Green), to cast, meaning you'll need to produce mana of these colors in order to cast them. Most lands can only be used (tapped) for one color; these are called basics. Many others tap for more than one color, but these have downsides; for example, shocklands, which are considered fairly strong cards, cause you to lose two life when they enter untapped; otherwise, they enter tapped. You can only use lands for mana when they're untapped, so that's pretty relevant.\n\nThe one exception to this rule are dual lands. These lands, only printed in a few of the earliest sets of Magic, before the reserved list was created (Alpha, Beta, Unlimited, and Revised), tap for one of two colors upon entering untapped, with zero downside. This may not seem that strong, but it essentially makes them the best lands that tap for two colors in existence. Add in the fact that they're all on the reserved list, but can still be played in competitive formats, and that makes them very expensive. I bought my Badlands on Ebay for $166; the median price at TCGPlayer.com (one of the go-to websites for Magic: The Gathering card pricing) as of this afternoon was $312.79, so I got mine for quite a steal.\n\nSince these cards are in high demand but perpetually short supply, due to the reserved list, most Magic players agree that their price will continue to go up for the forseeable future. For me, this was a good investment, since over time, the card will continue to increase in value. In the meantime, I will run it in one of my favorite Commander decks, a vampire tribal deck with Edgar Markov as the commander. To learn more about what commander is (it's my favorite format of Magic to play), read this [article](https://magic.wizards.com/en/articles/archive/ways-play/introduction-commander-2016-10-28). I'll make a blog post about my Edgar deck sometime next week, along with the decklist, so stay tuned if you want to know more.\n\nThat's all for now! See you soon :)",
       "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md"
     },
+    "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2131e1a3947aa8a09a4ad0c8f97de50c",
+        "type": "Directory",
+        "description": "Directory \"src/pages/07-01-2018-reanimator\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator",
+      "relativePath": "07-01-2018-reanimator",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-07-01T20:14:44.721Z",
+      "accessTime": "2018-07-01T20:14:44.841Z",
+      "changeTime": "2018-07-01T20:14:44.721Z",
+      "birthTime": "2018-07-01T20:14:44.721Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages",
+      "base": "07-01-2018-reanimator",
+      "ext": "",
+      "name": "07-01-2018-reanimator",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2378689,
+      "blocks": 8,
+      "atimeMs": 1530476084841.323,
+      "mtimeMs": 1530476084721.3215,
+      "ctimeMs": 1530476084721.3215,
+      "birthtimeMs": 1530476084721.3215,
+      "atime": "2018-07-01T20:14:44.841Z",
+      "mtime": "2018-07-01T20:14:44.721Z",
+      "ctime": "2018-07-01T20:14:44.721Z",
+      "birthtime": "2018-07-01T20:14:44.721Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file",
+      "children": [
+        "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "be5e329f5d4eea5561786d935159ada8",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/07-01-2018-reanimator/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md",
+      "relativePath": "07-01-2018-reanimator/index.md",
+      "extension": "md",
+      "size": 3181,
+      "prettySize": "3.18 kB",
+      "modifiedTime": "2018-07-01T20:43:36.003Z",
+      "accessTime": "2018-07-01T20:43:07.763Z",
+      "changeTime": "2018-07-01T20:43:36.003Z",
+      "birthTime": "2018-07-01T20:43:36.003Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "07-01-2018-reanimator",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2376512,
+      "blocks": 8,
+      "atimeMs": 1530477787762.6934,
+      "mtimeMs": 1530477816003.128,
+      "ctimeMs": 1530477816003.128,
+      "birthtimeMs": 1530477816003.128,
+      "atime": "2018-07-01T20:43:07.763Z",
+      "mtime": "2018-07-01T20:43:36.003Z",
+      "ctime": "2018-07-01T20:43:36.003Z",
+      "birthtime": "2018-07-01T20:43:36.003Z"
+    },
+    "SitePage /reanimator": {
+      "layout": "index",
+      "jsonName": "reanimator.json",
+      "internalComponentName": "ComponentReanimator",
+      "path": "/reanimator",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /reanimator",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3c8f3358c76fddaaa40fc66c38bc250b",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /badlands": {
       "layout": "index",
       "jsonName": "badlands.json",
@@ -1631,7 +1744,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bb9b0907f24e027b312718e23f6ee85d",
+        "contentDigest": "fc4308cfb5a485746756cbae106a94df",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1652,7 +1765,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c80856f1c609b3d2e586ecd2ba8b193e",
+        "contentDigest": "f5b8641c394852c88f247018aa91f2ae",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1673,7 +1786,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b9ca5b4691a32ca6f70ae664b8c64867",
+        "contentDigest": "a81e9652a9228ab06f78b2de81c9e049",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1696,30 +1809,53 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a10fa2cb26b73e831c28b14a905f5cd6",
+        "contentDigest": "a2c1343f19d1fc0740e7bde8dacd4f0c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/card-review/": {
+    "SitePage /tags/format-review/": {
       "layout": "index",
-      "jsonName": "tags-card-review.json",
-      "internalComponentName": "ComponentTagsCardReview",
-      "path": "/tags/card-review/",
+      "jsonName": "tags-format-review.json",
+      "internalComponentName": "ComponentTagsFormatReview",
+      "path": "/tags/format-review/",
       "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
       "componentChunkName": "component---src-templates-tags-js",
       "context": {
-        "tag": "Card Review"
+        "tag": "Format Review"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/card-review/",
+      "id": "SitePage /tags/format-review/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "eb77d314efc333b3a30e4ac9d45b78ef",
+        "contentDigest": "fd18f97163aa0ec0a8dfd8bd59fdfb4e",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/deck-review/": {
+      "layout": "index",
+      "jsonName": "tags-deck-review.json",
+      "internalComponentName": "ComponentTagsDeckReview",
+      "path": "/tags/deck-review/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Deck Review"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/deck-review/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cb036fc676604a313b4ed4dbc242f93a",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1742,7 +1878,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d77f52ee2ef2e63d474dbf6cd1573ab3",
+        "contentDigest": "53c789db2bbc1343aee6ff32a15ef203",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1765,7 +1901,30 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4b2664ef506ba37b659917281573aaf2",
+        "contentDigest": "ade59937e302d2b33b7a97e549d09260",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/card-review/": {
+      "layout": "index",
+      "jsonName": "tags-card-review.json",
+      "internalComponentName": "ComponentTagsCardReview",
+      "path": "/tags/card-review/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Card Review"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/card-review/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c80772d725190a85db85b79acbcc8626",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1788,7 +1947,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "25f0ab26381d0c21a3c0cad845157cbc",
+        "contentDigest": "a2312288e9e60ab9102535acdb761879",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1811,7 +1970,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1024146d13d825a0947a240fc37284eb",
+        "contentDigest": "98261e585cd2032c54294d178a2ac3c2",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1834,7 +1993,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a513588276ed579c1b51a2ff6f303932",
+        "contentDigest": "bff4b1b8aff912dc977a7819e9795e30",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1857,7 +2016,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "01cfd1430db1f9682da0437ea5c3bd0a",
+        "contentDigest": "a1adf61a0b4c4c11ae4805b9857eb09c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1878,7 +2037,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4c7fa5116966a437f35d56a45e7defee",
+        "contentDigest": "e3e01a7204872c392e6fb8dba927cc02",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1899,7 +2058,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "16768e05264c0b252d22ee773b999c09",
+        "contentDigest": "eb101fa59bd12237fbed02afbfc8befe",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1920,7 +2079,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "43b30ad8bd3d2127a31636087df0f23b",
+        "contentDigest": "cc03a3dfbfebe8a105a1137e7dd07656",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1941,7 +2100,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "88065ceeef8b6cdcd7f98dd8df5604ad",
+        "contentDigest": "6349acf6b7788a9cf6f1e7abc8903b5e",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1962,10 +2121,38 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d9e3785f82d1255b67687f90973417b9",
+        "contentDigest": "a3bfbb07106472809da4d82860fcc1f3",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
+    },
+    "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/reanimator\"\ndate: \"2018-07-01T13:00:00.962Z\"\ntitle: \"Reanimator\"\ntags: [\"Magic: The Gathering\", \"Format Review\", \"Deck Review\", \"Life\", \"Personal\"]\n------\n\nWelcome back! So today, I decided to make my entrance into a new format of Magic for me: Legacy.\n\nLegacy is a sixty-card Magic format that lies on the scale of expensive decks between Modern and Vintage. Modern includes cards from [this](https://magic.wizards.com/en/game-info/gameplay/formats/modern) list of sets - from Mirrodin to the current set. Because of this wider selection of cards available, modern is a lot more expensive than standard, which is only the last few most recent sets. [Legacy](https://magic.wizards.com/en/game-info/gameplay/formats/legacy), on the other hand, has every card in Magic available, with a banlist of cards that aren't allowed. This means that you can play cards that are much older and more expensive; for example, the dual lands I mentioned in my last post. [Vintage](https://magic.wizards.com/en/game-info/gameplay/formats/vintage), finally, has every card available, and no banlist, except for a few cards that are restricted - you can only run one of each in a deck instead of the usual four.\n\nNow, I've been looking into getting into a more competitive format for a while. At first, I looked at modern, and had a lot of fun with a proxied [affinity](https://www.mtggoldfish.com/archetype/modern-affinity-46460#paper) deck. The problem, though, was that the deck costs roughly $1000, with the downside that the cards can be reprinted; they're not on the reserved list.\n\nLast night, I was looking at events coming up that I could play a modern deck at and meet up with some of my friends from college. We noticed that there was an [event](http://www.starcitygames.com/events/140718_worcester_fact_sheet.html) in Worcester, MA in two weeks. This was both nearby several of my friends, and had the added benefit of being a team format - each team of three has a standard, a modern, and a legacy player. One of my friends wanted to play modern, the other wanted to play standard. I also wanted to play modern, so we considered asking some more of our friends to start another team. But then I started looking at legacy decks and found reanimator.\n\n[Reanimator](https://www.channelfireball.com/articles/testing-legacy-b-r-reanimator/) is a legacy deck that wins by putting a [Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239995) into your graveyard, and then reanimating it onto the battlefield turn one. Then you have a 7/7 flying lifelink on the field, and an additional 14 cards in hand. If that ends up working, you've probably got a decent chance of winning the game.\n\nThe deck is more expensive than Affinity, mostly due to the dual lands. I already had a Badlands, though, and I realized that I could get the deck for much cheaper if I borrowed or traded for a few of the cards and replaced some others with ones I already owned.\n\nAs of now, I have all of the cards in the deck available to me, for a fraction of the price, and will go up to Worcester two weeks from now to participate in my first major tournament. See you next time!",
+        "type": "MarkdownRemark",
+        "contentDigest": "916eef67a0c81cbe23ac7dd89831b148",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Reanimator",
+        "path": "/reanimator",
+        "date": "2018-07-01T13:00:00.962Z",
+        "tags": [
+          "Magic: The Gathering",
+          "Format Review",
+          "Deck Review",
+          "Life",
+          "Personal"
+        ],
+        "_PARENT": "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file",
+        "parent": "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "---\n\nWelcome back! So today, I decided to make my entrance into a new format of Magic for me: Legacy.\n\nLegacy is a sixty-card Magic format that lies on the scale of expensive decks between Modern and Vintage. Modern includes cards from [this](https://magic.wizards.com/en/game-info/gameplay/formats/modern) list of sets - from Mirrodin to the current set. Because of this wider selection of cards available, modern is a lot more expensive than standard, which is only the last few most recent sets. [Legacy](https://magic.wizards.com/en/game-info/gameplay/formats/legacy), on the other hand, has every card in Magic available, with a banlist of cards that aren't allowed. This means that you can play cards that are much older and more expensive; for example, the dual lands I mentioned in my last post. [Vintage](https://magic.wizards.com/en/game-info/gameplay/formats/vintage), finally, has every card available, and no banlist, except for a few cards that are restricted - you can only run one of each in a deck instead of the usual four.\n\nNow, I've been looking into getting into a more competitive format for a while. At first, I looked at modern, and had a lot of fun with a proxied [affinity](https://www.mtggoldfish.com/archetype/modern-affinity-46460#paper) deck. The problem, though, was that the deck costs roughly $1000, with the downside that the cards can be reprinted; they're not on the reserved list.\n\nLast night, I was looking at events coming up that I could play a modern deck at and meet up with some of my friends from college. We noticed that there was an [event](http://www.starcitygames.com/events/140718_worcester_fact_sheet.html) in Worcester, MA in two weeks. This was both nearby several of my friends, and had the added benefit of being a team format - each team of three has a standard, a modern, and a legacy player. One of my friends wanted to play modern, the other wanted to play standard. I also wanted to play modern, so we considered asking some more of our friends to start another team. But then I started looking at legacy decks and found reanimator.\n\n[Reanimator](https://www.channelfireball.com/articles/testing-legacy-b-r-reanimator/) is a legacy deck that wins by putting a [Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239995) into your graveyard, and then reanimating it onto the battlefield turn one. Then you have a 7/7 flying lifelink on the field, and an additional 14 cards in hand. If that ends up working, you've probably got a decent chance of winning the game.\n\nThe deck is more expensive than Affinity, mostly due to the dual lands. I already had a Badlands, though, and I realized that I could get the deck for much cheaper if I borrowed or traded for a few of the cards and replaced some others with ones I already owned.\n\nAs of now, I have all of the cards in the deck available to me, for a fraction of the price, and will go up to Worcester two weeks from now to participate in my first major tournament. See you next time!",
+      "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md"
     }
   },
   "status": {
@@ -1988,6 +2175,9 @@
       ],
       "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file >>> MarkdownRemark": [
         "/badlands"
+      ],
+      "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file >>> MarkdownRemark": [
+        "/reanimator"
       ]
     },
     "connections": {
@@ -2001,7 +2191,9 @@
         "/",
         "/tags/",
         "/tags/card-review/",
-        "/tags/magic-the-gathering/"
+        "/tags/magic-the-gathering/",
+        "/tags/deck-review/",
+        "/tags/format-review/"
       ],
       "SitePage": [
         "/dev-404-page/"
