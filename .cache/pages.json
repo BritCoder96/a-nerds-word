@@ -3,6 +3,13 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "edgar.json",
+        "path": "/edgar"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "reanimator.json",
         "path": "/reanimator"
     },
@@ -38,13 +45,6 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-format-review.json",
-        "path": "/tags/format-review/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-deck-review.json",
         "path": "/tags/deck-review/"
     },
@@ -52,15 +52,22 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-life.json",
-        "path": "/tags/life/"
+        "jsonName": "tags-personal.json",
+        "path": "/tags/personal/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-personal.json",
-        "path": "/tags/personal/"
+        "jsonName": "tags-format-review.json",
+        "path": "/tags/format-review/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-life.json",
+        "path": "/tags/life/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",

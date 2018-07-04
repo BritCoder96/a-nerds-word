@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5a6746f452e887e60d108f72c3c0e4db",
+        "contentDigest": "8a1a2284cf2884f27d6cfc5f1ef437ff",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1013,12 +1013,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-07-01T21:09:04.292Z",
+      "buildTime": "2018-07-04T17:40:55.980Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0fd98a31a9edcaab7d8958e867df6741",
+        "contentDigest": "afbb69972043fbf46a704e91e91fadc2",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1028,7 +1028,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d99fe9eb270883c945505bd9d9eee56b",
+        "contentDigest": "43f77b90ede18da4cb78b241027315c8",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1039,10 +1039,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-07-01T20:48:25.064Z",
-      "accessTime": "2018-07-01T20:48:25.160Z",
-      "changeTime": "2018-07-01T20:48:25.064Z",
-      "birthTime": "2018-07-01T20:48:25.064Z",
+      "modifiedTime": "2018-07-04T17:29:29.775Z",
+      "accessTime": "2018-07-04T17:29:29.879Z",
+      "changeTime": "2018-07-04T17:29:29.775Z",
+      "birthTime": "2018-07-04T17:29:29.775Z",
       "root": "/",
       "dir": "/home/bryan/a-nerds-word/src",
       "base": "pages",
@@ -1051,28 +1051,28 @@
       "relativeDirectory": "..",
       "dev": 2053,
       "mode": 16893,
-      "nlink": 6,
+      "nlink": 7,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
       "ino": 2379178,
       "blocks": 8,
-      "atimeMs": 1530478105159.9055,
-      "mtimeMs": 1530478105063.9038,
-      "ctimeMs": 1530478105063.9038,
-      "birthtimeMs": 1530478105063.9038,
-      "atime": "2018-07-01T20:48:25.160Z",
-      "mtime": "2018-07-01T20:48:25.064Z",
-      "ctime": "2018-07-01T20:48:25.064Z",
-      "birthtime": "2018-07-01T20:48:25.064Z"
+      "atimeMs": 1530725369878.7136,
+      "mtimeMs": 1530725369774.7131,
+      "ctimeMs": 1530725369774.7131,
+      "birthtimeMs": 1530725369774.7131,
+      "atime": "2018-07-04T17:29:29.879Z",
+      "mtime": "2018-07-04T17:29:29.775Z",
+      "ctime": "2018-07-04T17:29:29.775Z",
+      "birthtime": "2018-07-04T17:29:29.775Z"
     },
     "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post absPath of file": {
       "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1298746346b2e66d84edcce0b9c0687a",
+        "contentDigest": "4a5bf58f58b6ebfea890dd52d24a096e",
         "type": "Directory",
         "description": "Directory \"src/pages/06-24-2018-first-post\"",
         "owner": "gatsby-source-filesystem"
@@ -1084,7 +1084,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-24T02:06:51.028Z",
-      "accessTime": "2018-07-01T20:12:47.448Z",
+      "accessTime": "2018-07-04T17:40:58.167Z",
       "changeTime": "2018-06-24T18:48:44.024Z",
       "birthTime": "2018-06-24T18:48:44.024Z",
       "root": "/",
@@ -1102,11 +1102,11 @@
       "blksize": 4096,
       "ino": 2379182,
       "blocks": 8,
-      "atimeMs": 1530475967448.0999,
+      "atimeMs": 1530726058166.5408,
       "mtimeMs": 1529806011027.504,
       "ctimeMs": 1529866124024.342,
       "birthtimeMs": 1529866124024.342,
-      "atime": "2018-07-01T20:12:47.448Z",
+      "atime": "2018-07-04T17:40:58.167Z",
       "mtime": "2018-06-24T02:06:51.028Z",
       "ctime": "2018-06-24T18:48:44.024Z",
       "birthtime": "2018-06-24T18:48:44.024Z"
@@ -1116,7 +1116,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f9089f9708eb4afdc5a43360d38ce290",
+        "contentDigest": "6a20e2ccb26bda468606b030ddbc431d",
         "type": "Directory",
         "description": "Directory \"src/pages/06-24-2018-second-post\"",
         "owner": "gatsby-source-filesystem"
@@ -1128,7 +1128,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-24T02:06:51.028Z",
-      "accessTime": "2018-07-01T20:12:47.448Z",
+      "accessTime": "2018-07-04T17:40:58.167Z",
       "changeTime": "2018-06-24T18:48:44.032Z",
       "birthTime": "2018-06-24T18:48:44.032Z",
       "root": "/",
@@ -1146,11 +1146,11 @@
       "blksize": 4096,
       "ino": 2379185,
       "blocks": 8,
-      "atimeMs": 1530475967448.0999,
+      "atimeMs": 1530726058166.5408,
       "mtimeMs": 1529806011027.504,
       "ctimeMs": 1529866124032.3423,
       "birthtimeMs": 1529866124032.3423,
-      "atime": "2018-07-01T20:12:47.448Z",
+      "atime": "2018-07-04T17:40:58.167Z",
       "mtime": "2018-06-24T02:06:51.028Z",
       "ctime": "2018-06-24T18:48:44.032Z",
       "birthtime": "2018-06-24T18:48:44.032Z"
@@ -1463,12 +1463,13 @@
         "/home/bryan/a-nerds-word/src/pages/06-24-2018-second-post/index.md absPath of file >>> MarkdownRemark",
         "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark",
         "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands/index.md absPath of file >>> MarkdownRemark",
-        "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file >>> MarkdownRemark"
+        "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file >>> MarkdownRemark",
+        "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar/index.md absPath of file >>> MarkdownRemark"
       ],
       "internal": {
         "type": "SiteSearchIndex",
-        "content": "\"/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file >>> MarkdownRemark\"",
-        "contentDigest": "4b30de84c4c0fd5d33c9d74b55d9f772",
+        "content": "\"/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar/index.md absPath of file >>> MarkdownRemark\"",
+        "contentDigest": "3fe8bc39a0cb71ad0c7e5418ad4573fd",
         "owner": "@andrew-codes/gatsby-plugin-elasticlunr-search"
       }
     },
@@ -1503,7 +1504,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d7429b8c2db68b23a4f37f9bdc84403c",
+        "contentDigest": "d35c31e9c8c71c7d93187156eebab282",
         "type": "Directory",
         "description": "Directory \"src/pages/06-25-2018-badlands\"",
         "owner": "gatsby-source-filesystem"
@@ -1515,7 +1516,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-24T02:06:51.028Z",
-      "accessTime": "2018-07-01T20:12:47.448Z",
+      "accessTime": "2018-07-04T17:40:58.167Z",
       "changeTime": "2018-06-25T19:35:24.037Z",
       "birthTime": "2018-06-25T19:35:24.037Z",
       "root": "/",
@@ -1533,11 +1534,11 @@
       "blksize": 4096,
       "ino": 2376708,
       "blocks": 8,
-      "atimeMs": 1530475967448.0999,
+      "atimeMs": 1530726058166.5408,
       "mtimeMs": 1529806011027.504,
       "ctimeMs": 1529955324036.9255,
       "birthtimeMs": 1529955324036.9255,
-      "atime": "2018-07-01T20:12:47.448Z",
+      "atime": "2018-07-04T17:40:58.167Z",
       "mtime": "2018-06-24T02:06:51.028Z",
       "ctime": "2018-06-25T19:35:24.037Z",
       "birthtime": "2018-06-25T19:35:24.037Z"
@@ -1621,7 +1622,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "45ea38ad6b206c85d61407d559f2b6d3",
+        "contentDigest": "4da8e947c80360b545945ce9b77c17fc",
         "type": "Directory",
         "description": "Directory \"src/pages/07-01-2018-reanimator\"",
         "owner": "gatsby-source-filesystem"
@@ -1633,7 +1634,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-07-01T20:48:25.064Z",
-      "accessTime": "2018-07-01T20:48:25.160Z",
+      "accessTime": "2018-07-04T17:40:58.167Z",
       "changeTime": "2018-07-01T20:48:25.064Z",
       "birthTime": "2018-07-01T20:48:25.064Z",
       "root": "/",
@@ -1651,11 +1652,11 @@
       "blksize": 4096,
       "ino": 2378864,
       "blocks": 8,
-      "atimeMs": 1530478105159.9055,
+      "atimeMs": 1530726058166.5408,
       "mtimeMs": 1530478105063.9038,
       "ctimeMs": 1530478105063.9038,
       "birthtimeMs": 1530478105063.9038,
-      "atime": "2018-07-01T20:48:25.160Z",
+      "atime": "2018-07-04T17:40:58.167Z",
       "mtime": "2018-07-01T20:48:25.064Z",
       "ctime": "2018-07-01T20:48:25.064Z",
       "birthtime": "2018-07-01T20:48:25.064Z"
@@ -1735,6 +1736,118 @@
       "rawMarkdownBody": "---\n\nWelcome back! So today, I decided to make my entrance into a new format of Magic for me: Legacy.\n\nLegacy is a sixty-card Magic format that lies on the scale of expensive decks between Modern and Vintage. Modern includes cards from [this](https://magic.wizards.com/en/game-info/gameplay/formats/modern) list of sets - from Mirrodin to the current set. Because of this wider selection of cards available, modern is a lot more expensive than standard, which is only the last few most recent sets. [Legacy](https://magic.wizards.com/en/game-info/gameplay/formats/legacy), on the other hand, has every card in Magic available, with a banlist of cards that aren't allowed. This means that you can play cards that are much older and more expensive; for example, the dual lands I mentioned in my last post. [Vintage](https://magic.wizards.com/en/game-info/gameplay/formats/vintage), finally, has every card available, and no banlist, except for a few cards that are restricted - you can only run one of each in a deck instead of the usual four.\n\nNow, I've been looking into getting into a more competitive format for a while. At first, I looked at modern, and had a lot of fun with a proxied [affinity](https://www.mtggoldfish.com/archetype/modern-affinity-46460#paper) deck. The problem, though, was that the deck costs roughly $1000, with the downside that the cards can be reprinted; they're not on the reserved list.\n\nLast night, I was looking at events coming up that I could play a modern deck at and meet up with some of my friends from college. We noticed that there was an [event](http://www.starcitygames.com/events/140718_worcester_fact_sheet.html) in Worcester, MA in two weeks. This was both nearby several of my friends, and had the added benefit of being a team format - each team of three has a standard, a modern, and a legacy player. One of my friends wanted to play modern, the other wanted to play standard. I also wanted to play modern, so we considered asking some more of our friends to start another team. But then I started looking at legacy decks and found reanimator.\n\n[Reanimator](https://www.channelfireball.com/articles/testing-legacy-b-r-reanimator/) is a legacy deck that wins by putting a [Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239995) into your graveyard, and then reanimating it onto the battlefield turn one. Then you have a 7/7 flying lifelink on the field, and an additional 14 cards in hand. If that ends up working, you've probably got a decent chance of winning the game.\n\nThe deck is more expensive than Affinity, mostly due to the dual lands. I already had a Badlands, though, and I realized that I could get the deck for much cheaper if I borrowed or traded for a few of the cards and replaced some others with ones I already owned.\n\nAs of now, I have all of the cards in the deck available to me, for a fraction of the price, and will go up to Worcester two weeks from now to participate in my first major tournament. See you next time!",
       "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md"
     },
+    "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0a86c513dba64695555cae51184c6aa4",
+        "type": "Directory",
+        "description": "Directory \"src/pages/07-04-2018-edgar\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar",
+      "relativePath": "07-04-2018-edgar",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-07-04T17:29:36.807Z",
+      "accessTime": "2018-07-04T17:29:36.923Z",
+      "changeTime": "2018-07-04T17:29:36.807Z",
+      "birthTime": "2018-07-04T17:29:36.807Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages",
+      "base": "07-04-2018-edgar",
+      "ext": "",
+      "name": "07-04-2018-edgar",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2371332,
+      "blocks": 8,
+      "atimeMs": 1530725376922.7534,
+      "mtimeMs": 1530725376806.7527,
+      "ctimeMs": 1530725376806.7527,
+      "birthtimeMs": 1530725376806.7527,
+      "atime": "2018-07-04T17:29:36.923Z",
+      "mtime": "2018-07-04T17:29:36.807Z",
+      "ctime": "2018-07-04T17:29:36.807Z",
+      "birthtime": "2018-07-04T17:29:36.807Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar/index.md absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar/index.md absPath of file",
+      "children": [
+        "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f68248676a8d310ff907b1a62591ddc9",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/07-04-2018-edgar/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar/index.md",
+      "relativePath": "07-04-2018-edgar/index.md",
+      "extension": "md",
+      "size": 1582,
+      "prettySize": "1.58 kB",
+      "modifiedTime": "2018-07-04T17:42:24.755Z",
+      "accessTime": "2018-07-04T17:42:04.371Z",
+      "changeTime": "2018-07-04T17:42:24.755Z",
+      "birthTime": "2018-07-04T17:42:24.755Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "07-04-2018-edgar",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2371331,
+      "blocks": 8,
+      "atimeMs": 1530726124370.9058,
+      "mtimeMs": 1530726144755.018,
+      "ctimeMs": 1530726144755.018,
+      "birthtimeMs": 1530726144755.018,
+      "atime": "2018-07-04T17:42:04.371Z",
+      "mtime": "2018-07-04T17:42:24.755Z",
+      "ctime": "2018-07-04T17:42:24.755Z",
+      "birthtime": "2018-07-04T17:42:24.755Z"
+    },
+    "SitePage /edgar": {
+      "layout": "index",
+      "jsonName": "edgar.json",
+      "internalComponentName": "ComponentEdgar",
+      "path": "/edgar",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /edgar",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e5f530136089d32da2859d24b34d500a",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /reanimator": {
       "layout": "index",
       "jsonName": "reanimator.json",
@@ -1751,7 +1864,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fa4ab1c31bc64784fc7895e68c70c583",
+        "contentDigest": "c4b6be3788e85efa4cddd89a23ff76d5",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1772,7 +1885,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e400874fe21fd20a98a2b8f6dd3d40b6",
+        "contentDigest": "ee72bfeb3072dd89b5960bf7cdf74af7",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1793,7 +1906,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3f1a366ae7950495201847b4a6c6aae0",
+        "contentDigest": "ef57bd26799fe99ce37e473319ed5c53",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1814,7 +1927,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8cf0dc1d6748aaf0985b6c8c5aca3040",
+        "contentDigest": "32815ecbf82aeace8165fb7fe3b2ce1d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1837,30 +1950,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "954a7e94bb6b2f312da3c6c8462d304b",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/format-review/": {
-      "layout": "index",
-      "jsonName": "tags-format-review.json",
-      "internalComponentName": "ComponentTagsFormatReview",
-      "path": "/tags/format-review/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Format Review"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/format-review/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b669a03e85ba3f73df7d9636114c3a09",
+        "contentDigest": "753e266108bfb63f070888f42b7d58d7",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1883,30 +1973,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "412a5346c6cd872a66036519f6dcccc3",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/life/": {
-      "layout": "index",
-      "jsonName": "tags-life.json",
-      "internalComponentName": "ComponentTagsLife",
-      "path": "/tags/life/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Life"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/life/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "eab3a0aa011b3f6f96ae457b21bca6c5",
+        "contentDigest": "80bfebd57f9cbeee6d67326a09e89e3d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1929,7 +1996,53 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b809dbad67c7d73c1736565768c3fbb2",
+        "contentDigest": "b96c04de6e623dec7251408b1f81c1b7",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/format-review/": {
+      "layout": "index",
+      "jsonName": "tags-format-review.json",
+      "internalComponentName": "ComponentTagsFormatReview",
+      "path": "/tags/format-review/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Format Review"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/format-review/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "69db61019bc9ba9525b19772b7587ccf",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/life/": {
+      "layout": "index",
+      "jsonName": "tags-life.json",
+      "internalComponentName": "ComponentTagsLife",
+      "path": "/tags/life/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Life"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/life/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "77c1741fbffe014ca7b2db220eddf7ce",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1952,7 +2065,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "db202408405231de39a1ce3d16724baa",
+        "contentDigest": "1a9605db35e01ad9eb03e3fec175abb8",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1975,7 +2088,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c569c4fa914608bb0fb878e38c1f452f",
+        "contentDigest": "d342c6c8900b90b79e3a008bb83188d6",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1998,7 +2111,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fff4f250eb2afe07f3d0e67cb64d22e9",
+        "contentDigest": "a16ac200ccf32e059df5c209653124bf",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2021,7 +2134,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bbc7dad7d8f41c98a32404c490c5d23f",
+        "contentDigest": "1dfdca85777c5624b4bdf7e172102cfd",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2044,7 +2157,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8dc736052a2017fef0bb2f67713e197f",
+        "contentDigest": "52d1bde17f1e80049a05600ac6dc1199",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2065,7 +2178,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "be46ac1d0794a59f7ec70d3b2f747ce8",
+        "contentDigest": "db579b23a72de1d473abd9c5ed79ecc3",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2086,7 +2199,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3e804270c1433099d24e3dd11e73fb65",
+        "contentDigest": "c7bc3c5f02bb71701384b642e87c9258",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2107,7 +2220,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "025702acc77dc838693b79cd8b477700",
+        "contentDigest": "cca8283a9a81ddf06ace1ea40f1347bc",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2128,7 +2241,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d34a40b207a35a109a43007dcf1e3b92",
+        "contentDigest": "5d361b040776851a17f244d2c7dbfff2",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2149,10 +2262,36 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4da45dc8656d86829e34bd02bd79c063",
+        "contentDigest": "3cf2a13422a7d25a9fb0ac05a4e4c118",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
+    },
+    "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar/index.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/edgar\"\ndate: \"2018-07-04T13:00:00.962Z\"\ntitle: \"Edgar\"\ntags: [\"Magic: The Gathering\", \"Deck Review\", \"Personal\"]\n------\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/Edgar.jpeg \"Edgar Markov\")\n\nHey everyone! So today, as promised last week, I'll be talking about my Edgar Markov EDH deck, the one that I bought that badlands for. The decklist is [here](https://tappedout.net/mtg-decks/30-06-17-i-vant-to-suck-your-blood/) for those who are interested.\n\nVampire tribal was one of the first decks I ever played. I traded an old custom RC car I had lying in my basement for a red/black vampire 60 card casual deck and an esper artifact deck when I first got into magic. To this day, my vampire tribal deck and my artifact tribal deck (now both EDH and much improved) are still two of my favorite decks.\n\nI went through several iterations for vampires, including having [Olivia Voldaren](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247235) as a voltron (commander damage) commander. But when they released [Edgar Markov](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Edgar%20Markov), an explosively aggreessive mardu vampire commander, I knew I needed to rebuild the deck. Olivia was red/black, but wasn't really on theme for the deck. Edgar, on the other hand, let me run several very good, white vampires, and was much more of a vampire tribal commander.\n\nSince I built the deck, I've tuned it, and have played it with reasonable levels of success at local competitive tournaments in NYC. It's a great deck to play.\n\nSee you next time!",
+        "type": "MarkdownRemark",
+        "contentDigest": "7f919c0a808985ea8cf14b328efd9c16",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Edgar",
+        "path": "/edgar",
+        "date": "2018-07-04T13:00:00.962Z",
+        "tags": [
+          "Magic: The Gathering",
+          "Deck Review",
+          "Personal"
+        ],
+        "_PARENT": "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar/index.md absPath of file",
+        "parent": "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "---\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/Edgar.jpeg \"Edgar Markov\")\n\nHey everyone! So today, as promised last week, I'll be talking about my Edgar Markov EDH deck, the one that I bought that badlands for. The decklist is [here](https://tappedout.net/mtg-decks/30-06-17-i-vant-to-suck-your-blood/) for those who are interested.\n\nVampire tribal was one of the first decks I ever played. I traded an old custom RC car I had lying in my basement for a red/black vampire 60 card casual deck and an esper artifact deck when I first got into magic. To this day, my vampire tribal deck and my artifact tribal deck (now both EDH and much improved) are still two of my favorite decks.\n\nI went through several iterations for vampires, including having [Olivia Voldaren](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247235) as a voltron (commander damage) commander. But when they released [Edgar Markov](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Edgar%20Markov), an explosively aggreessive mardu vampire commander, I knew I needed to rebuild the deck. Olivia was red/black, but wasn't really on theme for the deck. Edgar, on the other hand, let me run several very good, white vampires, and was much more of a vampire tribal commander.\n\nSince I built the deck, I've tuned it, and have played it with reasonable levels of success at local competitive tournaments in NYC. It's a great deck to play.\n\nSee you next time!",
+      "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar/index.md"
     }
   },
   "status": {
@@ -2178,6 +2317,9 @@
       ],
       "/home/bryan/a-nerds-word/src/pages/07-01-2018-reanimator/index.md absPath of file >>> MarkdownRemark": [
         "/reanimator"
+      ],
+      "/home/bryan/a-nerds-word/src/pages/07-04-2018-edgar/index.md absPath of file >>> MarkdownRemark": [
+        "/edgar"
       ]
     },
     "connections": {

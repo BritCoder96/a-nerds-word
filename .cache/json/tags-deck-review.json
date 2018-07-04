@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Reanimator","path":"/reanimator"}}}]}},"pathContext":{"tag":"Deck Review"}}
+{"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"frontmatter":{"title":"Edgar","path":"/edgar"}}},{"node":{"frontmatter":{"title":"Reanimator","path":"/reanimator"}}}]}},"pathContext":{"tag":"Deck Review"}}
