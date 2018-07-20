@@ -3,6 +3,20 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "to-the-moon.json",
+        "path": "/to-the-moon"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "scg-worcester-18.json",
+        "path": "/scg-worcester-18"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "dresden-files.json",
         "path": "/dresden-files"
     },
@@ -19,13 +33,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "reanimator.json",
         "path": "/reanimator"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "scg-worcester-18.json",
-        "path": "/scg-worcester-18"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -52,6 +59,48 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-review.json",
+        "path": "/tags/review/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-video-games.json",
+        "path": "/tags/video-games/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-magic-the-gathering.json",
+        "path": "/tags/magic-the-gathering/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-event.json",
+        "path": "/tags/event/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-life.json",
+        "path": "/tags/life/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-personal.json",
+        "path": "/tags/personal/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-book-review.json",
         "path": "/tags/book-review/"
     },
@@ -66,13 +115,6 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-magic-the-gathering.json",
-        "path": "/tags/magic-the-gathering/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-deck-review.json",
         "path": "/tags/deck-review/"
     },
@@ -80,29 +122,8 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-personal.json",
-        "path": "/tags/personal/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-format-review.json",
         "path": "/tags/format-review/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-life.json",
-        "path": "/tags/life/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-event.json",
-        "path": "/tags/event/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
