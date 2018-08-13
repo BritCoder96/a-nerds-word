@@ -18,6 +18,7 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/home/bryan/a-nerds-word/.cache/json/layout-index.json"),
+  "recreators.json": require("/home/bryan/a-nerds-word/.cache/json/recreators.json"),
   "stormlight-archive.json": require("/home/bryan/a-nerds-word/.cache/json/stormlight-archive.json"),
   "to-the-moon.json": require("/home/bryan/a-nerds-word/.cache/json/to-the-moon.json"),
   "scg-worcester-18.json": require("/home/bryan/a-nerds-word/.cache/json/scg-worcester-18.json"),
@@ -27,6 +28,9 @@ exports.json = {
   "badlands.json": require("/home/bryan/a-nerds-word/.cache/json/badlands.json"),
   "broken-earth.json": require("/home/bryan/a-nerds-word/.cache/json/broken-earth.json"),
   "hello-world.json": require("/home/bryan/a-nerds-word/.cache/json/hello-world.json"),
+  "tags-anime-review.json": require("/home/bryan/a-nerds-word/.cache/json/tags-anime-review.json"),
+  "tags-isekai.json": require("/home/bryan/a-nerds-word/.cache/json/tags-isekai.json"),
+  "tags-anime.json": require("/home/bryan/a-nerds-word/.cache/json/tags-anime.json"),
   "tags-book-review.json": require("/home/bryan/a-nerds-word/.cache/json/tags-book-review.json"),
   "tags-fantasy.json": require("/home/bryan/a-nerds-word/.cache/json/tags-fantasy.json"),
   "tags-review.json": require("/home/bryan/a-nerds-word/.cache/json/tags-review.json"),
