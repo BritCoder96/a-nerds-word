@@ -3,6 +3,13 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "stormlight-archive.json",
+        "path": "/stormlight-archive"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "to-the-moon.json",
         "path": "/to-the-moon"
     },
@@ -59,6 +66,20 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-book-review.json",
+        "path": "/tags/book-review/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-fantasy.json",
+        "path": "/tags/fantasy/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-review.json",
         "path": "/tags/review/"
     },
@@ -96,20 +117,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-personal.json",
         "path": "/tags/personal/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-book-review.json",
-        "path": "/tags/book-review/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-fantasy.json",
-        "path": "/tags/fantasy/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
