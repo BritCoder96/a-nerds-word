@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"SCG Worcester 2018","path":"/scg-worcester-18"}}}]}},"pathContext":{"tag":"Event"}}
+{"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"frontmatter":{"title":"GP Providence 2018","path":"/gp-providence-18"}}},{"node":{"frontmatter":{"title":"SCG Worcester 2018","path":"/scg-worcester-18"}}}]}},"pathContext":{"tag":"Event"}}

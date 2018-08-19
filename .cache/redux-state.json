@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "872d9ec3f04d601220a9ac6f452baac9",
+        "contentDigest": "21d8108fc92ce1c2fcd6e28502e4e7e7",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1013,12 +1013,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-17T14:22:38.682Z",
+      "buildTime": "2018-08-19T19:10:13.587Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b725195e174ebad972a9a84d46b6e018",
+        "contentDigest": "8556d7bcb4f41afef68abeff0cffde3b",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1028,7 +1028,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8c90f78d07871ed1d5cfa6beb5751cf6",
+        "contentDigest": "153772ffb3959de1ba7e43f146caa68b",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1039,10 +1039,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-08-17T13:58:05.962Z",
-      "accessTime": "2018-08-17T13:58:06.062Z",
-      "changeTime": "2018-08-17T13:58:05.962Z",
-      "birthTime": "2018-08-17T13:58:05.962Z",
+      "modifiedTime": "2018-08-19T18:50:20.402Z",
+      "accessTime": "2018-08-19T18:50:20.502Z",
+      "changeTime": "2018-08-19T18:50:20.402Z",
+      "birthTime": "2018-08-19T18:50:20.402Z",
       "root": "/",
       "dir": "/home/bryan/a-nerds-word/src",
       "base": "pages",
@@ -1051,28 +1051,28 @@
       "relativeDirectory": "..",
       "dev": 2053,
       "mode": 16893,
-      "nlink": 14,
+      "nlink": 15,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
       "ino": 2379178,
       "blocks": 8,
-      "atimeMs": 1534514286061.9126,
-      "mtimeMs": 1534514285961.9155,
-      "ctimeMs": 1534514285961.9155,
-      "birthtimeMs": 1534514285961.9155,
-      "atime": "2018-08-17T13:58:06.062Z",
-      "mtime": "2018-08-17T13:58:05.962Z",
-      "ctime": "2018-08-17T13:58:05.962Z",
-      "birthtime": "2018-08-17T13:58:05.962Z"
+      "atimeMs": 1534704620501.9565,
+      "mtimeMs": 1534704620401.9548,
+      "ctimeMs": 1534704620401.9548,
+      "birthtimeMs": 1534704620401.9548,
+      "atime": "2018-08-19T18:50:20.502Z",
+      "mtime": "2018-08-19T18:50:20.402Z",
+      "ctime": "2018-08-19T18:50:20.402Z",
+      "birthtime": "2018-08-19T18:50:20.402Z"
     },
     "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post absPath of file": {
       "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "50fc829309c570906e14bdbc81fe342c",
+        "contentDigest": "18da69e827c5134c3c255222afd10583",
         "type": "Directory",
         "description": "Directory \"src/pages/06-24-2018-first-post\"",
         "owner": "gatsby-source-filesystem"
@@ -1084,7 +1084,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-24T02:06:51.028Z",
-      "accessTime": "2018-08-17T13:57:05.733Z",
+      "accessTime": "2018-08-19T18:20:08.661Z",
       "changeTime": "2018-06-24T18:48:44.024Z",
       "birthTime": "2018-06-24T18:48:44.024Z",
       "root": "/",
@@ -1102,11 +1102,11 @@
       "blksize": 4096,
       "ino": 2379182,
       "blocks": 8,
-      "atimeMs": 1534514225733.1929,
+      "atimeMs": 1534702808661.3599,
       "mtimeMs": 1529806011027.504,
       "ctimeMs": 1529866124024.342,
       "birthtimeMs": 1529866124024.342,
-      "atime": "2018-08-17T13:57:05.733Z",
+      "atime": "2018-08-19T18:20:08.661Z",
       "mtime": "2018-06-24T02:06:51.028Z",
       "ctime": "2018-06-24T18:48:44.024Z",
       "birthtime": "2018-06-24T18:48:44.024Z"
@@ -1116,7 +1116,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0253efb13aa6e149f1c16747239fbeb9",
+        "contentDigest": "3347efbf04ca2277cbcc80e7de757d96",
         "type": "Directory",
         "description": "Directory \"src/pages/06-24-2018-second-post\"",
         "owner": "gatsby-source-filesystem"
@@ -1128,7 +1128,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-24T02:06:51.028Z",
-      "accessTime": "2018-08-17T13:57:05.741Z",
+      "accessTime": "2018-08-19T18:20:08.661Z",
       "changeTime": "2018-06-24T18:48:44.032Z",
       "birthTime": "2018-06-24T18:48:44.032Z",
       "root": "/",
@@ -1146,11 +1146,11 @@
       "blksize": 4096,
       "ino": 2379185,
       "blocks": 8,
-      "atimeMs": 1534514225741.1929,
+      "atimeMs": 1534702808661.3599,
       "mtimeMs": 1529806011027.504,
       "ctimeMs": 1529866124032.3423,
       "birthtimeMs": 1529866124032.3423,
-      "atime": "2018-08-17T13:57:05.741Z",
+      "atime": "2018-08-19T18:20:08.661Z",
       "mtime": "2018-06-24T02:06:51.028Z",
       "ctime": "2018-06-24T18:48:44.032Z",
       "birthtime": "2018-06-24T18:48:44.032Z"
@@ -1471,12 +1471,13 @@
         "/home/bryan/a-nerds-word/src/pages/08-13-2018-stormlight-archive/index.md absPath of file >>> MarkdownRemark",
         "/home/bryan/a-nerds-word/src/pages/08-13-2018-recreators/index.md absPath of file >>> MarkdownRemark",
         "/home/bryan/a-nerds-word/src/pages/08-15-2018-mistborn/index.md absPath of file >>> MarkdownRemark",
-        "/home/bryan/a-nerds-word/src/pages/08-17-2018-rakuen/index.md absPath of file >>> MarkdownRemark"
+        "/home/bryan/a-nerds-word/src/pages/08-17-2018-rakuen/index.md absPath of file >>> MarkdownRemark",
+        "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18/index.md absPath of file >>> MarkdownRemark"
       ],
       "internal": {
         "type": "SiteSearchIndex",
-        "content": "\"/home/bryan/a-nerds-word/src/pages/08-17-2018-rakuen/index.md absPath of file >>> MarkdownRemark\"",
-        "contentDigest": "2960b46f5f920a55b81e54b8ba0a59da",
+        "content": "\"/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18/index.md absPath of file >>> MarkdownRemark\"",
+        "contentDigest": "d88256da909498ca91d4249d80da34a0",
         "owner": "@andrew-codes/gatsby-plugin-elasticlunr-search"
       }
     },
@@ -1511,7 +1512,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d017b8de5a276050e65e21c8abca9d97",
+        "contentDigest": "96f9b8a633c5e6f33f11246b219637fb",
         "type": "Directory",
         "description": "Directory \"src/pages/06-25-2018-badlands\"",
         "owner": "gatsby-source-filesystem"
@@ -1523,7 +1524,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-24T02:06:51.028Z",
-      "accessTime": "2018-08-17T13:57:05.741Z",
+      "accessTime": "2018-08-19T18:20:08.661Z",
       "changeTime": "2018-06-25T19:35:24.037Z",
       "birthTime": "2018-06-25T19:35:24.037Z",
       "root": "/",
@@ -1541,11 +1542,11 @@
       "blksize": 4096,
       "ino": 2376708,
       "blocks": 8,
-      "atimeMs": 1534514225741.1929,
+      "atimeMs": 1534702808661.3599,
       "mtimeMs": 1529806011027.504,
       "ctimeMs": 1529955324036.9255,
       "birthtimeMs": 1529955324036.9255,
-      "atime": "2018-08-17T13:57:05.741Z",
+      "atime": "2018-08-19T18:20:08.661Z",
       "mtime": "2018-06-24T02:06:51.028Z",
       "ctime": "2018-06-25T19:35:24.037Z",
       "birthtime": "2018-06-25T19:35:24.037Z"
@@ -1629,7 +1630,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7994d35924e4d53e6e9db19b777e767d",
+        "contentDigest": "64880324506a34ff3e41d230f40798f1",
         "type": "Directory",
         "description": "Directory \"src/pages/07-01-2018-reanimator\"",
         "owner": "gatsby-source-filesystem"
@@ -1641,7 +1642,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-07-01T20:48:25.064Z",
-      "accessTime": "2018-08-17T13:57:05.741Z",
+      "accessTime": "2018-08-19T18:20:08.661Z",
       "changeTime": "2018-07-01T20:48:25.064Z",
       "birthTime": "2018-07-01T20:48:25.064Z",
       "root": "/",
@@ -1659,11 +1660,11 @@
       "blksize": 4096,
       "ino": 2378864,
       "blocks": 8,
-      "atimeMs": 1534514225741.1929,
+      "atimeMs": 1534702808661.3599,
       "mtimeMs": 1530478105063.9038,
       "ctimeMs": 1530478105063.9038,
       "birthtimeMs": 1530478105063.9038,
-      "atime": "2018-08-17T13:57:05.741Z",
+      "atime": "2018-08-19T18:20:08.661Z",
       "mtime": "2018-07-01T20:48:25.064Z",
       "ctime": "2018-07-01T20:48:25.064Z",
       "birthtime": "2018-07-01T20:48:25.064Z"
@@ -1748,7 +1749,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "648d52b391d937fc83afb91048056b46",
+        "contentDigest": "b436ab7ba09b9579ed60e06df8b553d7",
         "type": "Directory",
         "description": "Directory \"src/pages/07-04-2018-edgar\"",
         "owner": "gatsby-source-filesystem"
@@ -1760,7 +1761,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-07-04T17:29:36.807Z",
-      "accessTime": "2018-08-17T13:57:05.741Z",
+      "accessTime": "2018-08-19T18:20:08.661Z",
       "changeTime": "2018-07-04T17:29:36.807Z",
       "birthTime": "2018-07-04T17:29:36.807Z",
       "root": "/",
@@ -1778,11 +1779,11 @@
       "blksize": 4096,
       "ino": 2371332,
       "blocks": 8,
-      "atimeMs": 1534514225741.1929,
+      "atimeMs": 1534702808661.3599,
       "mtimeMs": 1530725376806.7527,
       "ctimeMs": 1530725376806.7527,
       "birthtimeMs": 1530725376806.7527,
-      "atime": "2018-08-17T13:57:05.741Z",
+      "atime": "2018-08-19T18:20:08.661Z",
       "mtime": "2018-07-04T17:29:36.807Z",
       "ctime": "2018-07-04T17:29:36.807Z",
       "birthtime": "2018-07-04T17:29:36.807Z"
@@ -1865,7 +1866,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0586e5ba6d673406af7b4347fb8b34d9",
+        "contentDigest": "9bd4c04d5efc61ca0af918ebc41bf753",
         "type": "Directory",
         "description": "Directory \"src/pages/07-06-2018-dresden-files\"",
         "owner": "gatsby-source-filesystem"
@@ -1877,7 +1878,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-07-06T20:59:47.188Z",
-      "accessTime": "2018-08-17T13:57:05.741Z",
+      "accessTime": "2018-08-19T18:20:08.661Z",
       "changeTime": "2018-07-06T20:59:47.188Z",
       "birthTime": "2018-07-06T20:59:47.188Z",
       "root": "/",
@@ -1895,11 +1896,11 @@
       "blksize": 4096,
       "ino": 2359330,
       "blocks": 8,
-      "atimeMs": 1534514225741.1929,
+      "atimeMs": 1534702808661.3599,
       "mtimeMs": 1530910787188.424,
       "ctimeMs": 1530910787188.424,
       "birthtimeMs": 1530910787188.424,
-      "atime": "2018-08-17T13:57:05.741Z",
+      "atime": "2018-08-19T18:20:08.661Z",
       "mtime": "2018-07-06T20:59:47.188Z",
       "ctime": "2018-07-06T20:59:47.188Z",
       "birthtime": "2018-07-06T20:59:47.188Z"
@@ -1981,7 +1982,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "702f0e1bff58b6ff4f1c1b89d531ccd2",
+        "contentDigest": "45d384c0d42ef025bcb284215887a3d5",
         "type": "Directory",
         "description": "Directory \"src/pages/07-17-2018-scg-worcester-18\"",
         "owner": "gatsby-source-filesystem"
@@ -1993,7 +1994,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-07-17T22:12:38.091Z",
-      "accessTime": "2018-08-17T13:57:05.741Z",
+      "accessTime": "2018-08-19T18:20:08.661Z",
       "changeTime": "2018-07-17T22:12:38.091Z",
       "birthTime": "2018-07-17T22:12:38.091Z",
       "root": "/",
@@ -2011,11 +2012,11 @@
       "blksize": 4096,
       "ino": 2362390,
       "blocks": 8,
-      "atimeMs": 1534514225741.1929,
+      "atimeMs": 1534702808661.3599,
       "mtimeMs": 1531865558090.7126,
       "ctimeMs": 1531865558090.7126,
       "birthtimeMs": 1531865558090.7126,
-      "atime": "2018-08-17T13:57:05.741Z",
+      "atime": "2018-08-19T18:20:08.661Z",
       "mtime": "2018-07-17T22:12:38.091Z",
       "ctime": "2018-07-17T22:12:38.091Z",
       "birthtime": "2018-07-17T22:12:38.091Z"
@@ -2099,7 +2100,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e1778f952cc09f8877e6ac9357128219",
+        "contentDigest": "650fba9fc86641231108ddb18d516a14",
         "type": "Directory",
         "description": "Directory \"src/pages/07-20-2018-to-the-moon\"",
         "owner": "gatsby-source-filesystem"
@@ -2111,7 +2112,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-07-20T22:50:02.679Z",
-      "accessTime": "2018-08-17T13:57:05.741Z",
+      "accessTime": "2018-08-19T18:20:08.661Z",
       "changeTime": "2018-07-20T22:50:02.679Z",
       "birthTime": "2018-07-20T22:50:02.679Z",
       "root": "/",
@@ -2129,11 +2130,11 @@
       "blksize": 4096,
       "ino": 2359658,
       "blocks": 8,
-      "atimeMs": 1534514225741.1929,
+      "atimeMs": 1534702808661.3599,
       "mtimeMs": 1532127002679.4465,
       "ctimeMs": 1532127002679.4465,
       "birthtimeMs": 1532127002679.4465,
-      "atime": "2018-08-17T13:57:05.741Z",
+      "atime": "2018-08-19T18:20:08.661Z",
       "mtime": "2018-07-20T22:50:02.679Z",
       "ctime": "2018-07-20T22:50:02.679Z",
       "birthtime": "2018-07-20T22:50:02.679Z"
@@ -2215,7 +2216,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "35fe1186191c0aad8c67c864eb222400",
+        "contentDigest": "e6fcf125341074839ada1df7cb48cb38",
         "type": "Directory",
         "description": "Directory \"src/pages/08-13-2018-stormlight-archive\"",
         "owner": "gatsby-source-filesystem"
@@ -2227,7 +2228,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-13T18:58:56.911Z",
-      "accessTime": "2018-08-17T13:57:05.745Z",
+      "accessTime": "2018-08-19T18:20:08.661Z",
       "changeTime": "2018-08-13T18:58:56.911Z",
       "birthTime": "2018-08-13T18:58:56.911Z",
       "root": "/",
@@ -2245,11 +2246,11 @@
       "blksize": 4096,
       "ino": 2361126,
       "blocks": 8,
-      "atimeMs": 1534514225745.1929,
+      "atimeMs": 1534702808661.3599,
       "mtimeMs": 1534186736910.619,
       "ctimeMs": 1534186736910.619,
       "birthtimeMs": 1534186736910.619,
-      "atime": "2018-08-17T13:57:05.745Z",
+      "atime": "2018-08-19T18:20:08.661Z",
       "mtime": "2018-08-13T18:58:56.911Z",
       "ctime": "2018-08-13T18:58:56.911Z",
       "birthtime": "2018-08-13T18:58:56.911Z"
@@ -2331,7 +2332,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "701ea01fc3301d1a9b1b00112bd2136e",
+        "contentDigest": "c10d4c74f254006201c260a1e3719405",
         "type": "Directory",
         "description": "Directory \"src/pages/08-13-2018-recreators\"",
         "owner": "gatsby-source-filesystem"
@@ -2343,7 +2344,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-13T21:28:21.335Z",
-      "accessTime": "2018-08-17T13:57:05.745Z",
+      "accessTime": "2018-08-19T18:20:08.661Z",
       "changeTime": "2018-08-13T21:28:41.499Z",
       "birthTime": "2018-08-13T21:28:41.499Z",
       "root": "/",
@@ -2361,11 +2362,11 @@
       "blksize": 4096,
       "ino": 2361466,
       "blocks": 8,
-      "atimeMs": 1534514225745.1929,
+      "atimeMs": 1534702808661.3599,
       "mtimeMs": 1534195701335.1895,
       "ctimeMs": 1534195721499.3096,
       "birthtimeMs": 1534195721499.3096,
-      "atime": "2018-08-17T13:57:05.745Z",
+      "atime": "2018-08-19T18:20:08.661Z",
       "mtime": "2018-08-13T21:28:21.335Z",
       "ctime": "2018-08-13T21:28:41.499Z",
       "birthtime": "2018-08-13T21:28:41.499Z"
@@ -2448,7 +2449,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0526557e00f3559f23bb5281789d9023",
+        "contentDigest": "e7c52c0b62799833c8d01db4c1b20119",
         "type": "Directory",
         "description": "Directory \"src/pages/08-15-2018-mistborn\"",
         "owner": "gatsby-source-filesystem"
@@ -2460,7 +2461,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-14T18:29:53.430Z",
-      "accessTime": "2018-08-17T13:57:05.745Z",
+      "accessTime": "2018-08-19T18:20:08.661Z",
       "changeTime": "2018-08-14T18:29:53.430Z",
       "birthTime": "2018-08-14T18:29:53.430Z",
       "root": "/",
@@ -2478,11 +2479,11 @@
       "blksize": 4096,
       "ino": 2376499,
       "blocks": 8,
-      "atimeMs": 1534514225745.1929,
+      "atimeMs": 1534702808661.3599,
       "mtimeMs": 1534271393429.8958,
       "ctimeMs": 1534271393429.8958,
       "birthtimeMs": 1534271393429.8958,
-      "atime": "2018-08-17T13:57:05.745Z",
+      "atime": "2018-08-19T18:20:08.661Z",
       "mtime": "2018-08-14T18:29:53.430Z",
       "ctime": "2018-08-14T18:29:53.430Z",
       "birthtime": "2018-08-14T18:29:53.430Z"
@@ -2564,7 +2565,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "deaa062a45e757326a2ce3c3df6dc4f7",
+        "contentDigest": "8046f320f2b538ebf9f9632d36b15845",
         "type": "Directory",
         "description": "Directory \"src/pages/08-17-2018-rakuen\"",
         "owner": "gatsby-source-filesystem"
@@ -2576,7 +2577,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-17T13:58:16.454Z",
-      "accessTime": "2018-08-17T13:58:20.010Z",
+      "accessTime": "2018-08-19T18:20:08.661Z",
       "changeTime": "2018-08-17T13:58:16.454Z",
       "birthTime": "2018-08-17T13:58:16.454Z",
       "root": "/",
@@ -2594,11 +2595,11 @@
       "blksize": 4096,
       "ino": 2362594,
       "blocks": 8,
-      "atimeMs": 1534514300009.6313,
+      "atimeMs": 1534702808661.3599,
       "mtimeMs": 1534514296453.6812,
       "ctimeMs": 1534514296453.6812,
       "birthtimeMs": 1534514296453.6812,
-      "atime": "2018-08-17T13:58:20.010Z",
+      "atime": "2018-08-19T18:20:08.661Z",
       "mtime": "2018-08-17T13:58:16.454Z",
       "ctime": "2018-08-17T13:58:16.454Z",
       "birthtime": "2018-08-17T13:58:16.454Z"
@@ -2650,731 +2651,6 @@
       "ctime": "2018-08-17T14:26:50.058Z",
       "birthtime": "2018-08-17T14:26:50.058Z"
     },
-    "SitePage /rakuen": {
-      "layout": "index",
-      "jsonName": "rakuen.json",
-      "internalComponentName": "ComponentRakuen",
-      "path": "/rakuen",
-      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "id": "SitePage /rakuen",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b18f7a8680ff4d3de81fe22cc2b94005",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /mistborn": {
-      "layout": "index",
-      "jsonName": "mistborn.json",
-      "internalComponentName": "ComponentMistborn",
-      "path": "/mistborn",
-      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "id": "SitePage /mistborn",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "13a21540e39ea75baf42895dd2481d84",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /recreators": {
-      "layout": "index",
-      "jsonName": "recreators.json",
-      "internalComponentName": "ComponentRecreators",
-      "path": "/recreators",
-      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "id": "SitePage /recreators",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8dbdc90f56ea5f1b7133c74bbde0f5f0",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /stormlight-archive": {
-      "layout": "index",
-      "jsonName": "stormlight-archive.json",
-      "internalComponentName": "ComponentStormlightArchive",
-      "path": "/stormlight-archive",
-      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "id": "SitePage /stormlight-archive",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fed38e56e18f9b9dd4eb08cbe1b37800",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /to-the-moon": {
-      "layout": "index",
-      "jsonName": "to-the-moon.json",
-      "internalComponentName": "ComponentToTheMoon",
-      "path": "/to-the-moon",
-      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "id": "SitePage /to-the-moon",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7266c5f623d78ba517c3f8f21eaa8c98",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /scg-worcester-18": {
-      "layout": "index",
-      "jsonName": "scg-worcester-18.json",
-      "internalComponentName": "ComponentScgWorcester18",
-      "path": "/scg-worcester-18",
-      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "id": "SitePage /scg-worcester-18",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "a147a8ea6277254bf7176c7c48458785",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /dresden-files": {
-      "layout": "index",
-      "jsonName": "dresden-files.json",
-      "internalComponentName": "ComponentDresdenFiles",
-      "path": "/dresden-files",
-      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "id": "SitePage /dresden-files",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "618f2049f96a4ed017ebf12cb3edbbef",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /edgar": {
-      "layout": "index",
-      "jsonName": "edgar.json",
-      "internalComponentName": "ComponentEdgar",
-      "path": "/edgar",
-      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "id": "SitePage /edgar",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b643b7acff2530b4a6a72866e97227fd",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /reanimator": {
-      "layout": "index",
-      "jsonName": "reanimator.json",
-      "internalComponentName": "ComponentReanimator",
-      "path": "/reanimator",
-      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "id": "SitePage /reanimator",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "06caff5f7cf87a612a2940069659a596",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /badlands": {
-      "layout": "index",
-      "jsonName": "badlands.json",
-      "internalComponentName": "ComponentBadlands",
-      "path": "/badlands",
-      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "id": "SitePage /badlands",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ab4bfe263d3439d54a9f8beed405de15",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /broken-earth": {
-      "layout": "index",
-      "jsonName": "broken-earth.json",
-      "internalComponentName": "ComponentBrokenEarth",
-      "path": "/broken-earth",
-      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "id": "SitePage /broken-earth",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c3177f6626880df5058483e03ce273a0",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /hello-world": {
-      "layout": "index",
-      "jsonName": "hello-world.json",
-      "internalComponentName": "ComponentHelloWorld",
-      "path": "/hello-world",
-      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
-      "id": "SitePage /hello-world",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "a05626f0741fc47f0d8cb4cc3cb22165",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/review/": {
-      "layout": "index",
-      "jsonName": "tags-review.json",
-      "internalComponentName": "ComponentTagsReview",
-      "path": "/tags/review/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Review"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/review/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5d0769ca0fe3bdce861d7c60641c1d16",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/video-games/": {
-      "layout": "index",
-      "jsonName": "tags-video-games.json",
-      "internalComponentName": "ComponentTagsVideoGames",
-      "path": "/tags/video-games/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Video Games"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/video-games/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b79814a9d81abb814d2cd3d84efe0483",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/book-review/": {
-      "layout": "index",
-      "jsonName": "tags-book-review.json",
-      "internalComponentName": "ComponentTagsBookReview",
-      "path": "/tags/book-review/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Book Review"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/book-review/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "a16196f9c011eecb8b1e5af3c720f20d",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/fantasy/": {
-      "layout": "index",
-      "jsonName": "tags-fantasy.json",
-      "internalComponentName": "ComponentTagsFantasy",
-      "path": "/tags/fantasy/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Fantasy"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/fantasy/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7fa168f3bfd23fde58c513e12a84985e",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/anime-review/": {
-      "layout": "index",
-      "jsonName": "tags-anime-review.json",
-      "internalComponentName": "ComponentTagsAnimeReview",
-      "path": "/tags/anime-review/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Anime Review"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/anime-review/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "827d727384b74360e75a06db15944532",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/isekai/": {
-      "layout": "index",
-      "jsonName": "tags-isekai.json",
-      "internalComponentName": "ComponentTagsIsekai",
-      "path": "/tags/isekai/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Isekai"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/isekai/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "cfcc9e8d91d59d3b4fe2250ba208f791",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/anime/": {
-      "layout": "index",
-      "jsonName": "tags-anime.json",
-      "internalComponentName": "ComponentTagsAnime",
-      "path": "/tags/anime/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Anime"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/anime/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c4ca4160c12baf1471a5166bc00c1020",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/magic-the-gathering/": {
-      "layout": "index",
-      "jsonName": "tags-magic-the-gathering.json",
-      "internalComponentName": "ComponentTagsMagicTheGathering",
-      "path": "/tags/magic-the-gathering/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Magic: The Gathering"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/magic-the-gathering/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "76f49e7dc0d7ece4d1e38f7bd383bad3",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/event/": {
-      "layout": "index",
-      "jsonName": "tags-event.json",
-      "internalComponentName": "ComponentTagsEvent",
-      "path": "/tags/event/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Event"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/event/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c5a3229a17bae55de6f4794a8fbdf238",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/life/": {
-      "layout": "index",
-      "jsonName": "tags-life.json",
-      "internalComponentName": "ComponentTagsLife",
-      "path": "/tags/life/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Life"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/life/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7d17a14749461de9f11412832dff5b1d",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/personal/": {
-      "layout": "index",
-      "jsonName": "tags-personal.json",
-      "internalComponentName": "ComponentTagsPersonal",
-      "path": "/tags/personal/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Personal"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/personal/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "25b96956572cf7fcd58e7e4b30bebb20",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/deck-review/": {
-      "layout": "index",
-      "jsonName": "tags-deck-review.json",
-      "internalComponentName": "ComponentTagsDeckReview",
-      "path": "/tags/deck-review/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Deck Review"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/deck-review/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f1d6d442c1d864ee12500f4803f2a4e2",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/format-review/": {
-      "layout": "index",
-      "jsonName": "tags-format-review.json",
-      "internalComponentName": "ComponentTagsFormatReview",
-      "path": "/tags/format-review/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Format Review"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/format-review/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "22f9be5ead2bf106185ae05a8128696a",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/card-review/": {
-      "layout": "index",
-      "jsonName": "tags-card-review.json",
-      "internalComponentName": "ComponentTagsCardReview",
-      "path": "/tags/card-review/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Card Review"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/card-review/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0d7a6cf59ed0919660580588ee9a23dd",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/worldbuilding/": {
-      "layout": "index",
-      "jsonName": "tags-worldbuilding.json",
-      "internalComponentName": "ComponentTagsWorldbuilding",
-      "path": "/tags/worldbuilding/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Worldbuilding"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/worldbuilding/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c170aeb6ce4077d5feca7397c693ccf9",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/intro/": {
-      "layout": "index",
-      "jsonName": "tags-intro.json",
-      "internalComponentName": "ComponentTagsIntro",
-      "path": "/tags/intro/",
-      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Intro"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
-      "id": "SitePage /tags/intro/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "35220a0f4746d80f9cb13cad07cef7a6",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/home/bryan/a-nerds-word/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/bryan/a-nerds-word/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fa8a5a6b7d7b6ee27620ab35f16bedab",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/home/bryan/a-nerds-word/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/bryan/a-nerds-word/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1b454dac9f7b8c2a5c27519f5a144e9d",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /search/": {
-      "layout": "index",
-      "jsonName": "search.json",
-      "internalComponentName": "ComponentSearch",
-      "path": "/search/",
-      "component": "/home/bryan/a-nerds-word/src/pages/search.js",
-      "componentChunkName": "component---src-pages-search-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/bryan/a-nerds-word/src/pages/search.js",
-      "id": "SitePage /search/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8219bc0010b95c0aebbb2979787aa9b0",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/": {
-      "layout": "index",
-      "jsonName": "tags.json",
-      "internalComponentName": "ComponentTags",
-      "path": "/tags/",
-      "component": "/home/bryan/a-nerds-word/src/pages/tags.js",
-      "componentChunkName": "component---src-pages-tags-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/bryan/a-nerds-word/src/pages/tags.js",
-      "id": "SitePage /tags/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "abd3515b95cd60fa97ecdaa9c0b61133",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/home/bryan/a-nerds-word/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/home/bryan/a-nerds-word/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5fcd51511d556d360404f3a15a212724",
-        "description": "Plugin prod-404",
-        "owner": "internal-data-bridge"
-      }
-    },
     "/home/bryan/a-nerds-word/src/pages/08-17-2018-rakuen/index.md absPath of file >>> MarkdownRemark": {
       "id": "/home/bryan/a-nerds-word/src/pages/08-17-2018-rakuen/index.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -3399,6 +2675,870 @@
       "excerpt": "",
       "rawMarkdownBody": "---\n\nHello there!\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/rakuen.jpg \"Rakuen\")\n\n\nToday's topic of discussion is a fantastic video game I recently played, [*Rakuen*](https://store.steampowered.com/app/559210/Rakuen/). Rakuen is an RPG built in RPGMaker, the video game creation tool that was used to build *To the Moon* and *Finding Paradise*, which I've written about before. \n\nUnlike *To the Moon*, which is almost entirely story based, with very few gamelike elements, Rakuen involves various puzzles and quests throughout the game, making it more like an RPG, following the namesake of the platform it was built with.\n\nThat said, *Rakuen* has a rich story, just like *To the Moon*. You play for most of the game as a sick child in a hospital, whose mother introduces him to Rakuen, a children's book about a fantasy world called Morizora’s Forest. She says the world is real, and that you can get to it through doors hidden inside the hospital. After meeting a few of the doctors, patients, and volunteers in the hospital, you gain access to hidden hallways that lead you to the world of Morizora’s Forest.\n\nYou spend a decent chunk of the game in both the hospital and the forest, trying to complete the five main story quests. These quests consist of resolving the conflicts or emotional trauma of the people you meet in the hospital, who each have parallels in Morizora's Forest. In resolving these quests, you not only play as the boy, but also as each of the characters themselves, reliving their memories and helping them find closure.\n\nThere are also darker events that are hinted at throughout the game, if you read various newspaper clippings or journal entries that are hidden in lockers or on the floor and walls of hallways. The game references the 2011 earthquake and tsunami in Japan, and several in-game events are directly influenced by it.\n\nThe game also makes references to other games, including a green mushroom who complains about a mustachioed man trying to eat it for an 'extra life', referencing the Mario franchise, and a painting of an man and a woman dancing next to a lighthouse, referencing *To the Moon*.\n\nAlthough most of the game has a whimsical, childlike feel, there are emotional events and deep, meaningful messages as well. The game deals with death, guilt, depression, loneliness, alchoholism, and the incredible grief of losing loved ones before their time. I personally was almost moved to tears twice near the end of the game, which I consider a hallmark of a well-written story. If you can make the observer of a story so enamored with your characters that when something ill befalls them, the observer is moved to tears, you've probably done a good job.\n\nOne more note: The music in the game is also very, very good, although personally I preferred the music in *To the Moon* a bit better.\n\nAnyway, if you want an RPG with a moving story and impactful characters, I would highly recommend *Rakuen*. It's also only $6 on Steam right now, so it's a pretty good deal too :)\n\nThat's all for today!\n\n-- Bryan ",
       "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/08-17-2018-rakuen/index.md"
+    },
+    "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18 absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7fc4cb11c5751454496d6ebdd8275b2e",
+        "type": "Directory",
+        "description": "Directory \"src/pages/08-19-2018-gp-providence-18\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18",
+      "relativePath": "08-19-2018-gp-providence-18",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-08-19T18:50:06.162Z",
+      "accessTime": "2018-08-19T18:50:20.502Z",
+      "changeTime": "2018-08-19T18:50:20.402Z",
+      "birthTime": "2018-08-19T18:50:20.402Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages",
+      "base": "08-19-2018-gp-providence-18",
+      "ext": "",
+      "name": "08-19-2018-gp-providence-18",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2378952,
+      "blocks": 8,
+      "atimeMs": 1534704620501.9565,
+      "mtimeMs": 1534704606161.7058,
+      "ctimeMs": 1534704620401.9548,
+      "birthtimeMs": 1534704620401.9548,
+      "atime": "2018-08-19T18:50:20.502Z",
+      "mtime": "2018-08-19T18:50:06.162Z",
+      "ctime": "2018-08-19T18:50:20.402Z",
+      "birthtime": "2018-08-19T18:50:20.402Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18/index.md absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18/index.md absPath of file",
+      "children": [
+        "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "26f4355670fe334c98a82f55475db1e2",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/08-19-2018-gp-providence-18/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18/index.md",
+      "relativePath": "08-19-2018-gp-providence-18/index.md",
+      "extension": "md",
+      "size": 2719,
+      "prettySize": "2.72 kB",
+      "modifiedTime": "2018-08-19T19:14:47.684Z",
+      "accessTime": "2018-08-19T19:14:16.659Z",
+      "changeTime": "2018-08-19T19:14:47.684Z",
+      "birthTime": "2018-08-19T19:14:47.684Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "08-19-2018-gp-providence-18",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2383854,
+      "blocks": 8,
+      "atimeMs": 1534706056659.342,
+      "mtimeMs": 1534706087683.7712,
+      "ctimeMs": 1534706087683.7712,
+      "birthtimeMs": 1534706087683.7712,
+      "atime": "2018-08-19T19:14:16.659Z",
+      "mtime": "2018-08-19T19:14:47.684Z",
+      "ctime": "2018-08-19T19:14:47.684Z",
+      "birthtime": "2018-08-19T19:14:47.684Z"
+    },
+    "SitePage /gp-providence-18": {
+      "layout": "index",
+      "jsonName": "gp-providence-18.json",
+      "internalComponentName": "ComponentGpProvidence18",
+      "path": "/gp-providence-18",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /gp-providence-18",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7d7cfd88c3d56da9f4fc3d7e30edd089",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /rakuen": {
+      "layout": "index",
+      "jsonName": "rakuen.json",
+      "internalComponentName": "ComponentRakuen",
+      "path": "/rakuen",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /rakuen",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "01fbf8397d264304fbd23b442f5e8836",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /mistborn": {
+      "layout": "index",
+      "jsonName": "mistborn.json",
+      "internalComponentName": "ComponentMistborn",
+      "path": "/mistborn",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /mistborn",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fcc0f1fc3f59205b960d22b5232789c3",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /recreators": {
+      "layout": "index",
+      "jsonName": "recreators.json",
+      "internalComponentName": "ComponentRecreators",
+      "path": "/recreators",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /recreators",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "dfe566e808cd0595eac347e5c01340d6",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /stormlight-archive": {
+      "layout": "index",
+      "jsonName": "stormlight-archive.json",
+      "internalComponentName": "ComponentStormlightArchive",
+      "path": "/stormlight-archive",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /stormlight-archive",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5036ae4e7db8054ced09fb8e2bcb087e",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /to-the-moon": {
+      "layout": "index",
+      "jsonName": "to-the-moon.json",
+      "internalComponentName": "ComponentToTheMoon",
+      "path": "/to-the-moon",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /to-the-moon",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d82dc1a0b0d172a51808cdc292121d99",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /scg-worcester-18": {
+      "layout": "index",
+      "jsonName": "scg-worcester-18.json",
+      "internalComponentName": "ComponentScgWorcester18",
+      "path": "/scg-worcester-18",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /scg-worcester-18",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3d0220a0d2ffc9a3bc1ea307405ad857",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /dresden-files": {
+      "layout": "index",
+      "jsonName": "dresden-files.json",
+      "internalComponentName": "ComponentDresdenFiles",
+      "path": "/dresden-files",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /dresden-files",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "915aa8418b8f7e662f52f28e437b90e6",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /edgar": {
+      "layout": "index",
+      "jsonName": "edgar.json",
+      "internalComponentName": "ComponentEdgar",
+      "path": "/edgar",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /edgar",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "474c868dc53e6b1c7bbf789acc47c962",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /reanimator": {
+      "layout": "index",
+      "jsonName": "reanimator.json",
+      "internalComponentName": "ComponentReanimator",
+      "path": "/reanimator",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /reanimator",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7a0dad6e36541cf7487e29300c28df52",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /badlands": {
+      "layout": "index",
+      "jsonName": "badlands.json",
+      "internalComponentName": "ComponentBadlands",
+      "path": "/badlands",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /badlands",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "58a87b62ab9053c4da7d56ddb2cb1447",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /broken-earth": {
+      "layout": "index",
+      "jsonName": "broken-earth.json",
+      "internalComponentName": "ComponentBrokenEarth",
+      "path": "/broken-earth",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /broken-earth",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d98a1f97b8683dd1f74aee5d6b8f992d",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hello-world": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /hello-world",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "00231f340fcd29d2104c86a80aa8c8aa",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/magic-the-gathering/": {
+      "layout": "index",
+      "jsonName": "tags-magic-the-gathering.json",
+      "internalComponentName": "ComponentTagsMagicTheGathering",
+      "path": "/tags/magic-the-gathering/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Magic: The Gathering"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/magic-the-gathering/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9d49d3295acbe2ae6f82f450276f7ef7",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/event/": {
+      "layout": "index",
+      "jsonName": "tags-event.json",
+      "internalComponentName": "ComponentTagsEvent",
+      "path": "/tags/event/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Event"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/event/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0af89fa3615716b39342dc0aa786ec59",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/life/": {
+      "layout": "index",
+      "jsonName": "tags-life.json",
+      "internalComponentName": "ComponentTagsLife",
+      "path": "/tags/life/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Life"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/life/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "434bc085d2edb007abca4995ea888753",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/personal/": {
+      "layout": "index",
+      "jsonName": "tags-personal.json",
+      "internalComponentName": "ComponentTagsPersonal",
+      "path": "/tags/personal/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Personal"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/personal/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6aef0a67f912ffed9a79fa2e22a5eaac",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/review/": {
+      "layout": "index",
+      "jsonName": "tags-review.json",
+      "internalComponentName": "ComponentTagsReview",
+      "path": "/tags/review/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Review"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/review/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d853c281025c943ff6e9b127c6223708",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/video-games/": {
+      "layout": "index",
+      "jsonName": "tags-video-games.json",
+      "internalComponentName": "ComponentTagsVideoGames",
+      "path": "/tags/video-games/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Video Games"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/video-games/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9292741ed7369d75e8499a4ca3c06486",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/book-review/": {
+      "layout": "index",
+      "jsonName": "tags-book-review.json",
+      "internalComponentName": "ComponentTagsBookReview",
+      "path": "/tags/book-review/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Book Review"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/book-review/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d0dfc2039f5d48cd393f184e98e47496",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/fantasy/": {
+      "layout": "index",
+      "jsonName": "tags-fantasy.json",
+      "internalComponentName": "ComponentTagsFantasy",
+      "path": "/tags/fantasy/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Fantasy"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/fantasy/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "898ed2d1299d11ab6dfd56b2bbb3538a",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/anime-review/": {
+      "layout": "index",
+      "jsonName": "tags-anime-review.json",
+      "internalComponentName": "ComponentTagsAnimeReview",
+      "path": "/tags/anime-review/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Anime Review"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/anime-review/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bce543a8d0fcffbd3e3bbf8d98ed8dcd",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/isekai/": {
+      "layout": "index",
+      "jsonName": "tags-isekai.json",
+      "internalComponentName": "ComponentTagsIsekai",
+      "path": "/tags/isekai/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Isekai"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/isekai/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1221252c5d940ae947259e5800dfe71e",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/anime/": {
+      "layout": "index",
+      "jsonName": "tags-anime.json",
+      "internalComponentName": "ComponentTagsAnime",
+      "path": "/tags/anime/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Anime"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/anime/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "085ba4716562d3d610d01b6f9113235c",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/deck-review/": {
+      "layout": "index",
+      "jsonName": "tags-deck-review.json",
+      "internalComponentName": "ComponentTagsDeckReview",
+      "path": "/tags/deck-review/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Deck Review"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/deck-review/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1b39eb5f9f9e8c534e090510a18be0e7",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/format-review/": {
+      "layout": "index",
+      "jsonName": "tags-format-review.json",
+      "internalComponentName": "ComponentTagsFormatReview",
+      "path": "/tags/format-review/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Format Review"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/format-review/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "289b88ab51295d16233d401a299b67d3",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/card-review/": {
+      "layout": "index",
+      "jsonName": "tags-card-review.json",
+      "internalComponentName": "ComponentTagsCardReview",
+      "path": "/tags/card-review/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Card Review"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/card-review/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bc9ebac6ad94e687306199c34ff4373e",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/worldbuilding/": {
+      "layout": "index",
+      "jsonName": "tags-worldbuilding.json",
+      "internalComponentName": "ComponentTagsWorldbuilding",
+      "path": "/tags/worldbuilding/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Worldbuilding"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/worldbuilding/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6a933f23cd07853d2722fb2c7e8dd721",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/intro/": {
+      "layout": "index",
+      "jsonName": "tags-intro.json",
+      "internalComponentName": "ComponentTagsIntro",
+      "path": "/tags/intro/",
+      "component": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Intro"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/tags.js",
+      "id": "SitePage /tags/intro/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bcd6bb809d17916f54a7cb8e3092beb6",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/home/bryan/a-nerds-word/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/bryan/a-nerds-word/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f239aab2a7eba2eebc5d6d31d43ac8bd",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/bryan/a-nerds-word/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/bryan/a-nerds-word/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a4c6e4c5e333fe3714f3fd089570a22e",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /search/": {
+      "layout": "index",
+      "jsonName": "search.json",
+      "internalComponentName": "ComponentSearch",
+      "path": "/search/",
+      "component": "/home/bryan/a-nerds-word/src/pages/search.js",
+      "componentChunkName": "component---src-pages-search-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/bryan/a-nerds-word/src/pages/search.js",
+      "id": "SitePage /search/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1a6f55e25f48159b33ca6ced363739b2",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/": {
+      "layout": "index",
+      "jsonName": "tags.json",
+      "internalComponentName": "ComponentTags",
+      "path": "/tags/",
+      "component": "/home/bryan/a-nerds-word/src/pages/tags.js",
+      "componentChunkName": "component---src-pages-tags-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/bryan/a-nerds-word/src/pages/tags.js",
+      "id": "SitePage /tags/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "93e3f58fe73c457092b270925d4c617f",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/home/bryan/a-nerds-word/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/home/bryan/a-nerds-word/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d1e1b478290468b424bf31caf3a6c2a6",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18/index.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/gp-providence-18\"\ndate: \"2018-08-19T13:00:00.962Z\"\ntitle: \"GP Providence 2018\"\ntags: [\"Magic: The Gathering\", \"Event\", \"Life\", \"Personal\"]\n------\n\nHi again everyone! Today, I'll be talking about Grand Prix Providence, another major magic event I participated in over the weekend.\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/gp_providence.jpg \"GP Providence\")\n\nGP Providence is similar to SCG Worcester, which I talked about a while back, but this time around, the main event was standard. I don't play standard, so I decided to go do side events instead. Several of my friends were going to do the main event, and one of them was giving me a ride to and from the event, so I figured I'd use the opportunity to go and visit some people I hadn't seen in a while.\n\nOn a side note, I accepted a job offer a couple of weeks ago, and I will be starting work as a software engineer on September 4th! I'm really excited to start my career, and I figured I should take the time to visit with friends who live further away before I get swamped with work.\n\nAnyway, the event was a great experience. I did two draft events Friday night, and then played in a commander event on Saturday. Each event comes with a promo land and tix you can spend on things in the prize wall, depending on how you do in the event (for reference, 10 tix equals one $4 standard pack). I was planning on doing another event after that one, but the last round of commander went to time (it was a three way tie, so we all split an extra 60 tix!).\n\nAfter the commander event, I grabbed a delicious lunch at Angelo's Civita Farnese (shoutout to one of the owners, Jamie, who chatted with me while I waited for my custom-order pizza). I'd definitely recommend the place for a good, quick bite to eat nearby the convention center.\n\nOne of my friends who I hadn't seen in a long time ended up attending the event unexpectedly (she moved away a few years ago, so it was great to see her there), so after lunch we ended up playing a bunch of magic together since we were both done with events. We played a bit of modern, and then played pack wars with the prize packs I got from my tix. For reference, pack wars is essentially a quick, rather silly format, where your deck consists of only the cards in a single pack and you have access to unlimited mana.\n\nAnother good note about the event: I ended up trading a bunch of bulk in my binder for the last roughly $70 of my legacy deck, so it's official: I now own 100% of R/B Reanimator!\n\nAnyway, I had a blast at the event, and while none of my friends made day two of the main event, it was awesome hanging out with them and playing some good old-fashioned magic.\n\nSee you next time!\n\n-- Bryan\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "56f4b4600750ce7a6449ea5fc15d9eb2",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "GP Providence 2018",
+        "path": "/gp-providence-18",
+        "date": "2018-08-19T13:00:00.962Z",
+        "tags": [
+          "Magic: The Gathering",
+          "Event",
+          "Life",
+          "Personal"
+        ],
+        "_PARENT": "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18/index.md absPath of file",
+        "parent": "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "---\n\nHi again everyone! Today, I'll be talking about Grand Prix Providence, another major magic event I participated in over the weekend.\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/gp_providence.jpg \"GP Providence\")\n\nGP Providence is similar to SCG Worcester, which I talked about a while back, but this time around, the main event was standard. I don't play standard, so I decided to go do side events instead. Several of my friends were going to do the main event, and one of them was giving me a ride to and from the event, so I figured I'd use the opportunity to go and visit some people I hadn't seen in a while.\n\nOn a side note, I accepted a job offer a couple of weeks ago, and I will be starting work as a software engineer on September 4th! I'm really excited to start my career, and I figured I should take the time to visit with friends who live further away before I get swamped with work.\n\nAnyway, the event was a great experience. I did two draft events Friday night, and then played in a commander event on Saturday. Each event comes with a promo land and tix you can spend on things in the prize wall, depending on how you do in the event (for reference, 10 tix equals one $4 standard pack). I was planning on doing another event after that one, but the last round of commander went to time (it was a three way tie, so we all split an extra 60 tix!).\n\nAfter the commander event, I grabbed a delicious lunch at Angelo's Civita Farnese (shoutout to one of the owners, Jamie, who chatted with me while I waited for my custom-order pizza). I'd definitely recommend the place for a good, quick bite to eat nearby the convention center.\n\nOne of my friends who I hadn't seen in a long time ended up attending the event unexpectedly (she moved away a few years ago, so it was great to see her there), so after lunch we ended up playing a bunch of magic together since we were both done with events. We played a bit of modern, and then played pack wars with the prize packs I got from my tix. For reference, pack wars is essentially a quick, rather silly format, where your deck consists of only the cards in a single pack and you have access to unlimited mana.\n\nAnother good note about the event: I ended up trading a bunch of bulk in my binder for the last roughly $70 of my legacy deck, so it's official: I now own 100% of R/B Reanimator!\n\nAnyway, I had a blast at the event, and while none of my friends made day two of the main event, it was awesome hanging out with them and playing some good old-fashioned magic.\n\nSee you next time!\n\n-- Bryan\n",
+      "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18/index.md"
     }
   },
   "status": {
@@ -3448,6 +3588,9 @@
       ],
       "/home/bryan/a-nerds-word/src/pages/08-17-2018-rakuen/index.md absPath of file >>> MarkdownRemark": [
         "/rakuen"
+      ],
+      "/home/bryan/a-nerds-word/src/pages/08-19-2018-gp-providence-18/index.md absPath of file >>> MarkdownRemark": [
+        "/gp-providence-18"
       ]
     },
     "connections": {
