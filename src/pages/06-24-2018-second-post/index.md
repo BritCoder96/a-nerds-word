@@ -7,7 +7,7 @@ tags: ["Book Review", "Fantasy", "Worldbuilding"]
 
 I've read a lot of science fiction and fantasy novels over the years, too many to go through in one post. So I'm going to start with the most recent one I really enjoyed, and go back from there.
 
-The Broken Earth trilogy starts with [The Fifth Season](https://www.amazon.com/dp/B00H25FCSQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by N. K. Jemisin. It won a Hugo Award (the highest honor in science fiction literature, for those of you who don't know) in 2016, and for me, at least, that award was well deserved.
+The Broken Earth trilogy starts with [The Fifth Season](https://www.amazon.com/dp/B00H25FCSQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by N. K. Jemisin. All three books in the trilogy won the Hugo Award (the highest honor in science fiction literature, for those of you who don't know) for best novel for their respective years of publication, and for me, at least, those awards were well deserved.
 
 The raw emotions in the series are incredibly intense, and I have to say, these books are not for the faint of heart. A lot of terrible things happen to the main characters, so if you're looking for a cheery set of books, look elsewhere.
 
@@ -24,3 +24,5 @@ There's much more to the plot than that, and there's a lot I can't cover, includ
 The writing in these books is sublime, but also surprisingly unique. The books take place in the present tense, which is rare enough as it is, but they also employ the first, second, and third person voices at various points. This is something I've almost never seen before, and yet Jemisin does it masterfully. It's a breath of fresh air from the regular style of writing you often see in fantasy.
 
 Anyway, that's my book review for today. I hope you enjoyed it, and see you next time!
+
+*Edit: Corrected on 08/21/2018 - This post previously stated that only the first book in the trilogy recieved the Hugo award for best novel; in fact, all three novels in the trilogy won best novel for their respective years of publication.*
