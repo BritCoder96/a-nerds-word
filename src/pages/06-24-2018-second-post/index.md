@@ -5,6 +5,9 @@ title: "The Broken Earth Trilogy Review"
 tags: ["Book Review", "Fantasy", "Worldbuilding"]
 ---
 
+![alt text](https://s3.amazonaws.com/a-nerds-word/the_fifth_season.jpg "The Fifth Season")
+
+
 I've read a lot of science fiction and fantasy novels over the years, too many to go through in one post. So I'm going to start with the most recent one I really enjoyed, and go back from there.
 
 The Broken Earth trilogy starts with [The Fifth Season](https://www.amazon.com/dp/B00H25FCSQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by N. K. Jemisin. All three books in the trilogy won the Hugo Award (the highest honor in science fiction literature, for those of you who don't know) for best novel for their respective years of publication, and for me, at least, those awards were well deserved.
