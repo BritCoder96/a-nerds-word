@@ -10,7 +10,7 @@ I'll be using this blog to post about some of the things I love - namely, board 
 
 Some posts will end up being reviews of books/shows/movies/games/cards I really enjoyed, while others will be a more general description of something really interesting that I discovered or accomplished.
 
-I'm also currently working on my first novel, and once I'm start getting closer to publication (hopefully soon), I'll be posting more about that journey.
+I'm also currently working on my first novel, and once I start getting closer to publication (hopefully soon), I'll be posting more about that journey.
 
 As with most blogs, you can use the tags to look for related content.
 
