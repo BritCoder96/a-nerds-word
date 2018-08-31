@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"frontmatter":{"title":"Made in Abyss","path":"/made-in-abyss"}}},{"node":{"frontmatter":{"title":"Re:Creators","path":"/recreators"}}}]}},"pathContext":{"tag":"Anime"}}
+{"data":{"allMarkdownRemark":{"totalCount":3,"edges":[{"node":{"frontmatter":{"title":"Violet Evergarden","path":"/violet-evergarden"}}},{"node":{"frontmatter":{"title":"Made in Abyss","path":"/made-in-abyss"}}},{"node":{"frontmatter":{"title":"Re:Creators","path":"/recreators"}}}]}},"pathContext":{"tag":"Anime"}}

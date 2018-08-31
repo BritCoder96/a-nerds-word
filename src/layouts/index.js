@@ -126,7 +126,7 @@ const TemplateWrapper = ({ children }) => (
       </Media>
       <GoogleAd 
             client="ca-pub-7802158485711596" 
-            slot="7802158485711596" 
+            slot="7806394673" 
             format="auto" 
             wrapperDivStyle={style}
           />

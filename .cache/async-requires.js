@@ -13,6 +13,7 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/home/bryan/a-nerds-word/.cache/json/layout-index.json"),
+  "violet-evergarden.json": require("gatsby-module-loader?name=path---violet-evergarden!/home/bryan/a-nerds-word/.cache/json/violet-evergarden.json"),
   "made-in-abyss.json": require("gatsby-module-loader?name=path---made-in-abyss!/home/bryan/a-nerds-word/.cache/json/made-in-abyss.json"),
   "gp-providence-18.json": require("gatsby-module-loader?name=path---gp-providence-18!/home/bryan/a-nerds-word/.cache/json/gp-providence-18.json"),
   "rakuen.json": require("gatsby-module-loader?name=path---rakuen!/home/bryan/a-nerds-word/.cache/json/rakuen.json"),

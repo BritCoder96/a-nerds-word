@@ -18,6 +18,7 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/home/bryan/a-nerds-word/.cache/json/layout-index.json"),
+  "violet-evergarden.json": require("/home/bryan/a-nerds-word/.cache/json/violet-evergarden.json"),
   "made-in-abyss.json": require("/home/bryan/a-nerds-word/.cache/json/made-in-abyss.json"),
   "gp-providence-18.json": require("/home/bryan/a-nerds-word/.cache/json/gp-providence-18.json"),
   "rakuen.json": require("/home/bryan/a-nerds-word/.cache/json/rakuen.json"),
