@@ -17,6 +17,8 @@ At first, she struggles. While her technical ability to write is excellent, her 
 
 The show itself has some of the most beautiful animation and music I've seen in any show ever, and the period dress of the early 1900s is spot on. The show also invented their own languange, which is fascinating when you take into account that typewriters are prevelant in the show, where you can see the language in action.
 
-Anyway, I'd highly recommend Violet Evergarden for people who want to feel all the feels. See you next time!
+Anyway, I'd highly recommend Violet Evergarden for people who want to feel all the feels. It came out earlier this year, and is available on Neflix.
+
+That's it for now! See you next time!
 
 -- Bryan

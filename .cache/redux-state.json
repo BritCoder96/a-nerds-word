@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "47da8050f0778c7a62b4966a4bb8d2e6",
+        "contentDigest": "dc03ac9f018eb851b9f821804af15827",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1013,12 +1013,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-31T19:41:05.091Z",
+      "buildTime": "2018-08-31T19:56:08.761Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e79dec828df42635378e54ce8ddc318d",
+        "contentDigest": "cba982bba93898aabf1d395c085c11ce",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2915,7 +2915,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cb3131b128aca017a6771bcba1a04a39",
+        "contentDigest": "b21cf92bd740c4135e8cee6b53f0d31d",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/08-31-2018-violet-evergarden/index.md\"",
@@ -2925,12 +2925,12 @@
       "absolutePath": "/home/bryan/a-nerds-word/src/pages/08-31-2018-violet-evergarden/index.md",
       "relativePath": "08-31-2018-violet-evergarden/index.md",
       "extension": "md",
-      "size": 1961,
-      "prettySize": "1.96 kB",
-      "modifiedTime": "2018-08-31T19:47:22.647Z",
-      "accessTime": "2018-08-31T19:47:11.022Z",
-      "changeTime": "2018-08-31T19:47:22.647Z",
-      "birthTime": "2018-08-31T19:47:22.647Z",
+      "size": 2040,
+      "prettySize": "2.04 kB",
+      "modifiedTime": "2018-08-31T19:56:34.718Z",
+      "accessTime": "2018-08-31T19:56:04.906Z",
+      "changeTime": "2018-08-31T19:56:34.718Z",
+      "birthTime": "2018-08-31T19:56:34.718Z",
       "root": "/",
       "dir": "/home/bryan/a-nerds-word/src/pages/08-31-2018-violet-evergarden",
       "base": "index.md",
@@ -2946,14 +2946,14 @@
       "blksize": 4096,
       "ino": 2375955,
       "blocks": 8,
-      "atimeMs": 1535744831022.4548,
-      "mtimeMs": 1535744842646.6099,
-      "ctimeMs": 1535744842646.6099,
-      "birthtimeMs": 1535744842646.6099,
-      "atime": "2018-08-31T19:47:11.022Z",
-      "mtime": "2018-08-31T19:47:22.647Z",
-      "ctime": "2018-08-31T19:47:22.647Z",
-      "birthtime": "2018-08-31T19:47:22.647Z"
+      "atimeMs": 1535745364905.5618,
+      "mtimeMs": 1535745394717.9583,
+      "ctimeMs": 1535745394717.9583,
+      "birthtimeMs": 1535745394717.9583,
+      "atime": "2018-08-31T19:56:04.906Z",
+      "mtime": "2018-08-31T19:56:34.718Z",
+      "ctime": "2018-08-31T19:56:34.718Z",
+      "birthtime": "2018-08-31T19:56:34.718Z"
     },
     "/home/bryan/a-nerds-word/src/pages/06-24-2018-broken-earth/index.md absPath of file >>> MarkdownRemark": {
       "id": "/home/bryan/a-nerds-word/src/pages/06-24-2018-broken-earth/index.md absPath of file >>> MarkdownRemark",
@@ -3023,7 +3023,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e2e8d8ff78b06a8aec8d3204b4889252",
+        "contentDigest": "bfe135dacc850dfdd34e470ba48c1595",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3044,7 +3044,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fd6ee097240ae9f3bf5ff4d986403e9b",
+        "contentDigest": "12fdcb9dc58d5f186b9cb1c0b1fff9c5",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3065,7 +3065,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "05761be85af0fbd9c90718283b2f6771",
+        "contentDigest": "a49080e9b41386f4824495287dbddf7d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3086,7 +3086,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "77faeb7d6570cd5a4336af048cd96eaa",
+        "contentDigest": "18ec6be808ba2bb9376404228935237a",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3107,7 +3107,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bf94f5278a91bcf462b32adedf59b975",
+        "contentDigest": "28bd7e2f2b2cd474bebec1901fff9417",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3128,7 +3128,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ff0e136f3c711c2d8015aa15dbdcf37c",
+        "contentDigest": "c95318103e11fd7f5cf4e721771baf35",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3149,7 +3149,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a062ad90b59879d81b2a1c76ca4c03a3",
+        "contentDigest": "6abc3f6bb83daad068cfc4e96bae6fed",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3170,7 +3170,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6d81d363d2c26ed89d1e6ca04690f050",
+        "contentDigest": "486b8f2342f56c567b4fb747f3bb49fc",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3191,7 +3191,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "94f6e756f4174259cbeec9f17f0fcb55",
+        "contentDigest": "aded1e3c9c882a858f3b8170ea7687d4",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3212,7 +3212,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8f6b77b1de7b745918f995c555556cad",
+        "contentDigest": "99e8bbcc7cc50331cb572b01d69dba5e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3233,7 +3233,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f2b8f3b4beaa720b8910afd488a70ed2",
+        "contentDigest": "f2e3443e4ff1fb9fcdeabc0329d761f0",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3254,7 +3254,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cf0309618e13b243bae6e38bacc6f6fc",
+        "contentDigest": "545ab529a90fd5564266a1ee561d086a",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3275,7 +3275,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ec99bfdf2bc5f8ca6b795d9085351a55",
+        "contentDigest": "08c7b2bf42caff441b4ce6b1b8923a56",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3296,7 +3296,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b6a0f068b960731da6d105ddebf63b95",
+        "contentDigest": "25c72af7b586fb91aa138d31177d8c98",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3317,7 +3317,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "22e633c9e450934a3aaf7f6f264f7fec",
+        "contentDigest": "36a478ee50f4e0d716a79c232b51d6b8",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3340,7 +3340,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9c9103ecde1c7b5c8ebfaa2c05ee2d34",
+        "contentDigest": "f6c667e6593446356c90a7f71c8f9b8d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3363,7 +3363,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0decbfabfd23b211b8e5d509d3b21081",
+        "contentDigest": "8caee5a93cd358a7b4fc124b4f5c72ee",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3386,7 +3386,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "768b176ed232128286556a73fc1d903d",
+        "contentDigest": "a790e6845f43e2626b6e4d8e21077ef3",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3409,7 +3409,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "be23eff64919dbd840f982aa5ee8c061",
+        "contentDigest": "84e7016bfdc6b7a5ee54f1d3858cd06f",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3432,7 +3432,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6a13308862c36870632711d8b63157e7",
+        "contentDigest": "9bdea1c12552e3f6e51e4494c24572c8",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3455,7 +3455,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8d5cefb57c8b388d10310d4da1a0eff7",
+        "contentDigest": "8b335fbcaf4c969ba8c4b03fd0d937ff",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3478,7 +3478,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "172387a1f0f227e35c8c8e0ef9c10f87",
+        "contentDigest": "8b1bfb16453ba12b712e66ba9cc23eea",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3501,7 +3501,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8f22e946f86c782a5bb5cc482adce44a",
+        "contentDigest": "3c0837b5cbae694fbc74adf3b9bd4632",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3524,7 +3524,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7cc740c8064a316068624179604fb61f",
+        "contentDigest": "5def5b733d3a46d7b97779ca6bd69bcc",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3547,7 +3547,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9d606f8731e8dec8fd224d7027f4ff77",
+        "contentDigest": "0ca0dc53cd4d4edfea03625fa4d1b6d6",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3570,7 +3570,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "05fdbd8b3eec2fb1bb3b3a0e99aaec73",
+        "contentDigest": "a0d8110e68392e28666a01de1f17d0bd",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3593,7 +3593,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "553f3b1ccb003c0d8230fd296e89e731",
+        "contentDigest": "973a76723df8424aa9f32d46d234fb59",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3616,7 +3616,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9fdee9e6cc20516cb54495402bd7499f",
+        "contentDigest": "bfec4e7e38bc6e77d7c91e0ef96ea1d0",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3639,7 +3639,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "83e7c1abfdbdc18bfa87b5915d29c410",
+        "contentDigest": "626eb6ae782efcbe8436eebec2b8dd9b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3662,7 +3662,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5ecdbf94a6cc5b6c9f14f692c33c9dda",
+        "contentDigest": "6e57ae09a06a305327c447947f31cc7a",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3685,7 +3685,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3826ed412593758417b75225d877e9de",
+        "contentDigest": "3078eaa56311b54141277cf3be0e7765",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3706,7 +3706,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d5f10db6bcea423c61b892a0b4e82008",
+        "contentDigest": "e86b67517ff00179c4898e0984cec1eb",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3727,7 +3727,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "99c354f4af35e85d2979113aaba5f8b3",
+        "contentDigest": "0331fcbf42aaeeb9da5f01e48c113884",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3748,7 +3748,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b0e98958932e3d8f07aaa6eb7b1ae21f",
+        "contentDigest": "450058cdda9a8a59597fafeb3f534bed",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3769,7 +3769,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "326d38a17f7251fd5238b39dfec07e73",
+        "contentDigest": "087246b9b6399ccdd7af72c2eb79e6ee",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3790,7 +3790,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "69e08ec4e436bc450e540e216b480aed",
+        "contentDigest": "4e1b2e05e56aa8315079553a6b5e3f84",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -3800,9 +3800,9 @@
       "children": [],
       "parent": "/home/bryan/a-nerds-word/src/pages/08-31-2018-violet-evergarden/index.md absPath of file",
       "internal": {
-        "content": "---\npath: \"/violet-evergarden\"\ndate: \"2018-08-31T18:00:00.962Z\"\ntitle: \"Violet Evergarden\"\ntags: [\"Anime Review\", \"Anime\"]\n------\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/violetevergarden.jpg \"Violet Evergarden\")\n\nContinuing on last post's trend, today I'll be writing about another great anime that came out over the past year, [*Violet Evergarden*](https://en.wikipedia.org/wiki/Violet_Evergarden).\n\nViolet Evergarden isn't a particularly action-packed anime, but if you're looking for something emotional that will probably make you cry, it's the right thing for you.\n\nThe show is set in an alternate Earth very similar to ours around the end of World War I. The main character, Violet, was an orpan who was trained from a young age to be a soldier. Once the war ended, she needs to integrate into the now peaceful world, but finds that the no-nonsense, unemotional, militaristic way she was raised isn't exactly ideal during peacetime. She manages to find a job, thanks to one of the officers she knew in the army, as an Auto Memory Doll - someone who writes letters for citizens who can't read or write themselves.\n\nAt first, she struggles. While her technical ability to write is excellent, her letters are short and blunt, with none of the emotion and thoughtfulness that goes into a meaningful letter. However, throughout the show, and through her interaction between both her co-workers and her clients, Violent slowly, painfully learns what it's like to be human, and what it's like to be loved.\n\nThe show itself has some of the most beautiful animation and music I've seen in any show ever, and the period dress of the early 1900s is spot on. The show also invented their own languange, which is fascinating when you take into account that typewriters are prevelant in the show, where you can see the language in action.\n\nAnyway, I'd highly recommend Violet Evergarden for people who want to feel all the feels. See you next time!\n\n-- Bryan",
+        "content": "---\npath: \"/violet-evergarden\"\ndate: \"2018-08-31T18:00:00.962Z\"\ntitle: \"Violet Evergarden\"\ntags: [\"Anime Review\", \"Anime\"]\n------\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/violetevergarden.jpg \"Violet Evergarden\")\n\nContinuing on last post's trend, today I'll be writing about another great anime that came out over the past year, [*Violet Evergarden*](https://en.wikipedia.org/wiki/Violet_Evergarden).\n\nViolet Evergarden isn't a particularly action-packed anime, but if you're looking for something emotional that will probably make you cry, it's the right thing for you.\n\nThe show is set in an alternate Earth very similar to ours around the end of World War I. The main character, Violet, was an orpan who was trained from a young age to be a soldier. Once the war ended, she needs to integrate into the now peaceful world, but finds that the no-nonsense, unemotional, militaristic way she was raised isn't exactly ideal during peacetime. She manages to find a job, thanks to one of the officers she knew in the army, as an Auto Memory Doll - someone who writes letters for citizens who can't read or write themselves.\n\nAt first, she struggles. While her technical ability to write is excellent, her letters are short and blunt, with none of the emotion and thoughtfulness that goes into a meaningful letter. However, throughout the show, and through her interaction between both her co-workers and her clients, Violent slowly, painfully learns what it's like to be human, and what it's like to be loved.\n\nThe show itself has some of the most beautiful animation and music I've seen in any show ever, and the period dress of the early 1900s is spot on. The show also invented their own languange, which is fascinating when you take into account that typewriters are prevelant in the show, where you can see the language in action.\n\nAnyway, I'd highly recommend Violet Evergarden for people who want to feel all the feels. It came out earlier this year, and is available on Neflix.\n\nThat's it for now! See you next time!\n\n-- Bryan",
         "type": "MarkdownRemark",
-        "contentDigest": "0b015b8a62d48f113eb0d28a4895f21a",
+        "contentDigest": "55100408cf90010d923941383b2988bb",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -3817,7 +3817,7 @@
         "parent": "/home/bryan/a-nerds-word/src/pages/08-31-2018-violet-evergarden/index.md absPath of file"
       },
       "excerpt": "",
-      "rawMarkdownBody": "---\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/violetevergarden.jpg \"Violet Evergarden\")\n\nContinuing on last post's trend, today I'll be writing about another great anime that came out over the past year, [*Violet Evergarden*](https://en.wikipedia.org/wiki/Violet_Evergarden).\n\nViolet Evergarden isn't a particularly action-packed anime, but if you're looking for something emotional that will probably make you cry, it's the right thing for you.\n\nThe show is set in an alternate Earth very similar to ours around the end of World War I. The main character, Violet, was an orpan who was trained from a young age to be a soldier. Once the war ended, she needs to integrate into the now peaceful world, but finds that the no-nonsense, unemotional, militaristic way she was raised isn't exactly ideal during peacetime. She manages to find a job, thanks to one of the officers she knew in the army, as an Auto Memory Doll - someone who writes letters for citizens who can't read or write themselves.\n\nAt first, she struggles. While her technical ability to write is excellent, her letters are short and blunt, with none of the emotion and thoughtfulness that goes into a meaningful letter. However, throughout the show, and through her interaction between both her co-workers and her clients, Violent slowly, painfully learns what it's like to be human, and what it's like to be loved.\n\nThe show itself has some of the most beautiful animation and music I've seen in any show ever, and the period dress of the early 1900s is spot on. The show also invented their own languange, which is fascinating when you take into account that typewriters are prevelant in the show, where you can see the language in action.\n\nAnyway, I'd highly recommend Violet Evergarden for people who want to feel all the feels. See you next time!\n\n-- Bryan",
+      "rawMarkdownBody": "---\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/violetevergarden.jpg \"Violet Evergarden\")\n\nContinuing on last post's trend, today I'll be writing about another great anime that came out over the past year, [*Violet Evergarden*](https://en.wikipedia.org/wiki/Violet_Evergarden).\n\nViolet Evergarden isn't a particularly action-packed anime, but if you're looking for something emotional that will probably make you cry, it's the right thing for you.\n\nThe show is set in an alternate Earth very similar to ours around the end of World War I. The main character, Violet, was an orpan who was trained from a young age to be a soldier. Once the war ended, she needs to integrate into the now peaceful world, but finds that the no-nonsense, unemotional, militaristic way she was raised isn't exactly ideal during peacetime. She manages to find a job, thanks to one of the officers she knew in the army, as an Auto Memory Doll - someone who writes letters for citizens who can't read or write themselves.\n\nAt first, she struggles. While her technical ability to write is excellent, her letters are short and blunt, with none of the emotion and thoughtfulness that goes into a meaningful letter. However, throughout the show, and through her interaction between both her co-workers and her clients, Violent slowly, painfully learns what it's like to be human, and what it's like to be loved.\n\nThe show itself has some of the most beautiful animation and music I've seen in any show ever, and the period dress of the early 1900s is spot on. The show also invented their own languange, which is fascinating when you take into account that typewriters are prevelant in the show, where you can see the language in action.\n\nAnyway, I'd highly recommend Violet Evergarden for people who want to feel all the feels. It came out earlier this year, and is available on Neflix.\n\nThat's it for now! See you next time!\n\n-- Bryan",
       "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/08-31-2018-violet-evergarden/index.md"
     }
   },
