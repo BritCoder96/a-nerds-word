@@ -15,7 +15,7 @@ The show is set in an alternate Earth very similar to ours around the end of Wor
 
 At first, she struggles. While her technical ability to write is excellent, her letters are short and blunt, with none of the emotion and thoughtfulness that goes into a meaningful letter. However, throughout the show, and through her interaction between both her co-workers and her clients, Violent slowly, painfully learns what it's like to be human, and what it's like to be loved.
 
-The show itself has some of the most beautiful animation and music I've seen in any show ever, and the period dress of the early 1900s is spot on. The show also invented their own languange, which is fascinating when you take into account that typewriters are prevelant in the show, where you can see the language in action.
+The show itself has some of the most beautiful animation and music I've seen in any show ever, and the period dress of the early 1900s is fascinating, albeit not entirely accurate. The show also invented their own languange, which is fascinating when you take into account that typewriters are prevelant in the show, where you can see the language in action.
 
 Anyway, I'd highly recommend Violet Evergarden for people who want to feel all the feels. It came out earlier this year, and is available on Neflix.
 
