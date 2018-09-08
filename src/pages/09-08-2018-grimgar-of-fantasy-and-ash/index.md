@@ -21,7 +21,7 @@ The last, but not least, thing I really like about Grimgar is the music. To be f
 
 For example, here's one of the songs from the show:
 
-<iframe width="330" height="165" src="https://www.youtube.com/embed/mMnHdDdAyKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="290" height="195" src="https://www.youtube.com/embed/mMnHdDdAyKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The piano intro is what really gets me. I, at least, think it's quite good.
 
