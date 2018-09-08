@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "51ddbcc3bf48154f69655d6435960936",
+        "contentDigest": "9a2e48b3c715ae7ba9e4562f97e403d1",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1013,12 +1013,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-09-08T19:55:35.407Z",
+      "buildTime": "2018-09-08T20:11:22.090Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9f3255265ea2dd0d4928332f5c2b7f92",
+        "contentDigest": "f781d3a2013395759544c7e66614be74",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -3059,7 +3059,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d15bcfe53f7e086c2888c69b6abdc391",
+        "contentDigest": "dc980447a7b36e246796d2602e6064e6",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/09-08-2018-grimgar-of-fantasy-and-ash/index.md\"",
@@ -3071,10 +3071,10 @@
       "extension": "md",
       "size": 3633,
       "prettySize": "3.63 kB",
-      "modifiedTime": "2018-09-08T20:03:29.700Z",
-      "accessTime": "2018-09-08T20:03:09.060Z",
-      "changeTime": "2018-09-08T20:03:29.700Z",
-      "birthTime": "2018-09-08T20:03:29.700Z",
+      "modifiedTime": "2018-09-08T20:12:36.598Z",
+      "accessTime": "2018-09-08T20:12:08.322Z",
+      "changeTime": "2018-09-08T20:12:36.598Z",
+      "birthTime": "2018-09-08T20:12:36.598Z",
       "root": "/",
       "dir": "/home/bryan/a-nerds-word/src/pages/09-08-2018-grimgar-of-fantasy-and-ash",
       "base": "index.md",
@@ -3090,14 +3090,14 @@
       "blksize": 4096,
       "ino": 2499297,
       "blocks": 8,
-      "atimeMs": 1536436989059.9473,
-      "mtimeMs": 1536437009700.174,
-      "ctimeMs": 1536437009700.174,
-      "birthtimeMs": 1536437009700.174,
-      "atime": "2018-09-08T20:03:09.060Z",
-      "mtime": "2018-09-08T20:03:29.700Z",
-      "ctime": "2018-09-08T20:03:29.700Z",
-      "birthtime": "2018-09-08T20:03:29.700Z"
+      "atimeMs": 1536437528321.997,
+      "mtimeMs": 1536437556598.3193,
+      "ctimeMs": 1536437556598.3193,
+      "birthtimeMs": 1536437556598.3193,
+      "atime": "2018-09-08T20:12:08.322Z",
+      "mtime": "2018-09-08T20:12:36.598Z",
+      "ctime": "2018-09-08T20:12:36.598Z",
+      "birthtime": "2018-09-08T20:12:36.598Z"
     },
     "/home/bryan/a-nerds-word/src/pages/08-31-2018-violet-evergarden/index.md absPath of file >>> MarkdownRemark": {
       "id": "/home/bryan/a-nerds-word/src/pages/08-31-2018-violet-evergarden/index.md absPath of file >>> MarkdownRemark",
@@ -3140,7 +3140,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "563358715f4ab5e8c04ba140baeda31a",
+        "contentDigest": "6b33e32df5a1c8814370ddff22dbd5a2",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3161,7 +3161,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9746e7899f0db7866bc9eca868c3b0fa",
+        "contentDigest": "52db81c741a352f26701e87cdf4f47d5",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3182,7 +3182,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "606c5bbb9effecd84172803f5d9964e4",
+        "contentDigest": "813b7a76a7a69281cd4d36873ed5a09d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3203,7 +3203,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "52d1667bd2012da859eeded07b185934",
+        "contentDigest": "4b271a12cd2b8a4f6b22aed0920c4ecf",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3224,7 +3224,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5b06e1fdb4f111ebdd2d1ef3aaedfaa4",
+        "contentDigest": "bdd5cd22feb8e10e58eb1bc4e1054924",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3245,7 +3245,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1cad44de48461f88326c6728a06aeacb",
+        "contentDigest": "7f4ff3b5e81c038cdf78854e37f4b201",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3266,7 +3266,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6d332634b103d31d1d459cdd3658c112",
+        "contentDigest": "03db8c0835718be55b911f1aab379a9d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3287,7 +3287,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "62608525146843df8cf29db03c8a682e",
+        "contentDigest": "1916456519b4e9bcfe57287219ad3019",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3308,7 +3308,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0531d185245618fb10736601bf206a58",
+        "contentDigest": "10a2b74c620187c4e49aadb104f24461",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3329,7 +3329,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3529dc7d75e588434b41fb0be61abc06",
+        "contentDigest": "b7fb28f99f7a0ce7c27f123ca2352242",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3350,7 +3350,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "96c4253797bf814a921e1338e97b7060",
+        "contentDigest": "8f4d4de4a28d84de20da0c3ee1c9255c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3371,7 +3371,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d5568fe98c37727e96ebd5c942854909",
+        "contentDigest": "83145bf20f0fb6906025cb3b06f521ff",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3392,7 +3392,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bcd9e2f83c2ff0793528455efaa9c90d",
+        "contentDigest": "d8b6f41a173a070af6ada63120c5cfcc",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3413,7 +3413,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0ff72ed265d7dc09eee09de6d4d8dd25",
+        "contentDigest": "e2aff8ebef4aaf0cef235ff7dd4a6be1",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3434,7 +3434,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0ebbee7bfdc9b15c85f1bc86db29c4db",
+        "contentDigest": "cb66b02875ed89ac8a14ab0413293ce8",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3455,7 +3455,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "da8aefd312a77d96b14795764bfaeba8",
+        "contentDigest": "3b3a18856b266297ba0b1e22bfe2db7f",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3478,7 +3478,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "de356419659e11185d4b33409355e6bf",
+        "contentDigest": "f1e08ea6304e9e40ab042f1d149e120c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3501,7 +3501,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c55367771a6afc8e2ab80119cd9f7e70",
+        "contentDigest": "7dcc4e0a87826ccb27552ff45853bc9e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3524,7 +3524,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a75ad8202164c11e8fe2e2357f7c7ecb",
+        "contentDigest": "29eb20d00fda9a891fe5db574a6925ed",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3547,7 +3547,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7dbcfeed859decf6c2686ec65bc5cb54",
+        "contentDigest": "9de39e78e2102b27838376cf5061b3d4",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3570,7 +3570,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "18b083b0c5c08c63c0370e9594f542e8",
+        "contentDigest": "3969f5abf7a87f75b9adb91312b787a6",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3593,7 +3593,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "31a9170ee90ccf65d81fcb8c7f545867",
+        "contentDigest": "864a6c7dc7a2259fdd52e7e4bc777b2f",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3616,7 +3616,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "babe98097e2dd825ba1213fe04cc09e5",
+        "contentDigest": "090f5f0d2f13eb71001857b166e9f662",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3639,7 +3639,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "acc30bf62eaf0050bc691a2f9785f339",
+        "contentDigest": "e2a613e4146173f8d4d2f5aed7fe3dcf",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3662,7 +3662,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "de8b56b5b4ce877ef26e4f214ed59a95",
+        "contentDigest": "c06d5a79a94809e359dd52cefa219796",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3685,7 +3685,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "41ad6cdf23cd00f1a608ed2475dbe52b",
+        "contentDigest": "fe250fb31f8e06265ae2d792754bf140",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3708,7 +3708,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7dbbc51484d68409037cbfb673886185",
+        "contentDigest": "6f56148929f29c4fee2067ff2008a047",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3731,7 +3731,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e226979616a7c1c9561598bc48b798be",
+        "contentDigest": "b52b5f6ca086c514db8fede6de351b8f",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3754,7 +3754,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "aeff72260d15028d66782560d89f48c6",
+        "contentDigest": "84291f15b0a7755d4a00ab9390d20c2e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3777,7 +3777,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4dbf3501df0dee53c8e7e566ec82920b",
+        "contentDigest": "4e1c09a3e13a220e94a8e82960dd1360",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3800,7 +3800,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bfaa92b8da7e0bcc83f188d1fa4dda20",
+        "contentDigest": "7fffe2e208b8eb0fe5c4f737596d5bba",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3823,7 +3823,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c0c1767d8f9752fa3dfad7e245898cf6",
+        "contentDigest": "394f5555a5fef5b4e854c90bfc3596f1",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3844,7 +3844,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ba57615069a9a85f6d4202b97422302e",
+        "contentDigest": "67f1dbfaff9df1753d647320909c5524",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3865,7 +3865,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a6fce23fcefaff8c6ce2c08877d8bd2a",
+        "contentDigest": "8e896122a2102ee19ea28025227cc557",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3886,7 +3886,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "78a800eaa2c9fba982d0477afe31e971",
+        "contentDigest": "4166ac4b330ef837e6e5a27678c4719f",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3907,7 +3907,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9b0c8813f8d84cc10bbc8b1d661cee44",
+        "contentDigest": "fddc915cd1b49f7a92a59c1b45f1ddc8",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3928,7 +3928,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ce4cd3f282ef8970d903abe8277d2563",
+        "contentDigest": "516aa8372e5468cd0cb9c86ebd44f01f",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -3938,9 +3938,9 @@
       "children": [],
       "parent": "/home/bryan/a-nerds-word/src/pages/09-08-2018-grimgar-of-fantasy-and-ash/index.md absPath of file",
       "internal": {
-        "content": "---\npath: \"/grimgar-of-fantasy-and-ash\"\ndate: \"2018-09-08T18:00:00.962Z\"\ntitle: \"Grimgar of Fantasy and Ash\"\ntags: [\"Anime Review\", \"Isekai\", \"Anime\"]\n------\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/grimgar.jpg \"Grimgar of Fantasy and Ash\")\n\nHi again! Today's post is about a bit of a lesser-known anime that came out in 2016 called *Grimgar of Fantasy and Ash*. While it's techically an Isekai anime, since it involves people from our world visiting another, vastly different world, the Isekai elements are more of a small, infrequently mentioned backdrop to the story. The show takes place on a world called Grimgar, where the main character, Haruhiro, along with a group of other men and woman around his own age, find themselves in with no memory of their previous lives besides their names and vague, fading pieces of knowledge from the modern world. Grimgar is your typical fantasy world, with goblins and kobalds as low level monsters, and various classes that soldiers can become, such as priests, thieves, or hunters.\n\nHaruhiro joins a party with some of the other people who appeared in Grimgar with him. He trains to become a thief, while Manato, the party's leader, becomes a priest (essentially the party's healer, like a cleric in DnD). The other members of Haruhiro's party are Ranta, a curly haired, obstinate black knight; Moguzo, a large, muscular soldier who, despite his size, is quiet and kind; Shihoru, a quiet, timid mage; and Yume, a tall, confident hunter with a wild streak.\n\nThere are three main reasons I really like Grimgar. While the plot is relatively slow, the show is incredibly character focused. It follows the party as they try to survive in their new environment, and they grow as a result. More characters are added later, and they also have great character development, especially a certain character that I can't really mention for fear of spoilers. Yume is clumsy at first, both as a hunter and how she acts. She often says the wrong thing, but she grows wiser and more careful throughout the show, without losing her bold, carefree spirit. Haruhiro learns to become a better leading member in the party, and grows more confident in his ability to help them succeed. Ranta, who is pretty annoying for most of the show, shows that he does, in fact, care about the other members of the party.\n\nThe show has its fare share of heartbreak and sorrow, along wtith great joy. It deals strongly with how people deal with loss in different ways (it's a major theme of the show), and will probably make you tear up, at least a little.\n\nGrimgar also has a beautiful, unique animation style: the characters are in high-definition, modern animation (which is still gorgeous), while the background is in a less-detalied watercolor style. It takes a bit to get used to, but once you do, it really looks good. \n\nThe last, but not least, thing I really like about Grimgar is the music. To be fair, I've been listening to a lot of J-pop recently, but the Grimgar music is good enough that I bought the music from iTunes and imported them to Spotify to listen to on the train to work (btw, I had my first week of full-time software engineer work today, and it went really well!).\n\nFor example, here's one of the songs from the show:\n\n<iframe width=\"800\" height=\"400\" src=\"https://www.youtube.com/embed/mMnHdDdAyKM\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n\nThe piano intro is what really gets me. I, at least, think it's quite good.\n\nAnyway, that's all for now - I'd highly recommend Grimgar if you like character-driven fantasy stories. See you next time!\n\n-- Bryan",
+        "content": "---\npath: \"/grimgar-of-fantasy-and-ash\"\ndate: \"2018-09-08T18:00:00.962Z\"\ntitle: \"Grimgar of Fantasy and Ash\"\ntags: [\"Anime Review\", \"Isekai\", \"Anime\"]\n------\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/grimgar.jpg \"Grimgar of Fantasy and Ash\")\n\nHi again! Today's post is about a bit of a lesser-known anime that came out in 2016 called *Grimgar of Fantasy and Ash*. While it's techically an Isekai anime, since it involves people from our world visiting another, vastly different world, the Isekai elements are more of a small, infrequently mentioned backdrop to the story. The show takes place on a world called Grimgar, where the main character, Haruhiro, along with a group of other men and woman around his own age, find themselves in with no memory of their previous lives besides their names and vague, fading pieces of knowledge from the modern world. Grimgar is your typical fantasy world, with goblins and kobalds as low level monsters, and various classes that soldiers can become, such as priests, thieves, or hunters.\n\nHaruhiro joins a party with some of the other people who appeared in Grimgar with him. He trains to become a thief, while Manato, the party's leader, becomes a priest (essentially the party's healer, like a cleric in DnD). The other members of Haruhiro's party are Ranta, a curly haired, obstinate black knight; Moguzo, a large, muscular soldier who, despite his size, is quiet and kind; Shihoru, a quiet, timid mage; and Yume, a tall, confident hunter with a wild streak.\n\nThere are three main reasons I really like Grimgar. While the plot is relatively slow, the show is incredibly character focused. It follows the party as they try to survive in their new environment, and they grow as a result. More characters are added later, and they also have great character development, especially a certain character that I can't really mention for fear of spoilers. Yume is clumsy at first, both as a hunter and how she acts. She often says the wrong thing, but she grows wiser and more careful throughout the show, without losing her bold, carefree spirit. Haruhiro learns to become a better leading member in the party, and grows more confident in his ability to help them succeed. Ranta, who is pretty annoying for most of the show, shows that he does, in fact, care about the other members of the party.\n\nThe show has its fare share of heartbreak and sorrow, along wtith great joy. It deals strongly with how people deal with loss in different ways (it's a major theme of the show), and will probably make you tear up, at least a little.\n\nGrimgar also has a beautiful, unique animation style: the characters are in high-definition, modern animation (which is still gorgeous), while the background is in a less-detalied watercolor style. It takes a bit to get used to, but once you do, it really looks good. \n\nThe last, but not least, thing I really like about Grimgar is the music. To be fair, I've been listening to a lot of J-pop recently, but the Grimgar music is good enough that I bought the music from iTunes and imported them to Spotify to listen to on the train to work (btw, I had my first week of full-time software engineer work today, and it went really well!).\n\nFor example, here's one of the songs from the show:\n\n<iframe width=\"330\" height=\"165\" src=\"https://www.youtube.com/embed/mMnHdDdAyKM\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n\nThe piano intro is what really gets me. I, at least, think it's quite good.\n\nAnyway, that's all for now - I'd highly recommend Grimgar if you like character-driven fantasy stories. See you next time!\n\n-- Bryan",
         "type": "MarkdownRemark",
-        "contentDigest": "4fd14fc81eb995e62990cd11cbac9edd",
+        "contentDigest": "96943865d87d6dc2174c5c082b2d8b2e",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -3956,7 +3956,7 @@
         "parent": "/home/bryan/a-nerds-word/src/pages/09-08-2018-grimgar-of-fantasy-and-ash/index.md absPath of file"
       },
       "excerpt": "",
-      "rawMarkdownBody": "---\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/grimgar.jpg \"Grimgar of Fantasy and Ash\")\n\nHi again! Today's post is about a bit of a lesser-known anime that came out in 2016 called *Grimgar of Fantasy and Ash*. While it's techically an Isekai anime, since it involves people from our world visiting another, vastly different world, the Isekai elements are more of a small, infrequently mentioned backdrop to the story. The show takes place on a world called Grimgar, where the main character, Haruhiro, along with a group of other men and woman around his own age, find themselves in with no memory of their previous lives besides their names and vague, fading pieces of knowledge from the modern world. Grimgar is your typical fantasy world, with goblins and kobalds as low level monsters, and various classes that soldiers can become, such as priests, thieves, or hunters.\n\nHaruhiro joins a party with some of the other people who appeared in Grimgar with him. He trains to become a thief, while Manato, the party's leader, becomes a priest (essentially the party's healer, like a cleric in DnD). The other members of Haruhiro's party are Ranta, a curly haired, obstinate black knight; Moguzo, a large, muscular soldier who, despite his size, is quiet and kind; Shihoru, a quiet, timid mage; and Yume, a tall, confident hunter with a wild streak.\n\nThere are three main reasons I really like Grimgar. While the plot is relatively slow, the show is incredibly character focused. It follows the party as they try to survive in their new environment, and they grow as a result. More characters are added later, and they also have great character development, especially a certain character that I can't really mention for fear of spoilers. Yume is clumsy at first, both as a hunter and how she acts. She often says the wrong thing, but she grows wiser and more careful throughout the show, without losing her bold, carefree spirit. Haruhiro learns to become a better leading member in the party, and grows more confident in his ability to help them succeed. Ranta, who is pretty annoying for most of the show, shows that he does, in fact, care about the other members of the party.\n\nThe show has its fare share of heartbreak and sorrow, along wtith great joy. It deals strongly with how people deal with loss in different ways (it's a major theme of the show), and will probably make you tear up, at least a little.\n\nGrimgar also has a beautiful, unique animation style: the characters are in high-definition, modern animation (which is still gorgeous), while the background is in a less-detalied watercolor style. It takes a bit to get used to, but once you do, it really looks good. \n\nThe last, but not least, thing I really like about Grimgar is the music. To be fair, I've been listening to a lot of J-pop recently, but the Grimgar music is good enough that I bought the music from iTunes and imported them to Spotify to listen to on the train to work (btw, I had my first week of full-time software engineer work today, and it went really well!).\n\nFor example, here's one of the songs from the show:\n\n<iframe width=\"800\" height=\"400\" src=\"https://www.youtube.com/embed/mMnHdDdAyKM\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n\nThe piano intro is what really gets me. I, at least, think it's quite good.\n\nAnyway, that's all for now - I'd highly recommend Grimgar if you like character-driven fantasy stories. See you next time!\n\n-- Bryan",
+      "rawMarkdownBody": "---\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/grimgar.jpg \"Grimgar of Fantasy and Ash\")\n\nHi again! Today's post is about a bit of a lesser-known anime that came out in 2016 called *Grimgar of Fantasy and Ash*. While it's techically an Isekai anime, since it involves people from our world visiting another, vastly different world, the Isekai elements are more of a small, infrequently mentioned backdrop to the story. The show takes place on a world called Grimgar, where the main character, Haruhiro, along with a group of other men and woman around his own age, find themselves in with no memory of their previous lives besides their names and vague, fading pieces of knowledge from the modern world. Grimgar is your typical fantasy world, with goblins and kobalds as low level monsters, and various classes that soldiers can become, such as priests, thieves, or hunters.\n\nHaruhiro joins a party with some of the other people who appeared in Grimgar with him. He trains to become a thief, while Manato, the party's leader, becomes a priest (essentially the party's healer, like a cleric in DnD). The other members of Haruhiro's party are Ranta, a curly haired, obstinate black knight; Moguzo, a large, muscular soldier who, despite his size, is quiet and kind; Shihoru, a quiet, timid mage; and Yume, a tall, confident hunter with a wild streak.\n\nThere are three main reasons I really like Grimgar. While the plot is relatively slow, the show is incredibly character focused. It follows the party as they try to survive in their new environment, and they grow as a result. More characters are added later, and they also have great character development, especially a certain character that I can't really mention for fear of spoilers. Yume is clumsy at first, both as a hunter and how she acts. She often says the wrong thing, but she grows wiser and more careful throughout the show, without losing her bold, carefree spirit. Haruhiro learns to become a better leading member in the party, and grows more confident in his ability to help them succeed. Ranta, who is pretty annoying for most of the show, shows that he does, in fact, care about the other members of the party.\n\nThe show has its fare share of heartbreak and sorrow, along wtith great joy. It deals strongly with how people deal with loss in different ways (it's a major theme of the show), and will probably make you tear up, at least a little.\n\nGrimgar also has a beautiful, unique animation style: the characters are in high-definition, modern animation (which is still gorgeous), while the background is in a less-detalied watercolor style. It takes a bit to get used to, but once you do, it really looks good. \n\nThe last, but not least, thing I really like about Grimgar is the music. To be fair, I've been listening to a lot of J-pop recently, but the Grimgar music is good enough that I bought the music from iTunes and imported them to Spotify to listen to on the train to work (btw, I had my first week of full-time software engineer work today, and it went really well!).\n\nFor example, here's one of the songs from the show:\n\n<iframe width=\"330\" height=\"165\" src=\"https://www.youtube.com/embed/mMnHdDdAyKM\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n\nThe piano intro is what really gets me. I, at least, think it's quite good.\n\nAnyway, that's all for now - I'd highly recommend Grimgar if you like character-driven fantasy stories. See you next time!\n\n-- Bryan",
       "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/09-08-2018-grimgar-of-fantasy-and-ash/index.md"
     }
   },
