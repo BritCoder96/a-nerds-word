@@ -3,6 +3,13 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "grimgar-of-fantasy-and-ash.json",
+        "path": "/grimgar-of-fantasy-and-ash"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "violet-evergarden.json",
         "path": "/violet-evergarden"
     },
@@ -115,6 +122,13 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-isekai.json",
+        "path": "/tags/isekai/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-anime.json",
         "path": "/tags/anime/"
     },
@@ -173,13 +187,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-fantasy.json",
         "path": "/tags/fantasy/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-isekai.json",
-        "path": "/tags/isekai/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",

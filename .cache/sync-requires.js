@@ -18,6 +18,7 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/home/bryan/a-nerds-word/.cache/json/layout-index.json"),
+  "grimgar-of-fantasy-and-ash.json": require("/home/bryan/a-nerds-word/.cache/json/grimgar-of-fantasy-and-ash.json"),
   "violet-evergarden.json": require("/home/bryan/a-nerds-word/.cache/json/violet-evergarden.json"),
   "made-in-abyss.json": require("/home/bryan/a-nerds-word/.cache/json/made-in-abyss.json"),
   "gp-providence-18.json": require("/home/bryan/a-nerds-word/.cache/json/gp-providence-18.json"),
@@ -34,6 +35,7 @@ exports.json = {
   "broken-earth.json": require("/home/bryan/a-nerds-word/.cache/json/broken-earth.json"),
   "hello-world.json": require("/home/bryan/a-nerds-word/.cache/json/hello-world.json"),
   "tags-anime-review.json": require("/home/bryan/a-nerds-word/.cache/json/tags-anime-review.json"),
+  "tags-isekai.json": require("/home/bryan/a-nerds-word/.cache/json/tags-isekai.json"),
   "tags-anime.json": require("/home/bryan/a-nerds-word/.cache/json/tags-anime.json"),
   "tags-magic-the-gathering.json": require("/home/bryan/a-nerds-word/.cache/json/tags-magic-the-gathering.json"),
   "tags-event.json": require("/home/bryan/a-nerds-word/.cache/json/tags-event.json"),
@@ -43,7 +45,6 @@ exports.json = {
   "tags-video-games.json": require("/home/bryan/a-nerds-word/.cache/json/tags-video-games.json"),
   "tags-book-review.json": require("/home/bryan/a-nerds-word/.cache/json/tags-book-review.json"),
   "tags-fantasy.json": require("/home/bryan/a-nerds-word/.cache/json/tags-fantasy.json"),
-  "tags-isekai.json": require("/home/bryan/a-nerds-word/.cache/json/tags-isekai.json"),
   "tags-deck-review.json": require("/home/bryan/a-nerds-word/.cache/json/tags-deck-review.json"),
   "tags-format-review.json": require("/home/bryan/a-nerds-word/.cache/json/tags-format-review.json"),
   "tags-card-review.json": require("/home/bryan/a-nerds-word/.cache/json/tags-card-review.json"),
