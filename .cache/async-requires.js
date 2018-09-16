@@ -19,6 +19,7 @@ exports.json = {
   "gp-providence-18.json": require("gatsby-module-loader?name=path---gp-providence-18!/home/bryan/a-nerds-word/.cache/json/gp-providence-18.json"),
   "rakuen.json": require("gatsby-module-loader?name=path---rakuen!/home/bryan/a-nerds-word/.cache/json/rakuen.json"),
   "mistborn.json": require("gatsby-module-loader?name=path---mistborn!/home/bryan/a-nerds-word/.cache/json/mistborn.json"),
+  "kingkiller.json": require("gatsby-module-loader?name=path---kingkiller!/home/bryan/a-nerds-word/.cache/json/kingkiller.json"),
   "recreators.json": require("gatsby-module-loader?name=path---recreators!/home/bryan/a-nerds-word/.cache/json/recreators.json"),
   "stormlight-archive.json": require("gatsby-module-loader?name=path---stormlight-archive!/home/bryan/a-nerds-word/.cache/json/stormlight-archive.json"),
   "to-the-moon.json": require("gatsby-module-loader?name=path---to-the-moon!/home/bryan/a-nerds-word/.cache/json/to-the-moon.json"),

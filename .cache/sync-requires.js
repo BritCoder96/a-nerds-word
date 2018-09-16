@@ -24,6 +24,7 @@ exports.json = {
   "gp-providence-18.json": require("/home/bryan/a-nerds-word/.cache/json/gp-providence-18.json"),
   "rakuen.json": require("/home/bryan/a-nerds-word/.cache/json/rakuen.json"),
   "mistborn.json": require("/home/bryan/a-nerds-word/.cache/json/mistborn.json"),
+  "kingkiller.json": require("/home/bryan/a-nerds-word/.cache/json/kingkiller.json"),
   "recreators.json": require("/home/bryan/a-nerds-word/.cache/json/recreators.json"),
   "stormlight-archive.json": require("/home/bryan/a-nerds-word/.cache/json/stormlight-archive.json"),
   "to-the-moon.json": require("/home/bryan/a-nerds-word/.cache/json/to-the-moon.json"),
