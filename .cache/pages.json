@@ -3,6 +3,20 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "psycho-pass.json",
+        "path": "/psycho-pass"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "kingkiller.json",
+        "path": "/kingkiller"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "grimgar-of-fantasy-and-ash.json",
         "path": "/grimgar-of-fantasy-and-ash"
     },
@@ -40,13 +54,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "mistborn.json",
         "path": "/mistborn"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "kingkiller.json",
-        "path": "/kingkiller"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -129,15 +136,29 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-isekai.json",
-        "path": "/tags/isekai/"
+        "jsonName": "tags-anime.json",
+        "path": "/tags/anime/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-anime.json",
-        "path": "/tags/anime/"
+        "jsonName": "tags-book-review.json",
+        "path": "/tags/book-review/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-fantasy.json",
+        "path": "/tags/fantasy/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-isekai.json",
+        "path": "/tags/isekai/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
@@ -180,20 +201,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-video-games.json",
         "path": "/tags/video-games/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-book-review.json",
-        "path": "/tags/book-review/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-fantasy.json",
-        "path": "/tags/fantasy/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",

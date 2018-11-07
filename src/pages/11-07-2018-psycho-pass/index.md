@@ -1,0 +1,30 @@
+---
+path: "/psycho-pass"
+date: "2018-11-07T18:00:00.962Z"
+title: "Life Update and Psycho Pass"
+tags: ["Anime Review", "Anime", "Life", "Personal"]
+------
+
+![alt text](https://s3.amazonaws.com/a-nerds-word/psycho_pass.jpg "Psycho Pass")
+
+Welcome back! I know it's been a while since I last posted. I've been super busy with work, for the most part, but I've also been working on a couple of other side projects, which I'd like to make a bit of an announcement here about. First, my debut novel has been sent out to my second round of beta readers, and I'm hoping to send it to publishers within the next few months.
+
+On top of that, I started work on my second novel at the end of September, and I finished the first draft a couple of days ago! I'm really pysched about it, and it's certainly been keeping me busy on my commute to work :)
+
+Anyway, today's blog post is about a cyberpunk dystopian anime called Psycho Pass. It's fairly well known in the anime community, but I only got around to watching it over the last few weeks.
+
+The basic premise is that, in the 2100s, the world is ruled by an overseeing body called the Sibyl System. Every person's brain is contantly scanned for their Psycho Pass, which is a score that determines how likely you are to commit a crime in the future. The Sibyl system also judges what profession a person will take up after graduating high school, as well as a myriad of other decisions, leaving a kind of utopia of luxury where the citizens don't have anything to worry about.
+
+Of course, like most of these shows, things aren't as great as they seem. There are still crimes that occur, and people who are determined by Sibyl to be latent criminals are brutally imprisoned or murdered by the police, lest they commit actual crimes in the future. The show mainly follows Akane Tsunemori, a fresh-faced police officer who doesn't quite approve of how things are done. The police force, which is severely understaffed due to the influence of Sibyl, is made up of inspectors, who have a clear psycho pass, and enforcers, who are latent criminals but have been deemed proficient for the job by the system.
+
+Akane is an inspector, and it soon becomes clear to her that Sibyl isn't the perfect system that everyone seems to think it is.
+
+I won't say anything more about the plot due to spoilers, but what I can say is that this show is fantastic. It really shows the way people tend to think with the flock and get used to comfort, despite obvious downsides. The characters are interesting and believable, and like any good cop show, the suspense keeps you on your toes.
+
+That said, the show is very dark, and, while animated, extremely violent. Many people die in horrifying, gruesome ways, so if that isn't your cup of tea, this show isn't for you.
+
+If you can stomach it, though, I would highly recommend Psycho Pass. It's a thought-provoking show that really gets your heart pumping.
+
+That's all for now! See you next time!
+
+-- Bryan
