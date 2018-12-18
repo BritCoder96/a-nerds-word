@@ -19,7 +19,7 @@ In other news, my first novel, Skyborn, will hopefully be ready to send to publi
 
 ***
 
-Anyway, back to anime! This season of anime is wrapping up, and I've gotta say, this has been a good one. My current ranking of shows I've seen this season (ranking stuff is hard, so I'll rank these in tiers 1, 2 and 3):
+Anyway, back to anime! This season of anime is wrapping up, and I've gotta say, this has been a good one. Here's my current ranking of shows I've seen this season (ranking stuff is hard, so I'll rank these into Tiers 1, 2 and 3):
 
 Tier 1: 
 - Bloom into You - This is the first Yuri anime I've ever watched, and while I was hesitant to try it, it's actually surprisingly really good! The characters are super interesting, and the romances seem natural. Plus, one of the main characters is a writer, and I can definitely empathise with that :)
