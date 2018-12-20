@@ -29,6 +29,7 @@ Tier 1:
 
 Tier 2:
 - Zombieland Saga: This show is really great, I wasn't quite sure whether to put this in tier 1 or 2, since it's kind of on the border. I can't really say much about this, other than that it's really good and you just need to watch it cold without any information.
+
 Tier 3: 
 - That Time I Got Reincarnated as a Slime: This show is a normal isekai anime, solidly okay, but nothing amazing. It's decent.
 - Fairy Tail Final Season - I enjoy Fairy Tail a decent amount, but mostly as a guilty pleasure. For me at least, it sort of goes from really good to really bad in terms of quality.
