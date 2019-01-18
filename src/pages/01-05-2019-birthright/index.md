@@ -29,11 +29,10 @@ I got to ride a camel in the desert:
 
 ![alt text](https://s3.amazonaws.com/a-nerds-word/camels.jpg "Camels")
 
-There were a bunch of other experiences that were meaningful to me, including visiting the Israeli Holocaust Museam. That's something that I think everyone should visit at some point, either in Israel or in the States (there's one in D.C.). It's an extremely emotional, harrowing experience, and it really gives an entirely different perspective into one of the darkest points in recent human history, one that you can't get just from a textbook.
+There were a bunch of other experiences that were meaningful to me, including visiting the Israeli Holocaust Museum. That's something that I think everyone should visit at some point, either in Israel or in the States (there's one in D.C.). It's an extremely emotional, harrowing experience, and it really gives an entirely different perspective into one of the darkest points in recent human history, one that you can't get just from a textbook.
 
 Anyway, on a happier note, I'll be going to SCG Worcester next weekend to visit some of my friends from college I haven't seen since I graduated and play some competitive magic, so I'll see you then!
 
 Till next time,
-
 
 -- Bryan
