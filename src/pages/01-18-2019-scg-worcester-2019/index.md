@@ -18,6 +18,8 @@ In the final event I played in, I did a one round legacy turbo event, where I wa
 
 Turns out, if you can't cast most of your deck, it becomes difficult to win the game :)
 
+I also got a chance to talk to two of my alpha readers for my second novel (no spoilers yet), and I got some really good feedback on what was good about it and what needed improvement. That one's still in its early stages (unlike my first novel, which is close to being ready to send to publishers, it's only 50,000 words and needs lots of editing before it's ready to send out), but it's coming along nicely!
+
 I had a blast at the event, and I hope to be able to visit some of my friends who live in that area again sometime soon!
 
 Thanks for reading, and see you next time!
