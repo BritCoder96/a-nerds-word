@@ -1,8 +1,8 @@
 {
   "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "description": "A nerd's word blog",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Bryan Benson",
   "dependencies": {
     "gatsby": "^1.9.273",
     "gatsby-link": "^1.6.40",
@@ -34,6 +34,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/BritCoder96/a-nerds-word"
   }
 }

@@ -3,6 +3,27 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "scg-worcester-19.json",
+        "path": "/scg-worcester-19"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "birthright.json",
+        "path": "/birthright"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "birthright-sao-more.json",
+        "path": "/birthright-sao-more"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "psycho-pass.json",
         "path": "/psycho-pass"
     },
@@ -129,6 +150,34 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-magic-the-gathering.json",
+        "path": "/tags/magic-the-gathering/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-event.json",
+        "path": "/tags/event/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-life.json",
+        "path": "/tags/life/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-personal.json",
+        "path": "/tags/personal/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-anime-review.json",
         "path": "/tags/anime-review/"
     },
@@ -159,34 +208,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-isekai.json",
         "path": "/tags/isekai/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-magic-the-gathering.json",
-        "path": "/tags/magic-the-gathering/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-event.json",
-        "path": "/tags/event/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-life.json",
-        "path": "/tags/life/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-personal.json",
-        "path": "/tags/personal/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
@@ -236,13 +257,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-intro.json",
         "path": "/tags/intro/"
-    },
-    {
-        "componentChunkName": "component---cache-dev-404-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "dev-404-page.json",
-        "path": "/dev-404-page/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",

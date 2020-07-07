@@ -117,7 +117,7 @@ const TemplateWrapper = ({ children }) => (
                 />
                 <Sidebar
                   title="About The Author"
-                  description="Bradley Woods is a full-stack software engineer, writer, and all-around nerdy guy."
+                  description="Bradley Woods is a full-stack software engineer, author, and all-around nerdy guy."
                 />
               </div>
             </div>
