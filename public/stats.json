@@ -4,6 +4,10 @@
       "path---dresden-files-d0a7b18677cd2700f0fe.js",
       "path---dresden-files-d0a7b18677cd2700f0fe.js.map"
     ],
+    "path---long-awaited-updates-part-1": [
+      "path---long-awaited-updates-part-1-5392d5c7a7367c854231.js",
+      "path---long-awaited-updates-part-1-5392d5c7a7367c854231.js.map"
+    ],
     "path---tags-video-games": [
       "path---tags-video-games-f02412e97079a124723d.js",
       "path---tags-video-games-f02412e97079a124723d.js.map"
@@ -13,16 +17,16 @@
       "path---tags-anime-review-e31f9e0c96df153e717e.js.map"
     ],
     "path---violet-evergarden": [
-      "path---violet-evergarden-f87d4e060aa7b1f9b271.js",
-      "path---violet-evergarden-f87d4e060aa7b1f9b271.js.map"
+      "path---violet-evergarden-117d559176a3d2f29fed.js",
+      "path---violet-evergarden-117d559176a3d2f29fed.js.map"
     ],
     "path---birthright": [
-      "path---birthright-dd82068e972d8c02e571.js",
-      "path---birthright-dd82068e972d8c02e571.js.map"
+      "path---birthright-18c5f6ea8183627884f7.js",
+      "path---birthright-18c5f6ea8183627884f7.js.map"
     ],
     "path---tags-personal": [
-      "path---tags-personal-4e63538b07f56f489c99.js",
-      "path---tags-personal-4e63538b07f56f489c99.js.map"
+      "path---tags-personal-a1132125e76f6ab2ec1e.js",
+      "path---tags-personal-a1132125e76f6ab2ec1e.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-bec00470fcdd03bc8377.js",
@@ -37,28 +41,28 @@
       "component---src-templates-tags-js-5a33cc1c242464672fa8.js.map"
     ],
     "path---tags": [
-      "path---tags-9d873107bba1a80c7c90.js",
-      "path---tags-9d873107bba1a80c7c90.js.map"
+      "path---tags-f662c562e322606d550f.js",
+      "path---tags-f662c562e322606d550f.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---rakuen": [
-      "path---rakuen-47a1b6957e48c2f6d948.js",
-      "path---rakuen-47a1b6957e48c2f6d948.js.map"
+      "path---rakuen-3e771153e37e0824bcaf.js",
+      "path---rakuen-3e771153e37e0824bcaf.js.map"
     ],
     "path---tags-book-review": [
-      "path---tags-book-review-ba58319e089027c6954e.js",
-      "path---tags-book-review-ba58319e089027c6954e.js.map"
+      "path---tags-book-review-8f755d4510830761eaac.js",
+      "path---tags-book-review-8f755d4510830761eaac.js.map"
     ],
     "path---badlands": [
       "path---badlands-6481209b3dea0acc2026.js",
       "path---badlands-6481209b3dea0acc2026.js.map"
     ],
     "path---made-in-abyss": [
-      "path---made-in-abyss-0f20fe7045e22c35eeea.js",
-      "path---made-in-abyss-0f20fe7045e22c35eeea.js.map"
+      "path---made-in-abyss-8bcfc962fe895ef69a2b.js",
+      "path---made-in-abyss-8bcfc962fe895ef69a2b.js.map"
     ],
     "path---tags-intro": [
       "path---tags-intro-21c0e99ae24522bc879c.js",
@@ -73,12 +77,12 @@
       "component---src-templates-blog-post-js-fa7daeaed16db10462ac.js.map"
     ],
     "path---scg-worcester-19": [
-      "path---scg-worcester-19-d67fb9a140430e397f57.js",
-      "path---scg-worcester-19-d67fb9a140430e397f57.js.map"
+      "path---scg-worcester-19-b906d1948cb3e59fb7e3.js",
+      "path---scg-worcester-19-b906d1948cb3e59fb7e3.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-7a2f1fa9391071671d4a.js",
-      "component---src-layouts-index-js-7a2f1fa9391071671d4a.js.map"
+      "component---src-layouts-index-js-0ed006630f626dc97f38.js",
+      "component---src-layouts-index-js-0ed006630f626dc97f38.js.map"
     ],
     "path---tags-review": [
       "path---tags-review-1f3c81b065a11c4600d9.js",
@@ -93,16 +97,16 @@
       "path---tags-card-review-48ad158a5925a3b0deb0.js.map"
     ],
     "path---index": [
-      "path---index-d560ce809dc5bf84799b.js",
-      "path---index-d560ce809dc5bf84799b.js.map"
+      "path---index-023857f962d9cc206669.js",
+      "path---index-023857f962d9cc206669.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-899e2388c071b1605ac4.js",
       "component---src-pages-search-js-899e2388c071b1605ac4.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-423f706b8c4d50faf433.js",
-      "path---hello-world-423f706b8c4d50faf433.js.map"
+      "path---hello-world-0cee7de95e553e52b25a.js",
+      "path---hello-world-0cee7de95e553e52b25a.js.map"
     ],
     "path---tags-fantasy": [
       "path---tags-fantasy-9d442987fadfd2ae91a5.js",
@@ -112,13 +116,17 @@
       "path---tags-worldbuilding-b6d8a88124bab159542c.js",
       "path---tags-worldbuilding-b6d8a88124bab159542c.js.map"
     ],
+    "path---tags-writing": [
+      "path---tags-writing-3bfc22a287fc0896175e.js",
+      "path---tags-writing-3bfc22a287fc0896175e.js.map"
+    ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-069f4547b3b5ad7646c1.js",
       "component---src-pages-404-js-069f4547b3b5ad7646c1.js.map"
     ],
     "path---recreators": [
-      "path---recreators-b5536317cddb83fbbffc.js",
-      "path---recreators-b5536317cddb83fbbffc.js.map"
+      "path---recreators-4da9c3d523387d32c38f.js",
+      "path---recreators-4da9c3d523387d32c38f.js.map"
     ],
     "commons": [
       "commons-5a269107b96c9f785df3.js",
@@ -127,20 +135,20 @@
       "build-js-styles.css.map"
     ],
     "path---grimgar-of-fantasy-and-ash": [
-      "path---grimgar-of-fantasy-and-ash-63afaa01d9763d195fdb.js",
-      "path---grimgar-of-fantasy-and-ash-63afaa01d9763d195fdb.js.map"
+      "path---grimgar-of-fantasy-and-ash-149ca7b79ded53657011.js",
+      "path---grimgar-of-fantasy-and-ash-149ca7b79ded53657011.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---psycho-pass": [
-      "path---psycho-pass-5530a63eec75afaa80ee.js",
-      "path---psycho-pass-5530a63eec75afaa80ee.js.map"
+      "path---psycho-pass-28067a7664bbd1faa285.js",
+      "path---psycho-pass-28067a7664bbd1faa285.js.map"
     ],
     "path---birthright-sao-more": [
-      "path---birthright-sao-more-cb52e3b155ecd7307af6.js",
-      "path---birthright-sao-more-cb52e3b155ecd7307af6.js.map"
+      "path---birthright-sao-more-69aab6462bf1d1d83d58.js",
+      "path---birthright-sao-more-69aab6462bf1d1d83d58.js.map"
     ],
     "component---src-pages-tags-js": [
       "component---src-pages-tags-js-9c81f288aa11c46588db.js",
@@ -155,8 +163,8 @@
       "path---tags-anime-e0702d187d46bd7041d4.js.map"
     ],
     "path---gp-providence-18": [
-      "path---gp-providence-18-cd3f7426a31e83561b7a.js",
-      "path---gp-providence-18-cd3f7426a31e83561b7a.js.map"
+      "path---gp-providence-18-ccc58e2cc57af1e92656.js",
+      "path---gp-providence-18-ccc58e2cc57af1e92656.js.map"
     ],
     "path---tags-format-review": [
       "path---tags-format-review-461da91829ec1921493b.js",
@@ -167,38 +175,38 @@
       "path---broken-earth-573b0546ddfb61563e47.js.map"
     ],
     "path---kingkiller": [
-      "path---kingkiller-21690a7e7e414ad563c6.js",
-      "path---kingkiller-21690a7e7e414ad563c6.js.map"
+      "path---kingkiller-e329b2edf495b0b6b821.js",
+      "path---kingkiller-e329b2edf495b0b6b821.js.map"
     ],
     "path---tags-life": [
-      "path---tags-life-bf5d14d59c874c48ee6c.js",
-      "path---tags-life-bf5d14d59c874c48ee6c.js.map"
+      "path---tags-life-987c14b150aa97df8cbc.js",
+      "path---tags-life-987c14b150aa97df8cbc.js.map"
     ],
     "app": [
-      "app-eb8d57bd579971502e14.js",
+      "app-97dc17e334baa45340fb.js",
       "build-js-styles.css",
-      "app-eb8d57bd579971502e14.js.map",
+      "app-97dc17e334baa45340fb.js.map",
       "build-js-styles.css.map"
     ],
     "path---mistborn": [
-      "path---mistborn-cbbb203d98aebc2b4b5f.js",
-      "path---mistborn-cbbb203d98aebc2b4b5f.js.map"
+      "path---mistborn-ec4608a5d64560cd79a5.js",
+      "path---mistborn-ec4608a5d64560cd79a5.js.map"
     ],
     "path---reanimator": [
       "path---reanimator-7e8cebf897c83b85b932.js",
       "path---reanimator-7e8cebf897c83b85b932.js.map"
     ],
     "path---stormlight-archive": [
-      "path---stormlight-archive-48877c83708397dc49c0.js",
-      "path---stormlight-archive-48877c83708397dc49c0.js.map"
+      "path---stormlight-archive-a8842878611291e1ded1.js",
+      "path---stormlight-archive-a8842878611291e1ded1.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---search": [
-      "path---search-6882d45f4ef2c3b5ec5c.js",
-      "path---search-6882d45f4ef2c3b5ec5c.js.map"
+      "path---search-64f94ede9c441ed288c7.js",
+      "path---search-64f94ede9c441ed288c7.js.map"
     ],
     "path---tags-deck-review": [
       "path---tags-deck-review-4487d475d4ed0c0dfd32.js",

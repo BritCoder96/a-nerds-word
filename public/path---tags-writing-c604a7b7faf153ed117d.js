@@ -1,0 +1,2 @@
+webpackJsonp([0x8d48b3dc74ce],{441:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Long Awaited Updates Part 1: Rebranding, Unbounded, Coronavirus",path:"/long-awaited-updates-part-1"}}}]}},pathContext:{tag:"Writing"}}}});
+//# sourceMappingURL=path---tags-writing-c604a7b7faf153ed117d.js.map
