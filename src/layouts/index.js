@@ -61,7 +61,7 @@ const TemplateWrapper = ({ children }) => (
     <Helmet
       title="A Nerd's Word"
       meta={[
-        { name: "description", content: "Bryan's Blog about all things nerdy." },
+        { name: "description", content: "Bradley's Blog about all things nerdy." },
         { name: "keywords", content: "Blog, Magic, MTG, Software, Games, Anime, TV, Books," }
       ]}
 
@@ -117,7 +117,7 @@ const TemplateWrapper = ({ children }) => (
                 />
                 <Sidebar
                   title="About The Author"
-                  description="Bryan Benson is a full-stack software engineer, writer, and all-around nerdy guy."
+                  description="Bradley Woods is a full-stack software engineer, writer, and all-around nerdy guy."
                 />
               </div>
             </div>
@@ -133,8 +133,8 @@ const TemplateWrapper = ({ children }) => (
       <footer>
         <a href="https://github.com/BritCoder96/a-nerds-word" target="_blank">Source Code</a>
         <div></div>
-        <a href="https://www.facebook.com/bryan.benson.9634" target="_blank">Contact me on Facebook!</a>
-        <div>Copyright © 2018 Bryan Joshua Benson. All Rights Reserved.</div>
+        <a href="https://www.facebook.com/bradleywoodsauthor/" target="_blank">Contact me on Facebook!</a>
+        <div>Copyright © 2020 Bradley Woods. All Rights Reserved.</div>
       </footer>
     </div>
   </div>
