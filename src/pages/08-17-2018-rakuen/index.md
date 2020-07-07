@@ -30,4 +30,4 @@ Anyway, if you want an RPG with a moving story and impactful characters, I would
 
 That's all for today!
 
--- Bryan 
+-- Bradley 

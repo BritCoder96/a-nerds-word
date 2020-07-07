@@ -27,4 +27,4 @@ If you can stomach it, though, I would highly recommend Psycho Pass. It's a thou
 
 That's all for now! See you next time!
 
--- Bryan
+-- Bradley

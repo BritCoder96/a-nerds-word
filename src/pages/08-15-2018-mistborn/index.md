@@ -28,4 +28,4 @@ One more thing - without giving too much away, the second trilogy takes place in
 
 That's all for today. See you next time!
 
--- Bryan
+-- Bradley

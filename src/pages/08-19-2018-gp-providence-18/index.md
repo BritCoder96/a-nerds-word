@@ -25,4 +25,4 @@ Anyway, I had a blast at the event, and while none of my friends made day two of
 
 See you next time!
 
--- Bryan
+-- Bradley

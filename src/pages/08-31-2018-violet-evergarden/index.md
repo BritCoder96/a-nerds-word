@@ -21,4 +21,4 @@ Anyway, I'd highly recommend Violet Evergarden for people who want to feel all t
 
 That's it for now! See you next time!
 
--- Bryan
+-- Bradley

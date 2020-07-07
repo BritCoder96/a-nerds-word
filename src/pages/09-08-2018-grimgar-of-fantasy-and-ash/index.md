@@ -27,4 +27,4 @@ The piano intro is what really gets me. I, at least, think it's quite good.
 
 Anyway, that's all for now - I'd highly recommend Grimgar if you like character-driven fantasy stories. See you next time!
 
--- Bryan
+-- Bradley

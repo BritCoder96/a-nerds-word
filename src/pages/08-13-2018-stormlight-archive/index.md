@@ -27,4 +27,4 @@ Anyway, I would *highly* recommend these books. Sanderson weaves words and world
 
 Till next time!
 
--- Bryan
+-- Bradley

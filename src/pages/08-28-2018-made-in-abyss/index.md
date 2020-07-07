@@ -20,4 +20,4 @@ I personally loved the show, which won Crunchyroll's Anime of the Year award for
 That's all for today! See you next time!
 
 
--- Bryan
+-- Bradley

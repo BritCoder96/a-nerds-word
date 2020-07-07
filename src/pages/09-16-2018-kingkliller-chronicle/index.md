@@ -23,4 +23,4 @@ The second book in trilogy is *A Wise Man's Fear*, and the novella, from the per
 
 Anyway, that's all for now. See you next week!
 
--- Bryan
+-- Bradley

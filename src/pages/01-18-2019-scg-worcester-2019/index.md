@@ -24,4 +24,4 @@ I had a blast at the event, and I hope to be able to visit some of my friends wh
 
 Thanks for reading, and see you next time!
 
--- Bryan
+-- Bradley

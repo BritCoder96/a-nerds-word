@@ -4,7 +4,7 @@ date: "2018-06-24T13:00:00.962Z"
 title: "Hello, World!"
 tags: ["Intro", "Personal", "Life"]
 ------
-Hi! My name's Bryan, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.
+Hi! My name's Bradley, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.
 
 I'll be using this blog to post about some of the things I love - namely, board games, Magic: The Gathering, anime, and sci-fi/fantasy literature and tv/movies.
 
