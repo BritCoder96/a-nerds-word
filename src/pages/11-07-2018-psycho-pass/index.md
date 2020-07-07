@@ -2,7 +2,7 @@
 path: "/psycho-pass"
 date: "2018-11-07T18:00:00.962Z"
 title: "Life Update and Psycho Pass"
-tags: ["Anime Review", "Anime", "Life", "Personal"]
+tags: ["Anime Review", "Anime", "Life", "Personal", "Writing"]
 ------
 
 ![alt text](https://s3.amazonaws.com/a-nerds-word/psycho_pass.jpg "Psycho Pass")

@@ -2,11 +2,11 @@ import React from "react";
 import PropTypes from "prop-types";
 import Link from "gatsby-link";
 import Helmet from "react-helmet";
-import Search from "../pages/search"
+//import Search from "../pages/search"
 import "./index.css";
 import "../styles/layout-overide.css";
-import AdSense from 'react-adsense';
-import GoogleAd from '../templates/google_ad';
+//import AdSense from 'react-adsense';
+//import GoogleAd from '../templates/google_ad';
 
 import Media from "react-media";
 const style = {
@@ -52,21 +52,20 @@ const Sidebar = props => (
       marginBottom: "25px"
     }}
   >
-    <strong>{props.title}.</strong> {props.description}
+    <strong>{props.title}</strong> {props.description}
   </div>
 );
 
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="A Nerd's Word"
+      title="A Nerd's Word"Link
       meta={[
-        { name: "description", content: "Bradley's Blog about all things nerdy." },
+        { name: "description", content: "Brad's Blog about all things nerdy." },
         { name: "keywords", content: "Blog, Magic, MTG, Software, Games, Anime, TV, Books," }
       ]}
 
     />
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <Header />
     <div
       style={{
@@ -117,23 +116,20 @@ const TemplateWrapper = ({ children }) => (
                 />
                 <Sidebar
                   title="About The Author"
-                  description="Bradley Woods is a full-stack software engineer, author, and all-around nerdy guy."
+                  description={<p>Bradley Woods is a full-stack software engineer, author, and all-around nerdy guy. His debut novel, Unbounded, is available <a href='http://amazon.com/dp/B0873YKZ5J' target='_blank'>here</a>.</p>}
+                />
+                <Sidebar
+                  title={<Link to="/tags">Browse All Tags</Link>}
+                  description=""
                 />
               </div>
             </div>
           )
         }
       </Media>
-      <GoogleAd 
-            client="ca-pub-7802158485711596" 
-            slot="7806394673" 
-            format="auto" 
-            wrapperDivStyle={style}
-          />
       <footer>
-        <a href="https://github.com/BritCoder96/a-nerds-word" target="_blank">Source Code</a>
+        <a href="https://github.com/BritCoder96/a-nerds-word" target="_blank">Source Code</a> | <a href="https://www.facebook.com/bradleywoodsauthor/" target="_blank">Contact me on Facebook</a> | <a href="https://twitter.com/bradwoodsbooks" target="_blank">Follow me on Twitter</a> | <a href='http://amazon.com/dp/B0873YKZ5J' target='_blank'>Buy my book</a> | <a href='https://bradleywoodsauthor.github.io/' target='_blank'>Website</a>
         <div></div>
-        <a href="https://www.facebook.com/bradleywoodsauthor/" target="_blank">Contact me on Facebook!</a>
         <div>Copyright © 2020 Bradley Woods. All Rights Reserved.</div>
       </footer>
     </div>

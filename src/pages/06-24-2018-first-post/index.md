@@ -2,7 +2,7 @@
 path: "/hello-world"
 date: "2018-06-24T13:00:00.962Z"
 title: "Hello, World!"
-tags: ["Intro", "Personal", "Life"]
+tags: ["Intro", "Personal", "Life", "Writing"]
 ------
 Hi! My name's Bradley, and this is my blog. I'll put a bit of an overview of what I'll be doing here in this first post.
 
