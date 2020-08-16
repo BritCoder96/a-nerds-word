@@ -1001,12 +1001,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2020-07-07T19:32:40.895Z",
+      "buildTime": "2020-08-16T16:53:08.549Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bb6dfd682a678f8d2cccc43c58f9bbfb",
+        "contentDigest": "567332c3e53665bb1f9d4e8f5b18966a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1016,7 +1016,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "58e73e715e3e3ab254f6068ad3a117cc",
+        "contentDigest": "f45a36c200e9b7f5588ca3301badeba7",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1027,9 +1027,9 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2020-07-07T18:30:27.080Z",
-      "accessTime": "2020-07-07T18:30:27.180Z",
-      "changeTime": "2020-07-07T18:30:27.080Z",
+      "modifiedTime": "2020-08-16T02:45:10.437Z",
+      "accessTime": "2020-08-16T02:45:10.537Z",
+      "changeTime": "2020-08-16T02:45:10.437Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
       "dir": "/home/bryan/a-nerds-word/src",
@@ -1039,20 +1039,20 @@
       "relativeDirectory": "..",
       "dev": 2053,
       "mode": 16877,
-      "nlink": 25,
+      "nlink": 26,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
       "ino": 14029375,
       "blocks": 8,
-      "atimeMs": 1594146627179.8052,
-      "mtimeMs": 1594146627079.807,
-      "ctimeMs": 1594146627079.807,
+      "atimeMs": 1597545910537.081,
+      "mtimeMs": 1597545910437.0806,
+      "ctimeMs": 1597545910437.0806,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T18:30:27.180Z",
-      "mtime": "2020-07-07T18:30:27.080Z",
-      "ctime": "2020-07-07T18:30:27.080Z",
+      "atime": "2020-08-16T02:45:10.537Z",
+      "mtime": "2020-08-16T02:45:10.437Z",
+      "ctime": "2020-08-16T02:45:10.437Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
     },
     "/home/bryan/a-nerds-word/src/pages/01-05-2019-birthright absPath of file": {
@@ -1060,7 +1060,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "45cf242da3f37b06b45918bc8b7cf108",
+        "contentDigest": "17a156f229d1db92e8b02b689d130a22",
         "type": "Directory",
         "description": "Directory \"src/pages/01-05-2019-birthright\"",
         "owner": "gatsby-source-filesystem"
@@ -1072,7 +1072,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2019-01-05T14:45:05.815Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2019-01-05T14:45:05.815Z",
       "birthTime": "2019-01-05T14:44:58.712Z",
       "root": "/",
@@ -1090,11 +1090,11 @@
       "blksize": 4096,
       "ino": 15078044,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1546699505815.3596,
       "ctimeMs": 1546699505815.3596,
       "birthtimeMs": 1546699498711.8262,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2019-01-05T14:45:05.815Z",
       "ctime": "2019-01-05T14:45:05.815Z",
       "birthtime": "2019-01-05T14:44:58.712Z"
@@ -1104,7 +1104,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "dcd0ede605f7afba39ac703c75deb7c4",
+        "contentDigest": "b5d9b777e5e888b3c29bd5df5d0cc372",
         "type": "Directory",
         "description": "Directory \"src/pages/06-24-2018-birthright-sao-and-more\"",
         "owner": "gatsby-source-filesystem"
@@ -1116,7 +1116,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2020-07-07T00:35:39.817Z",
-      "accessTime": "2020-07-07T00:35:40.521Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2020-07-07T00:35:39.817Z",
       "birthTime": "2020-07-07T00:35:05.059Z",
       "root": "/",
@@ -1134,11 +1134,11 @@
       "blksize": 4096,
       "ino": 14173337,
       "blocks": 8,
-      "atimeMs": 1594082140520.8296,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1594082139816.8745,
       "ctimeMs": 1594082139816.8745,
       "birthtimeMs": 1594082105058.7896,
-      "atime": "2020-07-07T00:35:40.521Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2020-07-07T00:35:39.817Z",
       "ctime": "2020-07-07T00:35:39.817Z",
       "birthtime": "2020-07-07T00:35:05.059Z"
@@ -1148,7 +1148,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b0d5e0d123e4aaaec6cb14adac475800",
+        "contentDigest": "848a11eb849a621ecab8aceb6781b672",
         "type": "Directory",
         "description": "Directory \"src/pages/01-18-2019-scg-worcester-2019\"",
         "owner": "gatsby-source-filesystem"
@@ -1160,7 +1160,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2019-01-18T22:28:04.798Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2019-01-18T22:28:04.798Z",
       "birthTime": "2019-01-18T22:27:53.426Z",
       "root": "/",
@@ -1178,11 +1178,11 @@
       "blksize": 4096,
       "ino": 14424735,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1547850484797.9067,
       "ctimeMs": 1547850484797.9067,
       "birthtimeMs": 1547850473425.8577,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2019-01-18T22:28:04.798Z",
       "ctime": "2019-01-18T22:28:04.798Z",
       "birthtime": "2019-01-18T22:27:53.426Z"
@@ -1192,7 +1192,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "222023658d0ca8366f8daec8ccb157b4",
+        "contentDigest": "bb5dcbf5ffaf07062a1592fdb21e28ab",
         "type": "Directory",
         "description": "Directory \"src/pages/06-24-2018-broken-earth\"",
         "owner": "gatsby-source-filesystem"
@@ -1204,7 +1204,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1222,11 +1222,11 @@
       "blksize": 4096,
       "ino": 14029376,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1236,7 +1236,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "04c9bdaec83818767258338c8a79533e",
+        "contentDigest": "4a25960370e640224315177649df8780",
         "type": "Directory",
         "description": "Directory \"src/pages/06-24-2018-first-post\"",
         "owner": "gatsby-source-filesystem"
@@ -1247,9 +1247,9 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
-      "changeTime": "2018-12-10T02:14:24.305Z",
+      "modifiedTime": "2020-07-07T19:34:56.748Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
+      "changeTime": "2020-07-07T19:34:56.748Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
       "dir": "/home/bryan/a-nerds-word/src/pages",
@@ -1266,13 +1266,13 @@
       "blksize": 4096,
       "ino": 14029378,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
-      "mtimeMs": 1544408064305.208,
-      "ctimeMs": 1544408064305.208,
+      "atimeMs": 1597545732196.2883,
+      "mtimeMs": 1594150496747.8396,
+      "ctimeMs": 1594150496747.8396,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
-      "mtime": "2018-12-10T02:14:24.305Z",
-      "ctime": "2018-12-10T02:14:24.305Z",
+      "atime": "2020-08-16T02:42:12.196Z",
+      "mtime": "2020-07-07T19:34:56.748Z",
+      "ctime": "2020-07-07T19:34:56.748Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
     },
     "/home/bryan/a-nerds-word/src/pages/06-25-2018-badlands absPath of file": {
@@ -1280,7 +1280,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "58737fcef45894362e1d04e9e8c46a07",
+        "contentDigest": "366e27a5c05ab6859c5f473f75b465ad",
         "type": "Directory",
         "description": "Directory \"src/pages/06-25-2018-badlands\"",
         "owner": "gatsby-source-filesystem"
@@ -1292,7 +1292,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1310,11 +1310,11 @@
       "blksize": 4096,
       "ino": 14029380,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1324,7 +1324,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "57c783388abf8346513dd1f307720fcc",
+        "contentDigest": "ea640ab3ad739cc240ef20f941512990",
         "type": "Directory",
         "description": "Directory \"src/pages/07-01-2018-reanimator\"",
         "owner": "gatsby-source-filesystem"
@@ -1336,7 +1336,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1354,11 +1354,11 @@
       "blksize": 4096,
       "ino": 14029382,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1368,7 +1368,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7f3c814239948d65cf886756c2959e03",
+        "contentDigest": "a7fdbd4446708966b2899188dfc84845",
         "type": "Directory",
         "description": "Directory \"src/pages/07-04-2018-edgar\"",
         "owner": "gatsby-source-filesystem"
@@ -1380,7 +1380,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1398,11 +1398,11 @@
       "blksize": 4096,
       "ino": 14029384,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1412,7 +1412,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0129545e585b5d23f531303a2fa7cd2d",
+        "contentDigest": "5e14bf99023bab5e1ab3f6ef46bd7856",
         "type": "Directory",
         "description": "Directory \"src/pages/07-06-2018-dresden-files\"",
         "owner": "gatsby-source-filesystem"
@@ -1424,7 +1424,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1442,11 +1442,11 @@
       "blksize": 4096,
       "ino": 14029386,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1456,7 +1456,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6340914e03751155c443a463925dede5",
+        "contentDigest": "2b0d88473d21623982d62f3cbaff9e97",
         "type": "Directory",
         "description": "Directory \"src/pages/07-07-2020-long-awaited-updates-part-1\"",
         "owner": "gatsby-source-filesystem"
@@ -1467,10 +1467,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2020-07-07T18:30:41.832Z",
-      "accessTime": "2020-07-07T18:30:42.436Z",
-      "changeTime": "2020-07-07T18:30:41.832Z",
-      "birthTime": "2020-07-07T18:30:27.080Z",
+      "modifiedTime": "2020-07-07T19:34:56.748Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
+      "changeTime": "2020-07-07T19:34:56.748Z",
+      "birthTime": "2020-07-07T19:34:56.748Z",
       "root": "/",
       "dir": "/home/bryan/a-nerds-word/src/pages",
       "base": "07-07-2020-long-awaited-updates-part-1",
@@ -1478,7 +1478,7 @@
       "name": "07-07-2020-long-awaited-updates-part-1",
       "relativeDirectory": "",
       "dev": 2053,
-      "mode": 16893,
+      "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
@@ -1486,21 +1486,21 @@
       "blksize": 4096,
       "ino": 7225076,
       "blocks": 8,
-      "atimeMs": 1594146642435.5408,
-      "mtimeMs": 1594146641831.5513,
-      "ctimeMs": 1594146641831.5513,
-      "birthtimeMs": 1594146627079.807,
-      "atime": "2020-07-07T18:30:42.436Z",
-      "mtime": "2020-07-07T18:30:41.832Z",
-      "ctime": "2020-07-07T18:30:41.832Z",
-      "birthtime": "2020-07-07T18:30:27.080Z"
+      "atimeMs": 1597545732196.2883,
+      "mtimeMs": 1594150496747.8396,
+      "ctimeMs": 1594150496747.8396,
+      "birthtimeMs": 1594150496747.8396,
+      "atime": "2020-08-16T02:42:12.196Z",
+      "mtime": "2020-07-07T19:34:56.748Z",
+      "ctime": "2020-07-07T19:34:56.748Z",
+      "birthtime": "2020-07-07T19:34:56.748Z"
     },
     "/home/bryan/a-nerds-word/src/pages/07-20-2018-to-the-moon absPath of file": {
       "id": "/home/bryan/a-nerds-word/src/pages/07-20-2018-to-the-moon absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "877aa74d6d71ab803205e583d7c92be2",
+        "contentDigest": "a3ecce339f47f9397a860c5755f2db9e",
         "type": "Directory",
         "description": "Directory \"src/pages/07-20-2018-to-the-moon\"",
         "owner": "gatsby-source-filesystem"
@@ -1512,7 +1512,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1530,11 +1530,11 @@
       "blksize": 4096,
       "ino": 14029390,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1544,7 +1544,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "338e7b45370e5da7ae3cc183fe4f7aac",
+        "contentDigest": "4cc2bf190bf742cc32fd42cf4b5c1c04",
         "type": "Directory",
         "description": "Directory \"src/pages/08-13-2018-recreators\"",
         "owner": "gatsby-source-filesystem"
@@ -1556,7 +1556,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1574,11 +1574,11 @@
       "blksize": 4096,
       "ino": 14029392,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1588,7 +1588,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a4ab8dee68509197f680e975c6fb80c3",
+        "contentDigest": "64d8920244f509cfe378769c9978736e",
         "type": "Directory",
         "description": "Directory \"src/pages/07-17-2018-scg-worcester-18\"",
         "owner": "gatsby-source-filesystem"
@@ -1600,7 +1600,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1618,11 +1618,11 @@
       "blksize": 4096,
       "ino": 14029388,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1632,7 +1632,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f8748d91535fbd28ecdab7a6f7f444ba",
+        "contentDigest": "c4e277aff4e191e0d63f2eeff5ece2fa",
         "type": "Directory",
         "description": "Directory \"src/pages/08-13-2018-stormlight-archive\"",
         "owner": "gatsby-source-filesystem"
@@ -1644,7 +1644,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1662,11 +1662,11 @@
       "blksize": 4096,
       "ino": 14029394,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1676,7 +1676,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "aef72b272cc736c3b463f078bd5a6cba",
+        "contentDigest": "1ce171261929eee63227a1d1172db7ee",
         "type": "Directory",
         "description": "Directory \"src/pages/08-15-2018-mistborn\"",
         "owner": "gatsby-source-filesystem"
@@ -1688,7 +1688,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1706,11 +1706,11 @@
       "blksize": 4096,
       "ino": 14029396,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1720,7 +1720,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9ed681ee2c7161f31b9ea1eabadb6a77",
+        "contentDigest": "bcd22536df7448789e2504ffc6d00ef1",
         "type": "Directory",
         "description": "Directory \"src/pages/08-17-2018-rakuen\"",
         "owner": "gatsby-source-filesystem"
@@ -1732,7 +1732,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1750,11 +1750,11 @@
       "blksize": 4096,
       "ino": 14029398,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1764,7 +1764,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e9f658aa34f21e851bf416a714b31827",
+        "contentDigest": "aa22437c1b9f3f16ced524fd1838ddc3",
         "type": "Directory",
         "description": "Directory \"src/pages/08-19-2018-gp-providence-18\"",
         "owner": "gatsby-source-filesystem"
@@ -1776,7 +1776,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1794,11 +1794,11 @@
       "blksize": 4096,
       "ino": 14029400,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1808,7 +1808,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5214410cf49f5fc87c19d4589a0109d2",
+        "contentDigest": "bc8bb6925e281e9ec7481ca51331095b",
         "type": "Directory",
         "description": "Directory \"src/pages/08-28-2018-made-in-abyss\"",
         "owner": "gatsby-source-filesystem"
@@ -1820,7 +1820,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1838,11 +1838,11 @@
       "blksize": 4096,
       "ino": 14029402,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1852,7 +1852,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b322fa5667d225422fede6ba1f0b397a",
+        "contentDigest": "6d321bbe3bcea68eac230040d2064d9b",
         "type": "Directory",
         "description": "Directory \"src/pages/09-08-2018-grimgar-of-fantasy-and-ash\"",
         "owner": "gatsby-source-filesystem"
@@ -1864,7 +1864,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1882,11 +1882,11 @@
       "blksize": 4096,
       "ino": 14029406,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1896,7 +1896,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a6e4ad6a6babb7990f40e5381e66a1bc",
+        "contentDigest": "8252ec5bbd47d4304d1efa6c36cc6d62",
         "type": "Directory",
         "description": "Directory \"src/pages/08-31-2018-violet-evergarden\"",
         "owner": "gatsby-source-filesystem"
@@ -1908,7 +1908,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1926,11 +1926,11 @@
       "blksize": 4096,
       "ino": 14029404,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1940,7 +1940,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e9d4828138a859e05877808457397feb",
+        "contentDigest": "1e841e119ea701ca8783110b478ba30d",
         "type": "Directory",
         "description": "Directory \"src/pages/09-16-2018-kingkliller-chronicle\"",
         "owner": "gatsby-source-filesystem"
@@ -1952,7 +1952,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2018-12-10T02:14:24.305Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
@@ -1970,11 +1970,11 @@
       "blksize": 4096,
       "ino": 14029408,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1544408064305.208,
       "ctimeMs": 1544408064305.208,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-10T02:14:24.305Z",
       "ctime": "2018-12-10T02:14:24.305Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
@@ -1984,7 +1984,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a6390b1ab0046622fe7bb6d2448f9892",
+        "contentDigest": "d6f716e1e82bcce004382d7495aeb227",
         "type": "Directory",
         "description": "Directory \"src/pages/11-07-2018-psycho-pass\"",
         "owner": "gatsby-source-filesystem"
@@ -1995,9 +1995,9 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-12-10T02:14:24.305Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
-      "changeTime": "2018-12-10T02:14:24.305Z",
+      "modifiedTime": "2020-07-07T19:34:56.748Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
+      "changeTime": "2020-07-07T19:34:56.748Z",
       "birthTime": "2018-12-10T02:14:24.305Z",
       "root": "/",
       "dir": "/home/bryan/a-nerds-word/src/pages",
@@ -2014,13 +2014,13 @@
       "blksize": 4096,
       "ino": 14029410,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
-      "mtimeMs": 1544408064305.208,
-      "ctimeMs": 1544408064305.208,
+      "atimeMs": 1597545732196.2883,
+      "mtimeMs": 1594150496747.8396,
+      "ctimeMs": 1594150496747.8396,
       "birthtimeMs": 1544408064305.208,
-      "atime": "2020-07-07T00:33:05.014Z",
-      "mtime": "2018-12-10T02:14:24.305Z",
-      "ctime": "2018-12-10T02:14:24.305Z",
+      "atime": "2020-08-16T02:42:12.196Z",
+      "mtime": "2020-07-07T19:34:56.748Z",
+      "ctime": "2020-07-07T19:34:56.748Z",
       "birthtime": "2018-12-10T02:14:24.305Z"
     },
     "/home/bryan/a-nerds-word/src/pages/12-18-2018-birthright-sao-and-more absPath of file": {
@@ -2028,7 +2028,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "98155d1b909b58dfc7b4cb31b38789b8",
+        "contentDigest": "e77020399b4079f4ac2b16bfa59545e0",
         "type": "Directory",
         "description": "Directory \"src/pages/12-18-2018-birthright-sao-and-more\"",
         "owner": "gatsby-source-filesystem"
@@ -2040,7 +2040,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-12-18T22:20:30.088Z",
-      "accessTime": "2020-07-07T00:33:05.014Z",
+      "accessTime": "2020-08-16T02:42:12.196Z",
       "changeTime": "2019-03-10T16:09:36.688Z",
       "birthTime": "2018-12-18T22:20:21.532Z",
       "root": "/",
@@ -2058,11 +2058,11 @@
       "blksize": 4096,
       "ino": 15210099,
       "blocks": 8,
-      "atimeMs": 1594081985013.5417,
+      "atimeMs": 1597545732196.2883,
       "mtimeMs": 1545171630088.247,
       "ctimeMs": 1552234176687.6304,
       "birthtimeMs": 1545171621532.2434,
-      "atime": "2020-07-07T00:33:05.014Z",
+      "atime": "2020-08-16T02:42:12.196Z",
       "mtime": "2018-12-18T22:20:30.088Z",
       "ctime": "2019-03-10T16:09:36.688Z",
       "birthtime": "2018-12-18T22:20:21.532Z"
@@ -3802,12 +3802,13 @@
         "/home/bryan/a-nerds-word/src/pages/11-07-2018-psycho-pass/index.md absPath of file >>> MarkdownRemark",
         "/home/bryan/a-nerds-word/src/pages/12-18-2018-birthright-sao-and-more/index.md absPath of file >>> MarkdownRemark",
         "/home/bryan/a-nerds-word/src/pages/06-24-2018-first-post/index.md absPath of file >>> MarkdownRemark",
-        "/home/bryan/a-nerds-word/src/pages/11-07-2018-psycho-pass/index.md absPath of file >>> MarkdownRemark"
+        "/home/bryan/a-nerds-word/src/pages/11-07-2018-psycho-pass/index.md absPath of file >>> MarkdownRemark",
+        "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2/index.md absPath of file >>> MarkdownRemark"
       ],
       "internal": {
         "type": "SiteSearchIndex",
-        "content": "\"/home/bryan/a-nerds-word/src/pages/11-07-2018-psycho-pass/index.md absPath of file >>> MarkdownRemark\"",
-        "contentDigest": "22a9763c3e2f7af2003c07c68e6638fd",
+        "content": "\"/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2/index.md absPath of file >>> MarkdownRemark\"",
+        "contentDigest": "e0f92e22e7d0a1e445a5c83082adc8e4",
         "owner": "@andrew-codes/gatsby-plugin-elasticlunr-search"
       }
     },
@@ -3894,6 +3895,145 @@
       "rawMarkdownBody": "---\n\n![alt text](https://s3.amazonaws.com/a-nerds-word/psycho_pass.jpg \"Psycho Pass\")\n\nWelcome back! I know it's been a while since I last posted. I've been super busy with work, for the most part, but I've also been working on a couple of other side projects, which I'd like to make a bit of an announcement here about. First, my debut novel has been sent out to my second round of beta readers, and I'm hoping to send it to publishers within the next few months.\n\nOn top of that, I started work on my second novel at the end of September, and I finished the first draft a couple of days ago! I'm really pysched about it, and it's certainly been keeping me busy on my commute to work :)\n\nAnyway, today's blog post is about a cyberpunk dystopian anime called Psycho Pass. It's fairly well known in the anime community, but I only got around to watching it over the last few weeks.\n\nThe basic premise is that, in the 2100s, the world is ruled by an overseeing body called the Sibyl System. Every person's brain is contantly scanned for their Psycho Pass, which is a score that determines how likely you are to commit a crime in the future. The Sibyl system also judges what profession a person will take up after graduating high school, as well as a myriad of other decisions, leaving a kind of utopia of luxury where the citizens don't have anything to worry about.\n\nOf course, like most of these shows, things aren't as great as they seem. There are still crimes that occur, and people who are determined by Sibyl to be latent criminals are brutally imprisoned or murdered by the police, lest they commit actual crimes in the future. The show mainly follows Akane Tsunemori, a fresh-faced police officer who doesn't quite approve of how things are done. The police force, which is severely understaffed due to the influence of Sibyl, is made up of inspectors, who have a clear psycho pass, and enforcers, who are latent criminals but have been deemed proficient for the job by the system.\n\nAkane is an inspector, and it soon becomes clear to her that Sibyl isn't the perfect system that everyone seems to think it is.\n\nI won't say anything more about the plot due to spoilers, but what I can say is that this show is fantastic. It really shows the way people tend to think with the flock and get used to comfort, despite obvious downsides. The characters are interesting and believable, and like any good cop show, the suspense keeps you on your toes.\n\nThat said, the show is very dark, and, while animated, extremely violent. Many people die in horrifying, gruesome ways, so if that isn't your cup of tea, this show isn't for you.\n\nIf you can stomach it, though, I would highly recommend Psycho Pass. It's a thought-provoking show that really gets your heart pumping.\n\nThat's all for now! See you next time!\n\n-- Bradley",
       "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/11-07-2018-psycho-pass/index.md"
     },
+    "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2 absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a781be0acfd5ab9396226483862eb099",
+        "type": "Directory",
+        "description": "Directory \"src/pages/08-16-2020-long-awaited-updates-part-2\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2",
+      "relativePath": "08-16-2020-long-awaited-updates-part-2",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2020-07-07T19:34:56.748Z",
+      "accessTime": "2020-08-16T02:45:10.537Z",
+      "changeTime": "2020-08-16T02:45:10.437Z",
+      "birthTime": "2020-08-16T02:44:28.009Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages",
+      "base": "08-16-2020-long-awaited-updates-part-2",
+      "ext": "",
+      "name": "08-16-2020-long-awaited-updates-part-2",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5512578,
+      "blocks": 8,
+      "atimeMs": 1597545910537.081,
+      "mtimeMs": 1594150496747.839,
+      "ctimeMs": 1597545910437.0806,
+      "birthtimeMs": 1597545868008.8914,
+      "atime": "2020-08-16T02:45:10.537Z",
+      "mtime": "2020-07-07T19:34:56.748Z",
+      "ctime": "2020-08-16T02:45:10.437Z",
+      "birthtime": "2020-08-16T02:44:28.009Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2/index.md absPath of file": {
+      "id": "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2/index.md absPath of file",
+      "children": [
+        "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "03a89e15ef10a189a81ada7ff9fd11de",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/08-16-2020-long-awaited-updates-part-2/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2/index.md",
+      "relativePath": "08-16-2020-long-awaited-updates-part-2/index.md",
+      "extension": "md",
+      "size": 3305,
+      "prettySize": "3.31 kB",
+      "modifiedTime": "2020-08-16T16:53:04.402Z",
+      "accessTime": "2020-08-16T16:53:06.906Z",
+      "changeTime": "2020-08-16T16:53:04.402Z",
+      "birthTime": "2020-08-16T02:44:28.009Z",
+      "root": "/",
+      "dir": "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "08-16-2020-long-awaited-updates-part-2",
+      "dev": 2053,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5512586,
+      "blocks": 8,
+      "atimeMs": 1597596786905.607,
+      "mtimeMs": 1597596784401.594,
+      "ctimeMs": 1597596784401.594,
+      "birthtimeMs": 1597545868008.8914,
+      "atime": "2020-08-16T16:53:06.906Z",
+      "mtime": "2020-08-16T16:53:04.402Z",
+      "ctime": "2020-08-16T16:53:04.402Z",
+      "birthtime": "2020-08-16T02:44:28.009Z"
+    },
+    "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2/index.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/long-awaited-updates-part-2\"\ndate: \"2020-08-16T13:00:00.962Z\"\ntitle: \"Long Awaited Updates Part 2: Unbounded, Peace Talks, Brandon Sanderson, and The City We Became\"\ntags: [\"Life\", \"Book Review\", \"Personal\", \"Writing\"]\n------\n![alt text](https://images-na.ssl-images-amazon.com/images/I/91GopjssTaL.jpg \"Peace Talks, by Jim Butcher\")\n\nIt took a bit longer than I'd hoped, but I'm back again! \n\nAs promised, I've got some updates related to the new *Dresden Files* book, as well as another book I'm reading by the author of the *Broken Earth* Trilogy, N.K. Jemisin: *The City We Became*. I'll also be talking a bit about the video lectures that Brandon Sanderson put on YouTube on creative writing.\n\nA quick update on my novel, [*Unbounded*](http://amazon.com/dp/B0873YKZ5J): I've been steadily getting more readers and more followers online, to almost 1500 followers on Twitter as of today. Thanks so much for all your support, and I hope you continue to enjoy my work!\n\nThe latest installment of the *Dresden Files* by Jim Butcher, [*Peace Talks*](https://www.amazon.com/dp/B07SZLRHMT), was filled with the normal humor, action, fantastical lore, and gritty nail-baiting tension that the series is known for. It was an enjoyable, fast-paced read. But it also felt like the book served as a revolving door of cameos from the long list of cast members from the series. It was fun to see them all again, but most of the encounters were brief. So much so, in fact, that the encounters began to feel a bit forced at times, and detracted from the overall pull of the plot. I'd still recommend it as a fan of the series, but fair warning: it does very much end in a cliffhanger, so be prepared to wait for the next book to continue the story!\n\nAs for the Brandon Sanderson [lectures](https://www.youtube.com/watch?v=-6HOdHEeosc), I've watched a few of them, and they're highly enjoyable! He's got a really great way of engaging with the audience and making them feel at home, often cracking jokes and causing the room to explode into laughter. For example, a quote from the first lecture: \n> *If your goal isn't to become a professional writer, but you like writing, you are welcome here. If you've never written anything in your life, you are welcome here. If you thought you signed up for Chem 107 and came in here and thought \"oh god I'm surrounded by nerds\" you are welcome here!*\n\nIf you have any desire to write or just want to hear from a successful author, I'd highly recommend Sanderson's videos. They're a blast, and you might learn some things too.\n\nFinally, I've made a previous post on N.K. Jemisin's *Broken Earth* trilogy [which you can read here](http://www.a-nerds-word.com/broken-earth), and I'll soon be making another post about her recent book [*The City We Became*](https://www.amazon.com/City-We-Became-N-Jemisin-ebook/dp/B07MFKQDJM). The hook from the Amazon page: **Every great city has a soul. Some are ancient as myths, and others are as new and destructive as children. New York? She's got six.** I haven't finished reading the book yet, but I've really been loving the story, characters, and world. Plus, as a native New Yorker, it definitely hits the spot! I'll be posting a review for it at some point soon, so stay tuned, and stay safe!\n\n\nUntil next time,\n\n-- Bradley",
+        "type": "MarkdownRemark",
+        "contentDigest": "b5b8a32df4bb6c228870dc9ca4bd6e57",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Long Awaited Updates Part 2: Unbounded, Peace Talks, Brandon Sanderson, and The City We Became",
+        "path": "/long-awaited-updates-part-2",
+        "date": "2020-08-16T13:00:00.962Z",
+        "tags": [
+          "Life",
+          "Book Review",
+          "Personal",
+          "Writing"
+        ],
+        "_PARENT": "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2/index.md absPath of file",
+        "parent": "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "---\n![alt text](https://images-na.ssl-images-amazon.com/images/I/91GopjssTaL.jpg \"Peace Talks, by Jim Butcher\")\n\nIt took a bit longer than I'd hoped, but I'm back again! \n\nAs promised, I've got some updates related to the new *Dresden Files* book, as well as another book I'm reading by the author of the *Broken Earth* Trilogy, N.K. Jemisin: *The City We Became*. I'll also be talking a bit about the video lectures that Brandon Sanderson put on YouTube on creative writing.\n\nA quick update on my novel, [*Unbounded*](http://amazon.com/dp/B0873YKZ5J): I've been steadily getting more readers and more followers online, to almost 1500 followers on Twitter as of today. Thanks so much for all your support, and I hope you continue to enjoy my work!\n\nThe latest installment of the *Dresden Files* by Jim Butcher, [*Peace Talks*](https://www.amazon.com/dp/B07SZLRHMT), was filled with the normal humor, action, fantastical lore, and gritty nail-baiting tension that the series is known for. It was an enjoyable, fast-paced read. But it also felt like the book served as a revolving door of cameos from the long list of cast members from the series. It was fun to see them all again, but most of the encounters were brief. So much so, in fact, that the encounters began to feel a bit forced at times, and detracted from the overall pull of the plot. I'd still recommend it as a fan of the series, but fair warning: it does very much end in a cliffhanger, so be prepared to wait for the next book to continue the story!\n\nAs for the Brandon Sanderson [lectures](https://www.youtube.com/watch?v=-6HOdHEeosc), I've watched a few of them, and they're highly enjoyable! He's got a really great way of engaging with the audience and making them feel at home, often cracking jokes and causing the room to explode into laughter. For example, a quote from the first lecture: \n> *If your goal isn't to become a professional writer, but you like writing, you are welcome here. If you've never written anything in your life, you are welcome here. If you thought you signed up for Chem 107 and came in here and thought \"oh god I'm surrounded by nerds\" you are welcome here!*\n\nIf you have any desire to write or just want to hear from a successful author, I'd highly recommend Sanderson's videos. They're a blast, and you might learn some things too.\n\nFinally, I've made a previous post on N.K. Jemisin's *Broken Earth* trilogy [which you can read here](http://www.a-nerds-word.com/broken-earth), and I'll soon be making another post about her recent book [*The City We Became*](https://www.amazon.com/City-We-Became-N-Jemisin-ebook/dp/B07MFKQDJM). The hook from the Amazon page: **Every great city has a soul. Some are ancient as myths, and others are as new and destructive as children. New York? She's got six.** I haven't finished reading the book yet, but I've really been loving the story, characters, and world. Plus, as a native New Yorker, it definitely hits the spot! I'll be posting a review for it at some point soon, so stay tuned, and stay safe!\n\n\nUntil next time,\n\n-- Bradley",
+      "fileAbsolutePath": "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2/index.md"
+    },
+    "SitePage /long-awaited-updates-part-2": {
+      "layout": "index",
+      "jsonName": "long-awaited-updates-part-2.json",
+      "internalComponentName": "ComponentLongAwaitedUpdatesPart2",
+      "path": "/long-awaited-updates-part-2",
+      "component": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/bryan/a-nerds-word/src/templates/blog-post.js",
+      "id": "SitePage /long-awaited-updates-part-2",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bb8737b02fedd74bc2d0bdf42bd37496",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /long-awaited-updates-part-1": {
       "layout": "index",
       "jsonName": "long-awaited-updates-part-1.json",
@@ -3910,7 +4050,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f53466c8b6cac8d1ba4216d75aa60ffe",
+        "contentDigest": "fe82fecd850364914a65b2ff0ff3231e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3931,7 +4071,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8fbdeee675a0ae4f6b6381352f5a021e",
+        "contentDigest": "a27e719dec95014941d16524ade88b83",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3952,7 +4092,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d10a4201d83a34c44fba9d31278288f8",
+        "contentDigest": "222ee583296323de915d52fd894e491c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3973,7 +4113,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "088578eda0ccd27a87a5c18bdf30b2ee",
+        "contentDigest": "ea45086de0db87ed4472adb2ac4bffa3",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3994,7 +4134,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2b4f7ddb8640d520dddfdae876fe84c2",
+        "contentDigest": "1081606123c60ac7b8572bd852a3dd17",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4015,7 +4155,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9d033cc0f7ae883c3eeb3376b54b2e34",
+        "contentDigest": "f040b10b3bcd0c76306ae29918916b47",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4036,7 +4176,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c38dac0727970584a5f492c13111ba60",
+        "contentDigest": "b886fa7a82823d24352e8711832d2458",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4057,7 +4197,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b1bbd01e91aee1ac2a66ae798e37146e",
+        "contentDigest": "3cbed5e12f82bc710e12a73c53814025",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4078,7 +4218,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d7a53e65f99b41779535b0a59c464f20",
+        "contentDigest": "2636a9dcd78d7080619a151268e10e95",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4099,7 +4239,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3a44f08aa425b267aa99bfc1c573739e",
+        "contentDigest": "2f375bef20937da08487a741215458f9",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4120,7 +4260,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "791cdc4e52fe76d8a2057cbbd047d441",
+        "contentDigest": "48092794553d46e52dd8da58c543b3a6",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4141,7 +4281,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dfcbd89b634d4ead689891d123a03b4a",
+        "contentDigest": "22f1587a5cb5c612fa5c3102e8a328f1",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4162,7 +4302,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c9807305e84a4a30582c79679d418f1e",
+        "contentDigest": "3af279f9c55d256d9d103c4275dbda59",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4183,7 +4323,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "193466e3f5e4885e1b5809b3fea2ca2f",
+        "contentDigest": "c840e74c41d87e5c939d654516300d1b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4204,7 +4344,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "09fbb1d0b00bebd006b395a4d7213282",
+        "contentDigest": "ee3b982cbe1e74abdcc2182e197ac71d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4225,7 +4365,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "34cc2a13951801323f4212f7d4fc483d",
+        "contentDigest": "f10eb704e4d0263e49e4fd3c8591e5e3",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4246,7 +4386,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e2d56113c16ae8fada55c68d7d7104e7",
+        "contentDigest": "316664ae0c835a49705a1a4a33fac717",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4267,7 +4407,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "472fb5fd430a515d724a94808edf8e0f",
+        "contentDigest": "2a52932be6fdf08b062bae4cc621ed4a",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4288,7 +4428,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "49499a3c70f0307c518f7f36efd30edb",
+        "contentDigest": "27e10cd12a40baa9f1b621631fdc3d91",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4309,7 +4449,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "12ffd89b7a4c6b7805280fd9f0da579a",
+        "contentDigest": "b88c6c9117a94fe7e694533bfd6421c8",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4330,7 +4470,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9c57073b01187403aba884ec4709347e",
+        "contentDigest": "5c3344082b77a98585f83a80ea51821a",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4351,7 +4491,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ff21440412e0e1859bd7ef89e572e05a",
+        "contentDigest": "44215a1c17383b7b80f8a7db57da5e7e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4374,7 +4514,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "911f385b079012c7e40ee77a928d326a",
+        "contentDigest": "dc59ce6b55b3189107f8dffee1a26338",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4397,7 +4537,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "51c61abd736d2697ecfe84aa876219e4",
+        "contentDigest": "50fd5b8b03cbddbb159efd704fac9cf0",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4420,7 +4560,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9996e049c3440babaeda8e2e402b81df",
+        "contentDigest": "c945f57d73ac31ab7b1951937d9e19ae",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4443,7 +4583,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cc5ccd1513c7cb824ed446032fa8f6ce",
+        "contentDigest": "123e94627c4eee2029054643114ad250",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4466,7 +4606,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5aec9610ee3f38f279eb00db50307f36",
+        "contentDigest": "a3ab7784481cdc48bf5360e05ecfde8b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4489,7 +4629,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e4fec94249497e18f56e211f165f98ac",
+        "contentDigest": "2ec0e3edb45ed4524c3b3e8ca498fc4f",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4512,7 +4652,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "63dfd8204ed01d812f777a6511a4c5e6",
+        "contentDigest": "3dbfc5e1abcae98c131882492f0a2ea6",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4535,7 +4675,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8a032454dcea67e73cf45e153ce51c54",
+        "contentDigest": "b09070b1efd4ac4e97aacd9c3c2ec436",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4558,7 +4698,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d8f8cb682e0c573ee9a00ab5f51bb90a",
+        "contentDigest": "21cc119da3e9eee9c6c911cfb0fc5846",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4581,7 +4721,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e29d8d2160bc203f5bc9f112e948a830",
+        "contentDigest": "60d018e148608665015cc707baa07266",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4604,7 +4744,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6de93c4a09e64e3872c29e44289a68e3",
+        "contentDigest": "7d6b069db5b174b9c0d82f5d3e63d469",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4627,7 +4767,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "463533a517a56e09ffb7d044e34118e3",
+        "contentDigest": "0ab87a2dda00aa5f738ab82adc18ee49",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4650,7 +4790,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "27b594c2e001e12d984713dd034c05c8",
+        "contentDigest": "f39ae9b863a0f87f8a9d1e36bdc70ee4",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4673,7 +4813,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "21435dcf2ad3e4c077e7976d55ac9973",
+        "contentDigest": "893ad2ac48bb7b6aa3a4e367b0cf3094",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4696,7 +4836,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6cebd3010e400523b2f1bdd8a5ff7a94",
+        "contentDigest": "3892a1f54eeced5d679d7c4355b3de7a",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4719,7 +4859,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a5dfb42806240f5d4aaffd0f1c6a9798",
+        "contentDigest": "9459f81e5b6c94aa3ef69f188fca96fa",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4742,7 +4882,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7f65a8b7cee34c06a0bbb4cf9de7b937",
+        "contentDigest": "4df4553fe5b052d28df9f14b206f5b9d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4763,7 +4903,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e29885a0c871228e8fefceb74b65e182",
+        "contentDigest": "cfffc7bd53ede11aecee71528aaedb91",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4784,7 +4924,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8b13e81bf477ed3b518691bb78cd3af6",
+        "contentDigest": "f4844f8a9c1f9eb50074a1b5bea60ca8",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4805,7 +4945,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c90941c61b204ded5a9004eecce85e5e",
+        "contentDigest": "a14fd8b4aae2ae6cc2edff1285ddbe6a",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4826,7 +4966,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b6bf72c5a042589b669222a9e9e52fe3",
+        "contentDigest": "d38d4c1755b847f4386eb39940aeb52c",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4847,7 +4987,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "28ccae7b27d60bc2f7d21d4bb73ed4c6",
+        "contentDigest": "1c6de523d4146c05d43948159d9770b5",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -4930,6 +5070,9 @@
       ],
       "Site": [
         "/tags/"
+      ],
+      "/home/bryan/a-nerds-word/src/pages/08-16-2020-long-awaited-updates-part-2/index.md absPath of file >>> MarkdownRemark": [
+        "/long-awaited-updates-part-2"
       ]
     },
     "connections": {

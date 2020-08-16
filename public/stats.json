@@ -25,8 +25,8 @@
       "path---birthright-18c5f6ea8183627884f7.js.map"
     ],
     "path---tags-personal": [
-      "path---tags-personal-a1132125e76f6ab2ec1e.js",
-      "path---tags-personal-a1132125e76f6ab2ec1e.js.map"
+      "path---tags-personal-794b52fd8b126db9756f.js",
+      "path---tags-personal-794b52fd8b126db9756f.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-bec00470fcdd03bc8377.js",
@@ -41,8 +41,12 @@
       "component---src-templates-tags-js-5a33cc1c242464672fa8.js.map"
     ],
     "path---tags": [
-      "path---tags-f662c562e322606d550f.js",
-      "path---tags-f662c562e322606d550f.js.map"
+      "path---tags-b07853b947413227f8ad.js",
+      "path---tags-b07853b947413227f8ad.js.map"
+    ],
+    "path---long-awaited-updates-part-2": [
+      "path---long-awaited-updates-part-2-dcf4d9b380e8836b6773.js",
+      "path---long-awaited-updates-part-2-dcf4d9b380e8836b6773.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -53,8 +57,8 @@
       "path---rakuen-3e771153e37e0824bcaf.js.map"
     ],
     "path---tags-book-review": [
-      "path---tags-book-review-8f755d4510830761eaac.js",
-      "path---tags-book-review-8f755d4510830761eaac.js.map"
+      "path---tags-book-review-66fa49b4e7be124757f0.js",
+      "path---tags-book-review-66fa49b4e7be124757f0.js.map"
     ],
     "path---badlands": [
       "path---badlands-6481209b3dea0acc2026.js",
@@ -97,8 +101,8 @@
       "path---tags-card-review-48ad158a5925a3b0deb0.js.map"
     ],
     "path---index": [
-      "path---index-023857f962d9cc206669.js",
-      "path---index-023857f962d9cc206669.js.map"
+      "path---index-a79de8ffc8e519106446.js",
+      "path---index-a79de8ffc8e519106446.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-899e2388c071b1605ac4.js",
@@ -117,8 +121,8 @@
       "path---tags-worldbuilding-b6d8a88124bab159542c.js.map"
     ],
     "path---tags-writing": [
-      "path---tags-writing-3bfc22a287fc0896175e.js",
-      "path---tags-writing-3bfc22a287fc0896175e.js.map"
+      "path---tags-writing-4ba52f77f66831abbb02.js",
+      "path---tags-writing-4ba52f77f66831abbb02.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-069f4547b3b5ad7646c1.js",
@@ -179,13 +183,13 @@
       "path---kingkiller-e329b2edf495b0b6b821.js.map"
     ],
     "path---tags-life": [
-      "path---tags-life-987c14b150aa97df8cbc.js",
-      "path---tags-life-987c14b150aa97df8cbc.js.map"
+      "path---tags-life-e85086a514904a662d72.js",
+      "path---tags-life-e85086a514904a662d72.js.map"
     ],
     "app": [
-      "app-97dc17e334baa45340fb.js",
+      "app-81e91c75c88c7ad9fabf.js",
       "build-js-styles.css",
-      "app-97dc17e334baa45340fb.js.map",
+      "app-81e91c75c88c7ad9fabf.js.map",
       "build-js-styles.css.map"
     ],
     "path---mistborn": [
