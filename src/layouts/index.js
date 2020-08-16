@@ -128,7 +128,7 @@ const TemplateWrapper = ({ children }) => (
         }
       </Media>
       <footer>
-        <a href="https://github.com/BritCoder96/a-nerds-word" target="_blank">Source Code</a> | <a href="https://www.facebook.com/bradleywoodsauthor/" target="_blank">Contact me on Facebook</a> | <a href="https://twitter.com/bradwoodsbooks" target="_blank">Follow me on Twitter</a> | <a href='http://amazon.com/dp/B0873YKZ5J' target='_blank'>Buy my book</a> | <a href='https://bradleywoodsauthor.github.io/' target='_blank'>Website</a>
+        <a href="https://www.facebook.com/bradleywoodsauthor/" target="_blank">Contact me on Facebook</a> | <a href="https://twitter.com/bradwoodsbooks" target="_blank">Follow me on Twitter</a> | <a href='http://amazon.com/dp/B0873YKZ5J' target='_blank'>Buy my book</a> | <a href='https://bradleywoodsauthor.github.io/' target='_blank'>Website</a>
         <div></div>
         <div>Copyright © 2020 Bradley Woods. All Rights Reserved.</div>
       </footer>
