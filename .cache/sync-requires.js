@@ -17,6 +17,7 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/home/bryan/a-nerds-word/.cache/json/layout-index.json"),
+  "long-awaited-updates-part-3.json": require("/home/bryan/a-nerds-word/.cache/json/long-awaited-updates-part-3.json"),
   "long-awaited-updates-part-2.json": require("/home/bryan/a-nerds-word/.cache/json/long-awaited-updates-part-2.json"),
   "long-awaited-updates-part-1.json": require("/home/bryan/a-nerds-word/.cache/json/long-awaited-updates-part-1.json"),
   "scg-worcester-19.json": require("/home/bryan/a-nerds-word/.cache/json/scg-worcester-19.json"),
