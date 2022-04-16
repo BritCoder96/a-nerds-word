@@ -116,7 +116,7 @@ const TemplateWrapper = ({ children }) => (
                 />
                 <Sidebar
                   title="About The Author"
-                  description={<p>Bradley Woods is a full-stack software engineer, author, and all-around nerdy guy. His debut novel, Unbounded, is available <a href='https://amazon.com/dp/B0873YKZ5J' target='_blank'>here</a>, and you can visit his website <a href='https://bradleywoodsauthor.com' target='_blank'>here</a>.</p>}
+                  description={<p>Bradley Woods is a full-stack software engineer, author, and all-around nerdy guy. His debut novel, <i>Unbounded</i>, is available <a href='https://amazon.com/dp/B0873YKZ5J' target='_blank'>here</a>, and you can visit his website <a href='https://bradleywoodsauthor.com' target='_blank'>here</a>.</p>}
                 />
                 <Sidebar
                   title={<Link to="/tags">Browse All Tags</Link>}
@@ -128,7 +128,7 @@ const TemplateWrapper = ({ children }) => (
         }
       </Media>
       <footer>
-        <a href="https://www.facebook.com/bradleywoodsauthor/" target="_blank">Contact me on Facebook</a> | <a href="https://twitter.com/bradwoodsbooks" target="_blank">Follow me on Twitter</a> | <a href='https://amazon.com/dp/B0873YKZ5J' target='_blank'>Buy my book</a> | <a href='https://bradleywoodsauthor.com' target='_blank'>Website</a>
+        <a href="https://www.facebook.com/bradleywoodsauthor/" target="_blank">Contact me on Facebook</a> | <a href="https://twitter.com/bradwoodsbooks" target="_blank">Follow me on Twitter</a> | <a href='https://amazon.com/dp/B0873YKZ5J' target='_blank'>Buy <i>Unbounded</i></a> | <a href='https://www.amazon.com/dp/B09XHDLFSQ' target='_blank'>Buy <i>R.A.C.H.E.L. Undying</i></a> | <a href='https://bradleywoodsauthor.com' target='_blank'>Website</a>
         <div></div>
         <div>Copyright © 2020 Bradley Woods. All Rights Reserved.</div>
       </footer>
