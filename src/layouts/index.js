@@ -130,7 +130,7 @@ const TemplateWrapper = ({ children }) => (
       <footer>
         <a href="https://www.facebook.com/bradleywoodsauthor/" target="_blank">Contact me on Facebook</a> | <a href="https://twitter.com/bradwoodsbooks" target="_blank">Follow me on Twitter</a> | <a href='https://amazon.com/dp/B0873YKZ5J' target='_blank'>Buy Unbounded</a> | <a href='https://www.amazon.com/dp/B09XHDLFSQ' target='_blank'>Buy R.A.C.H.E.L. Undying</a> | <a href='https://bradleywoodsauthor.com' target='_blank'>Website</a>
         <div></div>
-        <div>Copyright © <script>{new Date().getFullYear()} Bradley Woods. All Rights Reserved.</div>
+        <div>Copyright © <script>{new Date().getFullYear()}</script> Bradley Woods. All Rights Reserved.</div>
       </footer>
     </div>
   </div>
