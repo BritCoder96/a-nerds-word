@@ -8,9 +8,9 @@ tags: ["Life", "Book Review", "Personal", "Writing"]
 
 After another long haitus, I've returned to my blog! I know it's been ages, and to be honest I've been busy enough (more on that in a minute) that my posts will probably continue to come out only every couple of months or so, but I promise I'll keep putting out content when I can. 
 
-Before I delve into more of my reviews, a bit of personal news as part of the reason I've been so busy: in addition to my day job as a software engineer and some freelance work I've been doing, a bit over a month ago I finally finished the manuscript for my next novel! Check out the cover art below and a link to the book itself [here](https://www.amazon.com/gp/product/B09XHDLFSQ)!
+Before I delve into more of my reviews, a bit of personal news as part of the reason I've been so busy: in addition to my day job as a software engineer and some freelance work I've been doing, a bit over a month ago I finally finished the manuscript for my next novel, *R.A.C.H.E.L. Undying*! Check out the cover art below and a link to the book itself [here](https://www.amazon.com/gp/product/B09XHDLFSQ)!
 
-![alt text](https://www.bradleywoodsauthor.com/images/rachel_undying.webp "In lieu of a picture of my celebrating finishing my second manuscript, here's some pets celebrating instead!")
+![alt text](https://www.bradleywoodsauthor.com/images/rachel_undying.webp "In lieu of a picture of my celebrating finishing my second manuscript, here's a picture of the cover of *R.A.C.H.E.L. Undying* itself!")
 
 I spent a few weeks once the manuscript was done getting materials ready for querying publishers and agents (things like the synopsis, query letters, elevator pitches, etc.), and finally started sending them out a few weeks ago in time for [#PitMad](https://pitchwars.org/pitmad/)! PitMad is a Twitter event that happens quarterly every year as an avenue for unagented authors to pitch their manuscript to agents and publishers in 3 tweets in a single day. You can read more about it in the link above, but essentially if an agent or publisher likes your tweet, they're extra interested in your novel and want you to send them a query ASAP. It doesn't guarantee they'll accept it, but it does mean you'll probably bypass a lot of the slush pile and get closer to the front of the line than with traditional querying. 
 
