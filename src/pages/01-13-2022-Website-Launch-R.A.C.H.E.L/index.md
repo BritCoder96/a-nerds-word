@@ -5,7 +5,7 @@ title: "Long Awaited Updates Part 4: R.A.C.H.E.L. Undying Launch, New Website La
 tags: ["Life", "Personal", "Writing", "D&D"]
 ------
 
-![alt text](https://a-nerds-word.s3.amazonaws.com/rachel_undying.jpg "The cover of *R.A.C.H.E.L. Undying* itself!")
+![alt text](https://www.bradleywoodsauthor.com/images/rachel_undying.webp "In lieu of a picture of my celebrating finishing my second manuscript, here's a picture of the cover of *R.A.C.H.E.L. Undying* itself!")
 
 After my longest hiatus yet (yes, I know this is getting old), I've finally returned to my blog! It's been way too long. Time has warped way too much during the pandemic, and honestly it feels like time travel writing here from 2023 *cue back to the future music*. My life has become so busy lately and I haven't found the time to write blog posts in the last couple of years. But like the Terminator, I'll always be back.
 
