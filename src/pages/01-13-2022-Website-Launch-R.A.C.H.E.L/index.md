@@ -15,7 +15,7 @@ I'll start with a bit of catch up, then get into the details. Some exciting upda
 - I went to New York ComicCon and met Brandon Sanderson! More deets below, but here's a pic of us together:
 
 
-	![alt text](https://a-nerds-word.s3.amazonaws.com/brandon_sanderson.jpg "A pic with the author and Brandon Sanderson himself!")
+![alt text](https://a-nerds-word.s3.amazonaws.com/brandon_sanderson.jpg "A pic with the author and Brandon Sanderson himself!")
 
 - I launched my [TikTok](https://www.tiktok.com/@bradleywoodsauthor) and [Instagram](https://www.instagram.com/bradleywoodsauthor/) author accounts, and hit over 2750 followers on my [Twitter](https://twitter.com/bradwoodsbooks)
 - I started working on my third novel, the sequel to my first novel [*Unbounded*](http://amazon.com/dp/B0873YKZ5J)! 31k words in and counting! Back to the grind.
